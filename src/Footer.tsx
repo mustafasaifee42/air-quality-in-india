@@ -10,7 +10,7 @@ const Header: React.FunctionComponent<{
 }> = (props) => {
   return (
     <div className="footer">
-      <div className='email'>Please email me at <a href="mailto:ddj2020@protonmail.com" target="_blank" rel="noopener noreferrer">ddj2020@protonmail.com</a> for suggestions or queries</div>
+      <div className='email'>Please email me at <a href="mailto:saifee.mustafa@gmail.com" target="_blank" rel="noopener noreferrer">saifee.mustafa@gmail.com</a> for suggestions or queries</div>
       <div className='share'>
         <span className='footer-start'>You got all the way down here, consider sharing the <span aria-label="love-emoji" role="img">💖</span></span>
         <div className='icons'>
