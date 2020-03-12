@@ -1,0 +1,54 @@
+.table{
+    font-size: 14px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    line-height: 24px;
+    margin-top:20px;
+    width: 100%;
+}
+
+.thin{
+    min-width:25%;
+}
+
+.tableRow{
+    display: flex;
+    align-items: top;
+}
+.cell{
+    padding: 15px 10px;
+}
+
+.middleColumn{
+    border-left:1px solid rgba(255,255,255,0.65);
+    border-right:1px solid rgba(255,255,255,0.65);
+}
+.good{
+    background-color:#d4e8c1;
+    color:#414141
+}
+
+.moderate{
+    background-color:#f3c654;
+    color:#414141
+}
+
+.unhealthy-sensitive{
+    background-color:#f28124;
+    color:#414141
+}
+.unhealthy{
+    background-color:#c94227;
+    color:#fff
+    
+}
+
+.very-unhealthy{
+    background-color:#a42614;
+    color:#fff
+    
+}
+
+.hazardous{
+    background-color:#800000;
+    color:#fff
+}

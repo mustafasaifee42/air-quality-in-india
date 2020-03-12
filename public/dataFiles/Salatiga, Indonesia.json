@@ -1,0 +1,141 @@
+{
+  "city_ASCII": "Salatiga",
+  "country": "Indonesia",
+  "region": "Central Java",
+  "latitude": "-7.3319",
+  "longitude": "110.4928",
+  "data": [
+    {
+      "dayNo": 313,
+      "min": 25.8,
+      "max": 13.4,
+      "avg": 18.2
+    },
+    {
+      "dayNo": 314,
+      "min": 24.5,
+      "max": 13.8,
+      "avg": 19.3
+    },
+    {
+      "dayNo": 315,
+      "min": 23.9,
+      "max": 15.2,
+      "avg": 18.8
+    },
+    {
+      "dayNo": 316,
+      "min": 32.1,
+      "max": 17.9,
+      "avg": null
+    },
+    {
+      "dayNo": 317,
+      "min": 21.0,
+      "max": 14.0,
+      "avg": 16.8
+    },
+    {
+      "dayNo": 318,
+      "min": 16.5,
+      "max": 13.4,
+      "avg": 14.9
+    },
+    {
+      "dayNo": 319,
+      "min": 24.8,
+      "max": 10.9,
+      "avg": 15.6
+    },
+    {
+      "dayNo": 320,
+      "min": 18.4,
+      "max": 11.9,
+      "avg": 15.2
+    },
+    {
+      "dayNo": 321,
+      "min": 23.1,
+      "max": 15.0,
+      "avg": 18.4
+    },
+    {
+      "dayNo": 322,
+      "min": 17.1,
+      "max": 13.1,
+      "avg": null
+    },
+    {
+      "dayNo": 329,
+      "min": 20.6,
+      "max": 13.9,
+      "avg": null
+    },
+    {
+      "dayNo": 330,
+      "min": 29.9,
+      "max": 12.3,
+      "avg": 20.6
+    },
+    {
+      "dayNo": 331,
+      "min": 21.5,
+      "max": 12.0,
+      "avg": 17.6
+    },
+    {
+      "dayNo": 332,
+      "min": 18.4,
+      "max": 14.2,
+      "avg": 17.1
+    },
+    {
+      "dayNo": 333,
+      "min": 21.2,
+      "max": 15.3,
+      "avg": null
+    },
+    {
+      "dayNo": 336,
+      "min": 21.3,
+      "max": 10.6,
+      "avg": null
+    },
+    {
+      "dayNo": 337,
+      "min": 25.8,
+      "max": 12.5,
+      "avg": 17.7
+    },
+    {
+      "dayNo": 338,
+      "min": 22.6,
+      "max": 9.3,
+      "avg": 14.0
+    },
+    {
+      "dayNo": 339,
+      "min": 23.7,
+      "max": 12.8,
+      "avg": 16.8
+    },
+    {
+      "dayNo": 340,
+      "min": 21.2,
+      "max": 7.6,
+      "avg": 13.8
+    },
+    {
+      "dayNo": 341,
+      "min": 21.9,
+      "max": 8.3,
+      "avg": null
+    },
+    {
+      "dayNo": 343,
+      "min": 18.3,
+      "max": 17.7,
+      "avg": null
+    }
+  ]
+}

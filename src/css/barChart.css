@@ -1,0 +1,114 @@
+body{
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 400;
+  text-align: left;
+  word-break: break-word;
+  background-color: #fff;
+  color:#333;
+  font-family: 'IBM Plex Serif', serif;
+  margin: 0;
+}
+
+.bold{
+  font-weight: 700;
+}
+
+.italics{
+  font-style: italic;
+}
+
+.red{
+  color:rgb(224, 62, 62);
+}
+
+a{
+  color:rgb(224, 62, 62);
+  font-style: italic;
+  text-decoration: none;
+}
+
+a:hover{
+  font-weight: 700;
+}
+
+.container{
+  margin: auto;
+  max-width: 720px; 
+  margin-top: 20px;
+  padding:0 20px;
+}
+
+.quote{
+  font-size: 24px;
+  line-height: 36px;
+  margin: 30px 0;
+  padding-left: 15px;
+  border-left: 2px solid rgb(224, 62, 62);
+  font-style: italic;
+}
+
+.first-para{
+  margin-top: 40px;
+}
+
+.section-title{
+  background-color: #414141;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #fff;
+  padding: 10px;
+  margin: 40px 0;
+  font-size: 16px;
+  display: inline;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.subnote{
+  font-size: 16px;
+}
+
+ol{
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding-left: 20px;
+}
+    
+.content{
+  margin-top:30px;
+  margin-bottom: 50px;
+}
+
+.content-list{
+  margin: 10px 0;
+}
+
+.section{
+  margin-top: 50px;
+}
+
+
+.red{
+  color:rgb(224, 62, 62);
+}
+
+.barChart{
+  display:flex;
+  width:100%;
+  max-width: 920px;
+  flex-wrap: wrap;
+  margin:auto;
+}
+
+.graphTitle{
+  font-family:'IBM Plex Sans', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color:#414141;
+}
+
+.barChartBig{
+  padding:0 20px;
+  width: auto;
+}

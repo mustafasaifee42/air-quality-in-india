@@ -1,0 +1,255 @@
+{
+  "city_ASCII": "Polangui",
+  "country": "Philippines",
+  "region": "Bicol",
+  "latitude": "13.2923",
+  "longitude": "123.4855",
+  "data": [
+    {
+      "dayNo": 73,
+      "min": 23.5,
+      "max": 13.1,
+      "avg": null
+    },
+    {
+      "dayNo": 154,
+      "min": 11.5,
+      "max": 10.0,
+      "avg": null
+    },
+    {
+      "dayNo": 157,
+      "min": 13.4,
+      "max": 5.1,
+      "avg": null
+    },
+    {
+      "dayNo": 158,
+      "min": 19.4,
+      "max": 5.7,
+      "avg": null
+    },
+    {
+      "dayNo": 159,
+      "min": 19.8,
+      "max": 8.0,
+      "avg": null
+    },
+    {
+      "dayNo": 164,
+      "min": 19.6,
+      "max": 8.4,
+      "avg": null
+    },
+    {
+      "dayNo": 165,
+      "min": 22.1,
+      "max": 8.3,
+      "avg": null
+    },
+    {
+      "dayNo": 166,
+      "min": 29.2,
+      "max": 4.2,
+      "avg": null
+    },
+    {
+      "dayNo": 167,
+      "min": 42.7,
+      "max": 9.0,
+      "avg": null
+    },
+    {
+      "dayNo": 168,
+      "min": 29.3,
+      "max": 9.3,
+      "avg": null
+    },
+    {
+      "dayNo": 185,
+      "min": 39.3,
+      "max": 12.0,
+      "avg": null
+    },
+    {
+      "dayNo": 186,
+      "min": 43.2,
+      "max": 4.6,
+      "avg": 22.9
+    },
+    {
+      "dayNo": 187,
+      "min": 45.4,
+      "max": 5.2,
+      "avg": 15.5
+    },
+    {
+      "dayNo": 188,
+      "min": 41.4,
+      "max": 5.8,
+      "avg": 18.4
+    },
+    {
+      "dayNo": 189,
+      "min": 49.5,
+      "max": 2.2,
+      "avg": 19.1
+    },
+    {
+      "dayNo": 190,
+      "min": 56.9,
+      "max": 11.2,
+      "avg": null
+    },
+    {
+      "dayNo": 196,
+      "min": 16.9,
+      "max": 16.8,
+      "avg": null
+    },
+    {
+      "dayNo": 197,
+      "min": 39.3,
+      "max": 25.3,
+      "avg": null
+    },
+    {
+      "dayNo": 198,
+      "min": 34.1,
+      "max": 16.0,
+      "avg": null
+    },
+    {
+      "dayNo": 200,
+      "min": 218.1,
+      "max": 17.0,
+      "avg": 38.2
+    },
+    {
+      "dayNo": 201,
+      "min": 57.4,
+      "max": 26.5,
+      "avg": null
+    },
+    {
+      "dayNo": 203,
+      "min": 49.9,
+      "max": 7.5,
+      "avg": 21.7
+    },
+    {
+      "dayNo": 204,
+      "min": 37.9,
+      "max": 10.8,
+      "avg": null
+    },
+    {
+      "dayNo": 213,
+      "min": 11.9,
+      "max": 10.6,
+      "avg": null
+    },
+    {
+      "dayNo": 214,
+      "min": 20.0,
+      "max": 17.5,
+      "avg": null
+    },
+    {
+      "dayNo": 220,
+      "min": 25.4,
+      "max": 2.2,
+      "avg": null
+    },
+    {
+      "dayNo": 221,
+      "min": 12.6,
+      "max": 6.6,
+      "avg": null
+    },
+    {
+      "dayNo": 226,
+      "min": 22.7,
+      "max": 13.4,
+      "avg": null
+    },
+    {
+      "dayNo": 227,
+      "min": 25.6,
+      "max": 11.5,
+      "avg": null
+    },
+    {
+      "dayNo": 228,
+      "min": 19.5,
+      "max": 5.2,
+      "avg": null
+    },
+    {
+      "dayNo": 229,
+      "min": 25.5,
+      "max": 2.3,
+      "avg": 7.8
+    },
+    {
+      "dayNo": 230,
+      "min": 18.1,
+      "max": 2.3,
+      "avg": null
+    },
+    {
+      "dayNo": 231,
+      "min": 7.1,
+      "max": 2.1,
+      "avg": null
+    },
+    {
+      "dayNo": 239,
+      "min": 10.7,
+      "max": 3.5,
+      "avg": null
+    },
+    {
+      "dayNo": 240,
+      "min": 13.4,
+      "max": 5.0,
+      "avg": null
+    },
+    {
+      "dayNo": 249,
+      "min": 20.7,
+      "max": 2.6,
+      "avg": 8.1
+    },
+    {
+      "dayNo": 250,
+      "min": 10.0,
+      "max": 3.7,
+      "avg": 6.4
+    },
+    {
+      "dayNo": 251,
+      "min": 8.7,
+      "max": 2.1,
+      "avg": 5.2
+    },
+    {
+      "dayNo": 252,
+      "min": 7.5,
+      "max": 2.3,
+      "avg": null
+    },
+    {
+      "dayNo": 253,
+      "min": 19.3,
+      "max": 2.6,
+      "avg": 8.0
+    },
+    {
+      "dayNo": 254,
+      "min": 6.7,
+      "max": 2.7,
+      "avg": 2.9
+    }
+  ]
+}

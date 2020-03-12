@@ -1,0 +1,95 @@
+.particleUnit{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  flex-wrap:wrap;
+}
+
+.particleDiv{
+  height:600px;
+}
+
+.content-with-viz{
+  margin-bottom: 0px !important;
+}
+
+.figureNote{
+  font-size: 14px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.react-dropdown-select{
+  margin:10px 0;
+  background-color: #eee;
+  font-weight: bold;
+}
+.particleDiv{
+  border-right: 2px solid #414141;
+  border-top: 1px solid #aaa;
+  border-bottom: 1px solid #aaa;
+}
+
+.particleDiv:first-of-type{
+  border: 1px solid #aaa;
+  border-right: 2px solid #414141;
+}
+.particleDiv:nth-of-type(4) {
+  border: 1px solid #aaa;
+  border-left: 0;
+}
+
+.textDiv{
+  position: relative;
+  top: -365px;
+  text-align: center;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+}
+
+.textDivWithSelector{
+  position: relative;
+  top: -375px;
+  text-align: center;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+}
+.textDiv1{
+  background-color: rgba(255,255,255,0.85);
+  padding: 10px;
+  max-width: 260px;
+}
+
+@media screen and (max-width: 1000px) {
+  .particleDiv{
+    height:400px;
+  }
+  .textDiv{
+    top: -260px;
+  }
+  
+  .textDivWithSelector{
+    top: -270px;
+  }
+
+  .particleDiv {
+    border: 0;
+    border-bottom: 1px solid #414141;
+  }
+  .particleDiv:nth-of-type(4) {
+    border: 0;
+    border-bottom: 1px solid #414141;
+  }
+  .particleDiv:first-of-type{    
+    border: 0;
+    border-bottom: 1px solid #414141;
+    border-top: 1px solid #414141
+  }
+}

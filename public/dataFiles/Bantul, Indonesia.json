@@ -1,0 +1,141 @@
+{
+  "city_ASCII": "Bantul",
+  "country": "Indonesia",
+  "region": "Yogyakarta",
+  "latitude": "-7.8881",
+  "longitude": "110.3289",
+  "data": [
+    {
+      "dayNo": 313,
+      "min": 24.1,
+      "max": 12.9,
+      "avg": 17.6
+    },
+    {
+      "dayNo": 314,
+      "min": 24.1,
+      "max": 13.0,
+      "avg": 18.5
+    },
+    {
+      "dayNo": 315,
+      "min": 23.8,
+      "max": 14.8,
+      "avg": 18.3
+    },
+    {
+      "dayNo": 316,
+      "min": 31.7,
+      "max": 17.4,
+      "avg": null
+    },
+    {
+      "dayNo": 317,
+      "min": 21.2,
+      "max": 13.3,
+      "avg": 16.4
+    },
+    {
+      "dayNo": 318,
+      "min": 15.6,
+      "max": 12.8,
+      "avg": 14.4
+    },
+    {
+      "dayNo": 319,
+      "min": 23.9,
+      "max": 10.3,
+      "avg": 15.2
+    },
+    {
+      "dayNo": 320,
+      "min": 18.1,
+      "max": 11.6,
+      "avg": 14.8
+    },
+    {
+      "dayNo": 321,
+      "min": 23.0,
+      "max": 14.5,
+      "avg": 18.1
+    },
+    {
+      "dayNo": 322,
+      "min": 16.7,
+      "max": 12.4,
+      "avg": null
+    },
+    {
+      "dayNo": 329,
+      "min": 20.3,
+      "max": 13.6,
+      "avg": null
+    },
+    {
+      "dayNo": 330,
+      "min": 30.7,
+      "max": 12.3,
+      "avg": 20.4
+    },
+    {
+      "dayNo": 331,
+      "min": 21.5,
+      "max": 11.8,
+      "avg": 17.4
+    },
+    {
+      "dayNo": 332,
+      "min": 18.2,
+      "max": 14.4,
+      "avg": 17.0
+    },
+    {
+      "dayNo": 333,
+      "min": 21.7,
+      "max": 15.4,
+      "avg": null
+    },
+    {
+      "dayNo": 336,
+      "min": 21.2,
+      "max": 10.2,
+      "avg": null
+    },
+    {
+      "dayNo": 337,
+      "min": 25.9,
+      "max": 11.9,
+      "avg": 17.6
+    },
+    {
+      "dayNo": 338,
+      "min": 23.0,
+      "max": 8.9,
+      "avg": 13.8
+    },
+    {
+      "dayNo": 339,
+      "min": 24.1,
+      "max": 12.5,
+      "avg": 16.6
+    },
+    {
+      "dayNo": 340,
+      "min": 21.4,
+      "max": 7.2,
+      "avg": 13.6
+    },
+    {
+      "dayNo": 341,
+      "min": 22.6,
+      "max": 8.2,
+      "avg": null
+    },
+    {
+      "dayNo": 343,
+      "min": 18.4,
+      "max": 17.9,
+      "avg": null
+    }
+  ]
+}

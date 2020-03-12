@@ -1,0 +1,10 @@
+.graphTitle{
+    margin-top: 13px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.graphContainer{
+    padding: 0 20px;
+}

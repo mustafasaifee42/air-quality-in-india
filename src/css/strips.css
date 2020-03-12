@@ -1,0 +1,13 @@
+.strips{
+    margin:auto;
+    margin-top: 5px;
+}
+
+.headArea{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cityName{
+    font-family: 'IBM Plex Sans', sans-serif;
+}

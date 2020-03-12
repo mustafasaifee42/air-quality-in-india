@@ -1,0 +1,39 @@
+{
+  "city_ASCII": "Yogyakarta",
+  "country": "Indonesia",
+  "region": "Yogyakarta",
+  "latitude": "-7.8014",
+  "longitude": "110.3647",
+  "data": [
+    {
+      "dayNo": 313,
+      "min": 14.5,
+      "max": 14.5,
+      "avg": null
+    },
+    {
+      "dayNo": 315,
+      "min": 23.6,
+      "max": 14.8,
+      "avg": null
+    },
+    {
+      "dayNo": 316,
+      "min": 30.0,
+      "max": 17.4,
+      "avg": null
+    },
+    {
+      "dayNo": 317,
+      "min": 17.1,
+      "max": 17.1,
+      "avg": null
+    },
+    {
+      "dayNo": 322,
+      "min": 16.7,
+      "max": 13.0,
+      "avg": 14.4
+    }
+  ]
+}

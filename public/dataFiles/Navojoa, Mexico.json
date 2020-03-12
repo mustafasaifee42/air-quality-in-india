@@ -1,0 +1,15 @@
+{
+  "city_ASCII": "Navojoa",
+  "country": "Mexico",
+  "region": "Sonora",
+  "latitude": "27.0703",
+  "longitude": "-109.4437",
+  "data": [
+    {
+      "dayNo": 290,
+      "min": 4.6,
+      "max": 4.4,
+      "avg": 4.4
+    }
+  ]
+}

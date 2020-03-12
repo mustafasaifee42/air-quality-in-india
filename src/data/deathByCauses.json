@@ -1,0 +1,62 @@
+[
+  {
+    "key": "Dietary risks",
+    "value": 1573595,
+    "min_value": 1397073,
+    "max_value": 1763630
+  },
+  {
+    "key": "High BP",
+    "value": 1544920,
+    "min_value": 1373691,
+    "max_value": 1712537
+  },
+  {
+    "key": "Air pollution",
+    "value": 1240529,
+    "min_value": 1002660,
+    "max_value": 1455322
+  },
+  {
+    "key": "Tobacco",
+    "value": 1113421,
+    "min_value": 953045,
+    "max_value": 1281860
+  },
+  {
+    "key": "High glucose",
+    "value": 1003225,
+    "min_value": 777248,
+    "max_value": 1304854
+  },
+  {
+    "key": "Malnutrition",
+    "value": 726817,
+    "min_value": 650381,
+    "max_value": 815841
+  },
+  {
+    "key": "Unsafe water",
+    "value": 698597,
+    "min_value": 463643,
+    "max_value": 1076004
+  },
+  {
+    "key": "Cholesterol",
+    "value": 669195,
+    "min_value": 535068,
+    "max_value": 822809
+  },
+  {
+    "key": "Alcohol use",
+    "value": 580499,
+    "min_value": 395072,
+    "max_value": 788023
+  },
+  {
+    "key": "Obeisity",
+    "value": 532151,
+    "min_value": 309870,
+    "max_value": 796002
+  }
+]

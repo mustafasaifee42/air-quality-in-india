@@ -1,0 +1,1557 @@
+{
+  "city_ASCII": "Udipi",
+  "country": "India",
+  "region": "Karnataka",
+  "latitude": "13.3347",
+  "longitude": "74.7462",
+  "data": [
+    {
+      "dayNo": 1,
+      "min": 65.2,
+      "max": 31.9,
+      "avg": 48.0
+    },
+    {
+      "dayNo": 2,
+      "min": 60.9,
+      "max": 26.3,
+      "avg": 45.9
+    },
+    {
+      "dayNo": 3,
+      "min": 65.7,
+      "max": 26.9,
+      "avg": 43.1
+    },
+    {
+      "dayNo": 4,
+      "min": 66.3,
+      "max": 31.9,
+      "avg": 46.0
+    },
+    {
+      "dayNo": 5,
+      "min": 68.0,
+      "max": 25.7,
+      "avg": 48.1
+    },
+    {
+      "dayNo": 7,
+      "min": 55.6,
+      "max": 35.2,
+      "avg": null
+    },
+    {
+      "dayNo": 8,
+      "min": 80.1,
+      "max": 33.7,
+      "avg": 51.3
+    },
+    {
+      "dayNo": 9,
+      "min": 73.8,
+      "max": 33.1,
+      "avg": 55.9
+    },
+    {
+      "dayNo": 10,
+      "min": 72.5,
+      "max": 37.1,
+      "avg": 59.2
+    },
+    {
+      "dayNo": 11,
+      "min": 90.9,
+      "max": 39.1,
+      "avg": 62.6
+    },
+    {
+      "dayNo": 12,
+      "min": 123.2,
+      "max": 38.9,
+      "avg": 70.3
+    },
+    {
+      "dayNo": 13,
+      "min": 115.9,
+      "max": 38.0,
+      "avg": 59.1
+    },
+    {
+      "dayNo": 14,
+      "min": 66.6,
+      "max": 38.4,
+      "avg": 49.6
+    },
+    {
+      "dayNo": 15,
+      "min": 82.1,
+      "max": 34.1,
+      "avg": 49.0
+    },
+    {
+      "dayNo": 16,
+      "min": 68.3,
+      "max": 45.6,
+      "avg": 59.2
+    },
+    {
+      "dayNo": 17,
+      "min": 82.1,
+      "max": 44.7,
+      "avg": 62.5
+    },
+    {
+      "dayNo": 18,
+      "min": 75.2,
+      "max": 42.0,
+      "avg": 55.8
+    },
+    {
+      "dayNo": 19,
+      "min": 100.5,
+      "max": 39.7,
+      "avg": 53.4
+    },
+    {
+      "dayNo": 20,
+      "min": 86.4,
+      "max": 30.7,
+      "avg": 53.0
+    },
+    {
+      "dayNo": 21,
+      "min": 68.0,
+      "max": 27.5,
+      "avg": 46.1
+    },
+    {
+      "dayNo": 22,
+      "min": 67.8,
+      "max": 35.3,
+      "avg": 49.9
+    },
+    {
+      "dayNo": 23,
+      "min": 65.5,
+      "max": 36.3,
+      "avg": 51.7
+    },
+    {
+      "dayNo": 24,
+      "min": 59.8,
+      "max": 37.9,
+      "avg": 46.3
+    },
+    {
+      "dayNo": 25,
+      "min": 63.2,
+      "max": 33.6,
+      "avg": 44.4
+    },
+    {
+      "dayNo": 26,
+      "min": 64.2,
+      "max": 27.8,
+      "avg": 43.5
+    },
+    {
+      "dayNo": 27,
+      "min": 53.0,
+      "max": 32.5,
+      "avg": 40.9
+    },
+    {
+      "dayNo": 28,
+      "min": 33.8,
+      "max": 32.7,
+      "avg": null
+    },
+    {
+      "dayNo": 46,
+      "min": 43.2,
+      "max": 32.1,
+      "avg": null
+    },
+    {
+      "dayNo": 47,
+      "min": 49.0,
+      "max": 26.3,
+      "avg": 37.6
+    },
+    {
+      "dayNo": 48,
+      "min": 68.0,
+      "max": 21.2,
+      "avg": 40.5
+    },
+    {
+      "dayNo": 49,
+      "min": 63.1,
+      "max": 19.4,
+      "avg": 45.6
+    },
+    {
+      "dayNo": 50,
+      "min": 87.2,
+      "max": 24.3,
+      "avg": 40.7
+    },
+    {
+      "dayNo": 51,
+      "min": 61.6,
+      "max": 28.9,
+      "avg": 41.0
+    },
+    {
+      "dayNo": 52,
+      "min": 45.3,
+      "max": 21.0,
+      "avg": 32.4
+    },
+    {
+      "dayNo": 53,
+      "min": 60.1,
+      "max": 24.3,
+      "avg": 32.5
+    },
+    {
+      "dayNo": 54,
+      "min": 51.5,
+      "max": 22.0,
+      "avg": 36.2
+    },
+    {
+      "dayNo": 55,
+      "min": 53.9,
+      "max": 19.6,
+      "avg": 34.4
+    },
+    {
+      "dayNo": 56,
+      "min": 58.4,
+      "max": 22.8,
+      "avg": 42.3
+    },
+    {
+      "dayNo": 57,
+      "min": 47.5,
+      "max": 29.3,
+      "avg": 37.4
+    },
+    {
+      "dayNo": 58,
+      "min": 50.7,
+      "max": 25.9,
+      "avg": null
+    },
+    {
+      "dayNo": 59,
+      "min": 55.2,
+      "max": 25.6,
+      "avg": 38.3
+    },
+    {
+      "dayNo": 60,
+      "min": 57.6,
+      "max": 34.2,
+      "avg": null
+    },
+    {
+      "dayNo": 61,
+      "min": 46.0,
+      "max": 30.8,
+      "avg": 37.6
+    },
+    {
+      "dayNo": 62,
+      "min": 46.5,
+      "max": 23.0,
+      "avg": 34.2
+    },
+    {
+      "dayNo": 63,
+      "min": 55.5,
+      "max": 29.2,
+      "avg": 36.6
+    },
+    {
+      "dayNo": 64,
+      "min": 53.2,
+      "max": 36.0,
+      "avg": null
+    },
+    {
+      "dayNo": 65,
+      "min": 61.3,
+      "max": 34.3,
+      "avg": 46.5
+    },
+    {
+      "dayNo": 66,
+      "min": 73.7,
+      "max": 31.1,
+      "avg": 47.6
+    },
+    {
+      "dayNo": 67,
+      "min": 61.8,
+      "max": 29.5,
+      "avg": 44.6
+    },
+    {
+      "dayNo": 68,
+      "min": 59.4,
+      "max": 28.6,
+      "avg": 42.4
+    },
+    {
+      "dayNo": 69,
+      "min": 44.3,
+      "max": 32.0,
+      "avg": null
+    },
+    {
+      "dayNo": 70,
+      "min": 45.5,
+      "max": 27.7,
+      "avg": null
+    },
+    {
+      "dayNo": 71,
+      "min": 37.3,
+      "max": 32.0,
+      "avg": null
+    },
+    {
+      "dayNo": 72,
+      "min": 59.4,
+      "max": 27.6,
+      "avg": 41.5
+    },
+    {
+      "dayNo": 73,
+      "min": 60.8,
+      "max": 33.4,
+      "avg": null
+    },
+    {
+      "dayNo": 74,
+      "min": 49.5,
+      "max": 31.9,
+      "avg": null
+    },
+    {
+      "dayNo": 75,
+      "min": 45.0,
+      "max": 31.1,
+      "avg": null
+    },
+    {
+      "dayNo": 76,
+      "min": 59.3,
+      "max": 26.1,
+      "avg": 40.4
+    },
+    {
+      "dayNo": 77,
+      "min": 52.9,
+      "max": 30.0,
+      "avg": null
+    },
+    {
+      "dayNo": 122,
+      "min": 33.0,
+      "max": 32.0,
+      "avg": null
+    },
+    {
+      "dayNo": 123,
+      "min": 37.5,
+      "max": 27.3,
+      "avg": 31.6
+    },
+    {
+      "dayNo": 124,
+      "min": 42.4,
+      "max": 30.4,
+      "avg": 36.8
+    },
+    {
+      "dayNo": 125,
+      "min": 44.0,
+      "max": 27.9,
+      "avg": 36.8
+    },
+    {
+      "dayNo": 126,
+      "min": 44.8,
+      "max": 26.4,
+      "avg": 36.6
+    },
+    {
+      "dayNo": 127,
+      "min": 51.5,
+      "max": 28.8,
+      "avg": null
+    },
+    {
+      "dayNo": 128,
+      "min": 31.4,
+      "max": 25.5,
+      "avg": null
+    },
+    {
+      "dayNo": 129,
+      "min": 29.3,
+      "max": 22.6,
+      "avg": null
+    },
+    {
+      "dayNo": 130,
+      "min": 48.0,
+      "max": 19.3,
+      "avg": 28.2
+    },
+    {
+      "dayNo": 131,
+      "min": 48.6,
+      "max": 17.7,
+      "avg": 26.6
+    },
+    {
+      "dayNo": 132,
+      "min": 68.5,
+      "max": 21.6,
+      "avg": 32.5
+    },
+    {
+      "dayNo": 133,
+      "min": 31.4,
+      "max": 24.9,
+      "avg": null
+    },
+    {
+      "dayNo": 134,
+      "min": 27.3,
+      "max": 25.9,
+      "avg": null
+    },
+    {
+      "dayNo": 135,
+      "min": 26.1,
+      "max": 20.0,
+      "avg": null
+    },
+    {
+      "dayNo": 136,
+      "min": 26.6,
+      "max": 20.2,
+      "avg": null
+    },
+    {
+      "dayNo": 137,
+      "min": 32.6,
+      "max": 25.0,
+      "avg": null
+    },
+    {
+      "dayNo": 138,
+      "min": 36.3,
+      "max": 30.2,
+      "avg": null
+    },
+    {
+      "dayNo": 141,
+      "min": 31.5,
+      "max": 19.1,
+      "avg": null
+    },
+    {
+      "dayNo": 142,
+      "min": 44.7,
+      "max": 20.3,
+      "avg": 28.2
+    },
+    {
+      "dayNo": 143,
+      "min": 36.0,
+      "max": 23.3,
+      "avg": null
+    },
+    {
+      "dayNo": 144,
+      "min": 30.9,
+      "max": 20.3,
+      "avg": null
+    },
+    {
+      "dayNo": 145,
+      "min": 31.7,
+      "max": 17.0,
+      "avg": 23.4
+    },
+    {
+      "dayNo": 146,
+      "min": 34.8,
+      "max": 19.1,
+      "avg": 23.4
+    },
+    {
+      "dayNo": 148,
+      "min": 27.3,
+      "max": 26.9,
+      "avg": null
+    },
+    {
+      "dayNo": 149,
+      "min": 28.3,
+      "max": 23.6,
+      "avg": null
+    },
+    {
+      "dayNo": 150,
+      "min": 30.1,
+      "max": 24.0,
+      "avg": null
+    },
+    {
+      "dayNo": 151,
+      "min": 30.3,
+      "max": 15.9,
+      "avg": null
+    },
+    {
+      "dayNo": 152,
+      "min": 25.5,
+      "max": 20.3,
+      "avg": null
+    },
+    {
+      "dayNo": 153,
+      "min": 23.1,
+      "max": 17.6,
+      "avg": null
+    },
+    {
+      "dayNo": 154,
+      "min": 24.5,
+      "max": 18.1,
+      "avg": null
+    },
+    {
+      "dayNo": 155,
+      "min": 38.2,
+      "max": 15.4,
+      "avg": 19.8
+    },
+    {
+      "dayNo": 156,
+      "min": 30.1,
+      "max": 19.7,
+      "avg": null
+    },
+    {
+      "dayNo": 157,
+      "min": 24.4,
+      "max": 15.6,
+      "avg": null
+    },
+    {
+      "dayNo": 158,
+      "min": 24.7,
+      "max": 18.1,
+      "avg": null
+    },
+    {
+      "dayNo": 159,
+      "min": 18.7,
+      "max": 14.1,
+      "avg": null
+    },
+    {
+      "dayNo": 160,
+      "min": 14.5,
+      "max": 12.7,
+      "avg": null
+    },
+    {
+      "dayNo": 161,
+      "min": 11.9,
+      "max": 7.7,
+      "avg": null
+    },
+    {
+      "dayNo": 162,
+      "min": 13.7,
+      "max": 10.6,
+      "avg": null
+    },
+    {
+      "dayNo": 163,
+      "min": 14.8,
+      "max": 7.1,
+      "avg": null
+    },
+    {
+      "dayNo": 164,
+      "min": 11.7,
+      "max": 7.3,
+      "avg": null
+    },
+    {
+      "dayNo": 165,
+      "min": 20.9,
+      "max": 9.0,
+      "avg": 17.7
+    },
+    {
+      "dayNo": 166,
+      "min": 40.9,
+      "max": 14.3,
+      "avg": 20.3
+    },
+    {
+      "dayNo": 167,
+      "min": 20.0,
+      "max": 15.3,
+      "avg": null
+    },
+    {
+      "dayNo": 168,
+      "min": 26.4,
+      "max": 13.6,
+      "avg": null
+    },
+    {
+      "dayNo": 169,
+      "min": 32.4,
+      "max": 19.7,
+      "avg": null
+    },
+    {
+      "dayNo": 171,
+      "min": 19.9,
+      "max": 12.7,
+      "avg": null
+    },
+    {
+      "dayNo": 172,
+      "min": 25.1,
+      "max": 12.8,
+      "avg": null
+    },
+    {
+      "dayNo": 185,
+      "min": 18.2,
+      "max": 17.5,
+      "avg": null
+    },
+    {
+      "dayNo": 186,
+      "min": 19.1,
+      "max": 13.4,
+      "avg": null
+    },
+    {
+      "dayNo": 187,
+      "min": 18.7,
+      "max": 12.4,
+      "avg": null
+    },
+    {
+      "dayNo": 188,
+      "min": 17.2,
+      "max": 11.2,
+      "avg": null
+    },
+    {
+      "dayNo": 189,
+      "min": 17.7,
+      "max": 11.3,
+      "avg": null
+    },
+    {
+      "dayNo": 190,
+      "min": 16.8,
+      "max": 11.7,
+      "avg": null
+    },
+    {
+      "dayNo": 191,
+      "min": 19.7,
+      "max": 13.6,
+      "avg": null
+    },
+    {
+      "dayNo": 192,
+      "min": 18.5,
+      "max": 14.2,
+      "avg": null
+    },
+    {
+      "dayNo": 193,
+      "min": 37.7,
+      "max": 16.4,
+      "avg": null
+    },
+    {
+      "dayNo": 194,
+      "min": 20.5,
+      "max": 10.6,
+      "avg": null
+    },
+    {
+      "dayNo": 195,
+      "min": 38.3,
+      "max": 10.2,
+      "avg": 19.6
+    },
+    {
+      "dayNo": 196,
+      "min": 29.6,
+      "max": 10.5,
+      "avg": 17.4
+    },
+    {
+      "dayNo": 197,
+      "min": 27.7,
+      "max": 11.8,
+      "avg": 19.8
+    },
+    {
+      "dayNo": 198,
+      "min": 22.0,
+      "max": 16.9,
+      "avg": null
+    },
+    {
+      "dayNo": 199,
+      "min": 12.7,
+      "max": 12.4,
+      "avg": null
+    },
+    {
+      "dayNo": 201,
+      "min": 15.5,
+      "max": 13.0,
+      "avg": null
+    },
+    {
+      "dayNo": 202,
+      "min": 17.2,
+      "max": 9.5,
+      "avg": null
+    },
+    {
+      "dayNo": 203,
+      "min": 12.8,
+      "max": 12.7,
+      "avg": null
+    },
+    {
+      "dayNo": 205,
+      "min": 12.4,
+      "max": 12.3,
+      "avg": null
+    },
+    {
+      "dayNo": 206,
+      "min": 14.3,
+      "max": 13.0,
+      "avg": null
+    },
+    {
+      "dayNo": 207,
+      "min": 17.1,
+      "max": 9.0,
+      "avg": null
+    },
+    {
+      "dayNo": 208,
+      "min": 22.4,
+      "max": 11.8,
+      "avg": null
+    },
+    {
+      "dayNo": 209,
+      "min": 15.6,
+      "max": 15.3,
+      "avg": null
+    },
+    {
+      "dayNo": 210,
+      "min": 15.0,
+      "max": 14.1,
+      "avg": null
+    },
+    {
+      "dayNo": 212,
+      "min": 22.2,
+      "max": 16.8,
+      "avg": null
+    },
+    {
+      "dayNo": 213,
+      "min": 15.6,
+      "max": 13.4,
+      "avg": null
+    },
+    {
+      "dayNo": 214,
+      "min": 15.9,
+      "max": 12.0,
+      "avg": null
+    },
+    {
+      "dayNo": 216,
+      "min": 9.7,
+      "max": 8.8,
+      "avg": null
+    },
+    {
+      "dayNo": 217,
+      "min": 10.0,
+      "max": 8.9,
+      "avg": null
+    },
+    {
+      "dayNo": 218,
+      "min": 9.7,
+      "max": 9.6,
+      "avg": null
+    },
+    {
+      "dayNo": 219,
+      "min": 14.9,
+      "max": 7.9,
+      "avg": null
+    },
+    {
+      "dayNo": 221,
+      "min": 23.8,
+      "max": 23.3,
+      "avg": null
+    },
+    {
+      "dayNo": 222,
+      "min": 14.0,
+      "max": 11.4,
+      "avg": null
+    },
+    {
+      "dayNo": 223,
+      "min": 13.7,
+      "max": 9.8,
+      "avg": null
+    },
+    {
+      "dayNo": 224,
+      "min": 16.6,
+      "max": 9.7,
+      "avg": null
+    },
+    {
+      "dayNo": 225,
+      "min": 17.1,
+      "max": 9.4,
+      "avg": null
+    },
+    {
+      "dayNo": 226,
+      "min": 15.0,
+      "max": 14.7,
+      "avg": null
+    },
+    {
+      "dayNo": 228,
+      "min": 13.9,
+      "max": 8.7,
+      "avg": null
+    },
+    {
+      "dayNo": 229,
+      "min": 16.7,
+      "max": 12.0,
+      "avg": null
+    },
+    {
+      "dayNo": 231,
+      "min": 21.9,
+      "max": 18.4,
+      "avg": null
+    },
+    {
+      "dayNo": 249,
+      "min": 8.3,
+      "max": 7.0,
+      "avg": null
+    },
+    {
+      "dayNo": 250,
+      "min": 13.7,
+      "max": 7.5,
+      "avg": null
+    },
+    {
+      "dayNo": 252,
+      "min": 18.5,
+      "max": 7.6,
+      "avg": null
+    },
+    {
+      "dayNo": 253,
+      "min": 26.6,
+      "max": 11.1,
+      "avg": 16.3
+    },
+    {
+      "dayNo": 254,
+      "min": 23.4,
+      "max": 12.5,
+      "avg": null
+    },
+    {
+      "dayNo": 255,
+      "min": 27.1,
+      "max": 11.9,
+      "avg": 18.5
+    },
+    {
+      "dayNo": 256,
+      "min": 23.3,
+      "max": 12.9,
+      "avg": null
+    },
+    {
+      "dayNo": 257,
+      "min": 16.0,
+      "max": 14.6,
+      "avg": null
+    },
+    {
+      "dayNo": 258,
+      "min": 17.4,
+      "max": 14.5,
+      "avg": null
+    },
+    {
+      "dayNo": 259,
+      "min": 15.8,
+      "max": 8.5,
+      "avg": null
+    },
+    {
+      "dayNo": 260,
+      "min": 19.6,
+      "max": 12.1,
+      "avg": null
+    },
+    {
+      "dayNo": 261,
+      "min": 16.0,
+      "max": 13.3,
+      "avg": null
+    },
+    {
+      "dayNo": 262,
+      "min": 22.3,
+      "max": 16.1,
+      "avg": null
+    },
+    {
+      "dayNo": 263,
+      "min": 22.8,
+      "max": 17.3,
+      "avg": null
+    },
+    {
+      "dayNo": 264,
+      "min": 21.8,
+      "max": 10.4,
+      "avg": null
+    },
+    {
+      "dayNo": 265,
+      "min": 19.2,
+      "max": 12.2,
+      "avg": null
+    },
+    {
+      "dayNo": 266,
+      "min": 26.5,
+      "max": 9.9,
+      "avg": null
+    },
+    {
+      "dayNo": 267,
+      "min": 14.1,
+      "max": 9.0,
+      "avg": null
+    },
+    {
+      "dayNo": 268,
+      "min": 11.4,
+      "max": 9.0,
+      "avg": null
+    },
+    {
+      "dayNo": 269,
+      "min": 20.2,
+      "max": 8.2,
+      "avg": null
+    },
+    {
+      "dayNo": 270,
+      "min": 21.4,
+      "max": 8.9,
+      "avg": null
+    },
+    {
+      "dayNo": 271,
+      "min": 20.2,
+      "max": 12.5,
+      "avg": null
+    },
+    {
+      "dayNo": 272,
+      "min": 22.1,
+      "max": 12.7,
+      "avg": null
+    },
+    {
+      "dayNo": 273,
+      "min": 20.9,
+      "max": 13.7,
+      "avg": null
+    },
+    {
+      "dayNo": 274,
+      "min": 18.7,
+      "max": 17.2,
+      "avg": null
+    },
+    {
+      "dayNo": 275,
+      "min": 34.9,
+      "max": 11.4,
+      "avg": 19.1
+    },
+    {
+      "dayNo": 276,
+      "min": 29.4,
+      "max": 16.1,
+      "avg": null
+    },
+    {
+      "dayNo": 277,
+      "min": 23.1,
+      "max": 12.4,
+      "avg": null
+    },
+    {
+      "dayNo": 278,
+      "min": 18.1,
+      "max": 12.6,
+      "avg": null
+    },
+    {
+      "dayNo": 279,
+      "min": 34.5,
+      "max": 12.5,
+      "avg": 22.6
+    },
+    {
+      "dayNo": 280,
+      "min": 32.1,
+      "max": 16.5,
+      "avg": 26.7
+    },
+    {
+      "dayNo": 281,
+      "min": 18.9,
+      "max": 16.4,
+      "avg": null
+    },
+    {
+      "dayNo": 282,
+      "min": 28.3,
+      "max": 20.2,
+      "avg": null
+    },
+    {
+      "dayNo": 283,
+      "min": 25.6,
+      "max": 14.6,
+      "avg": null
+    },
+    {
+      "dayNo": 284,
+      "min": 31.5,
+      "max": 15.3,
+      "avg": 21.5
+    },
+    {
+      "dayNo": 285,
+      "min": 32.7,
+      "max": 16.1,
+      "avg": 27.7
+    },
+    {
+      "dayNo": 286,
+      "min": 49.4,
+      "max": 15.1,
+      "avg": 22.8
+    },
+    {
+      "dayNo": 287,
+      "min": 59.0,
+      "max": 13.6,
+      "avg": 24.3
+    },
+    {
+      "dayNo": 288,
+      "min": 27.8,
+      "max": 22.2,
+      "avg": 28.1
+    },
+    {
+      "dayNo": 289,
+      "min": 28.4,
+      "max": 18.6,
+      "avg": null
+    },
+    {
+      "dayNo": 290,
+      "min": 21.2,
+      "max": 13.8,
+      "avg": null
+    },
+    {
+      "dayNo": 291,
+      "min": 21.6,
+      "max": 14.4,
+      "avg": 17.7
+    },
+    {
+      "dayNo": 292,
+      "min": 22.5,
+      "max": 12.3,
+      "avg": 16.9
+    },
+    {
+      "dayNo": 293,
+      "min": 26.8,
+      "max": 11.4,
+      "avg": 15.7
+    },
+    {
+      "dayNo": 294,
+      "min": 26.6,
+      "max": 11.2,
+      "avg": 17.4
+    },
+    {
+      "dayNo": 295,
+      "min": 20.0,
+      "max": 7.4,
+      "avg": 13.8
+    },
+    {
+      "dayNo": 296,
+      "min": 18.5,
+      "max": 8.2,
+      "avg": 12.9
+    },
+    {
+      "dayNo": 297,
+      "min": 18.1,
+      "max": 7.9,
+      "avg": 13.2
+    },
+    {
+      "dayNo": 298,
+      "min": 18.1,
+      "max": 8.8,
+      "avg": 14.0
+    },
+    {
+      "dayNo": 299,
+      "min": 22.8,
+      "max": 10.5,
+      "avg": 15.8
+    },
+    {
+      "dayNo": 300,
+      "min": 23.4,
+      "max": 12.5,
+      "avg": null
+    },
+    {
+      "dayNo": 302,
+      "min": 35.0,
+      "max": 12.7,
+      "avg": 22.1
+    },
+    {
+      "dayNo": 303,
+      "min": 87.8,
+      "max": 11.7,
+      "avg": null
+    },
+    {
+      "dayNo": 304,
+      "min": 15.3,
+      "max": 15.3,
+      "avg": null
+    },
+    {
+      "dayNo": 305,
+      "min": 82.9,
+      "max": 9.8,
+      "avg": 24.0
+    },
+    {
+      "dayNo": 306,
+      "min": 118.4,
+      "max": 17.2,
+      "avg": 31.1
+    },
+    {
+      "dayNo": 307,
+      "min": 38.6,
+      "max": 15.7,
+      "avg": 24.7
+    },
+    {
+      "dayNo": 308,
+      "min": 45.5,
+      "max": 22.1,
+      "avg": 33.9
+    },
+    {
+      "dayNo": 309,
+      "min": 47.4,
+      "max": 27.2,
+      "avg": 38.3
+    },
+    {
+      "dayNo": 310,
+      "min": 56.3,
+      "max": 22.2,
+      "avg": 37.3
+    },
+    {
+      "dayNo": 311,
+      "min": 48.1,
+      "max": 22.9,
+      "avg": 29.7
+    },
+    {
+      "dayNo": 312,
+      "min": 48.9,
+      "max": 20.3,
+      "avg": 27.9
+    },
+    {
+      "dayNo": 313,
+      "min": 46.4,
+      "max": 18.1,
+      "avg": 28.3
+    },
+    {
+      "dayNo": 314,
+      "min": 44.4,
+      "max": 24.0,
+      "avg": 32.9
+    },
+    {
+      "dayNo": 315,
+      "min": 62.6,
+      "max": 30.8,
+      "avg": 44.2
+    },
+    {
+      "dayNo": 316,
+      "min": 70.5,
+      "max": 21.8,
+      "avg": 42.1
+    },
+    {
+      "dayNo": 317,
+      "min": 75.3,
+      "max": 27.3,
+      "avg": 36.9
+    },
+    {
+      "dayNo": 318,
+      "min": 71.9,
+      "max": 24.0,
+      "avg": 35.1
+    },
+    {
+      "dayNo": 319,
+      "min": 44.4,
+      "max": 24.0,
+      "avg": 32.0
+    },
+    {
+      "dayNo": 320,
+      "min": 34.4,
+      "max": 24.3,
+      "avg": 30.1
+    },
+    {
+      "dayNo": 321,
+      "min": 45.6,
+      "max": 27.9,
+      "avg": 36.3
+    },
+    {
+      "dayNo": 322,
+      "min": 58.2,
+      "max": 36.5,
+      "avg": 44.2
+    },
+    {
+      "dayNo": 323,
+      "min": 52.6,
+      "max": 21.5,
+      "avg": 35.4
+    },
+    {
+      "dayNo": 324,
+      "min": 64.4,
+      "max": 28.1,
+      "avg": 35.4
+    },
+    {
+      "dayNo": 325,
+      "min": 49.5,
+      "max": 34.3,
+      "avg": 41.6
+    },
+    {
+      "dayNo": 326,
+      "min": 51.4,
+      "max": 28.8,
+      "avg": 37.9
+    },
+    {
+      "dayNo": 327,
+      "min": 44.5,
+      "max": 29.0,
+      "avg": 36.0
+    },
+    {
+      "dayNo": 328,
+      "min": 48.7,
+      "max": 28.6,
+      "avg": 37.8
+    },
+    {
+      "dayNo": 329,
+      "min": 73.0,
+      "max": 27.5,
+      "avg": 41.9
+    },
+    {
+      "dayNo": 330,
+      "min": 48.2,
+      "max": 22.2,
+      "avg": 35.3
+    },
+    {
+      "dayNo": 331,
+      "min": 41.9,
+      "max": 25.8,
+      "avg": 31.7
+    },
+    {
+      "dayNo": 332,
+      "min": 46.8,
+      "max": 15.8,
+      "avg": 27.9
+    },
+    {
+      "dayNo": 333,
+      "min": 30.8,
+      "max": 18.1,
+      "avg": 23.9
+    },
+    {
+      "dayNo": 334,
+      "min": 40.5,
+      "max": 18.7,
+      "avg": 26.4
+    },
+    {
+      "dayNo": 335,
+      "min": 34.1,
+      "max": 13.9,
+      "avg": 23.1
+    },
+    {
+      "dayNo": 336,
+      "min": 33.5,
+      "max": 11.2,
+      "avg": 16.6
+    },
+    {
+      "dayNo": 337,
+      "min": 27.5,
+      "max": 12.4,
+      "avg": 22.3
+    },
+    {
+      "dayNo": 338,
+      "min": 39.6,
+      "max": 27.0,
+      "avg": 32.9
+    },
+    {
+      "dayNo": 339,
+      "min": 57.7,
+      "max": 34.7,
+      "avg": 45.0
+    },
+    {
+      "dayNo": 340,
+      "min": 61.7,
+      "max": 38.1,
+      "avg": 48.9
+    },
+    {
+      "dayNo": 341,
+      "min": 51.8,
+      "max": 23.5,
+      "avg": 36.8
+    },
+    {
+      "dayNo": 342,
+      "min": 43.8,
+      "max": 16.8,
+      "avg": 24.2
+    },
+    {
+      "dayNo": 343,
+      "min": 54.8,
+      "max": 17.3,
+      "avg": 24.9
+    },
+    {
+      "dayNo": 344,
+      "min": 37.7,
+      "max": 16.4,
+      "avg": 27.8
+    },
+    {
+      "dayNo": 345,
+      "min": 43.0,
+      "max": 19.2,
+      "avg": 29.8
+    },
+    {
+      "dayNo": 346,
+      "min": 62.1,
+      "max": 20.0,
+      "avg": 32.3
+    },
+    {
+      "dayNo": 347,
+      "min": 39.6,
+      "max": 15.3,
+      "avg": null
+    },
+    {
+      "dayNo": 350,
+      "min": 55.7,
+      "max": 16.1,
+      "avg": null
+    },
+    {
+      "dayNo": 351,
+      "min": 39.8,
+      "max": 17.4,
+      "avg": 25.0
+    },
+    {
+      "dayNo": 352,
+      "min": 44.4,
+      "max": 22.8,
+      "avg": 33.1
+    },
+    {
+      "dayNo": 353,
+      "min": 41.8,
+      "max": 17.1,
+      "avg": 31.1
+    },
+    {
+      "dayNo": 354,
+      "min": 49.1,
+      "max": 22.6,
+      "avg": 34.9
+    },
+    {
+      "dayNo": 355,
+      "min": 72.4,
+      "max": 28.8,
+      "avg": 40.4
+    },
+    {
+      "dayNo": 356,
+      "min": 45.6,
+      "max": 30.0,
+      "avg": 40.0
+    },
+    {
+      "dayNo": 357,
+      "min": 47.5,
+      "max": 31.0,
+      "avg": 39.9
+    },
+    {
+      "dayNo": 358,
+      "min": 76.6,
+      "max": 27.6,
+      "avg": 41.6
+    },
+    {
+      "dayNo": 359,
+      "min": 41.4,
+      "max": 21.5,
+      "avg": 33.2
+    },
+    {
+      "dayNo": 360,
+      "min": 57.6,
+      "max": 26.7,
+      "avg": 38.3
+    },
+    {
+      "dayNo": 361,
+      "min": 48.1,
+      "max": 29.1,
+      "avg": null
+    },
+    {
+      "dayNo": 363,
+      "min": 49.9,
+      "max": 40.9,
+      "avg": null
+    },
+    {
+      "dayNo": 364,
+      "min": 56.4,
+      "max": 29.2,
+      "avg": 39.7
+    },
+    {
+      "dayNo": 365,
+      "min": 70.5,
+      "max": 28.7,
+      "avg": 40.6
+    }
+  ]
+}

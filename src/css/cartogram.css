@@ -1,0 +1,58 @@
+.selctionButton{
+    padding:10px 20px;
+    border: 1px solid rgb(224, 62, 62);
+    cursor: pointer;
+}
+
+.selctionButton:first-of-type{
+    border-radius: 10px 0 0 10px;
+}
+
+.selected{
+    color: white;
+    background-color: rgb(224, 62, 62);
+}
+
+.selctionButton:last-of-type{
+    border-radius: 0 10px 10px 0;
+}
+.selctionButtonDiv{
+    display: flex;
+    justify-content: center;
+    font-family: 'IBM Plex Sans',sans-serif;
+}
+
+.mapTitleContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 60px 0 30px 0;
+    flex-wrap: wrap;
+}
+
+.mapTitle{
+    font-size:20px;
+    font-weight: bold;
+    width:50%;
+    font-family: 'IBM Plex Sans',sans-serif;
+
+}
+
+.MapsubNote{
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+    color:#aaa;
+    margin: 40px 0 50px 0;
+}
+
+@media screen and (max-width: 720px) {
+    .mapTitle{
+        width:100%;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    .mapTitleContainer{
+        justify-content: center;
+    }
+}

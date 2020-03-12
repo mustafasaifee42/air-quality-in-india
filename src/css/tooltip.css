@@ -1,0 +1,36 @@
+.tooltip{
+    font-family: 'IBM Plex Sans',sans-serif;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    max-width:360px;
+    background-color:rgba(255,255,255,0.95);
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, .28);
+    font-size: 14px;
+    display: none;
+}
+
+.tooltipHead{
+    margin-right: 20px;
+}
+
+.tooltipTitle{
+    font-size: 16px;
+    padding:0 5px;
+}
+
+.tooltipPopulation{
+    font-size: 14px;
+    padding:0 5px;
+    margin-bottom: 10px;
+}
+
+.tooltipConcentration{
+    padding:5px;
+    border-top: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+}
+.selctionButtonDiv{
+    display: flex;
+    justify-content: center;
+}

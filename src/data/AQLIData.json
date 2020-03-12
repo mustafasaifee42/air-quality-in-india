@@ -1,0 +1,6041 @@
+[
+  {
+    "state": "Karnataka",
+    "population": 2788845,
+    "weighted_pollution_2016": 25.17,
+    "llpp_who_2016": 1.49,
+    "llpp_2016": 0,
+    "city": "Tumkur",
+    "Total Years Lost": 4155379.05
+  },
+  {
+    "state": "Andhra Pradesh",
+    "population": 4196330,
+    "weighted_pollution_2016": 26.88,
+    "llpp_who_2016": 1.65,
+    "llpp_2016": 0,
+    "city": "Anantapur",
+    "Total Years Lost": 6923944.5
+  },
+  {
+    "state": "Andhra Pradesh",
+    "population": 4687537,
+    "weighted_pollution_2016": 33.39,
+    "llpp_who_2016": 2.29,
+    "llpp_2016": 0,
+    "city": "Krishna",
+    "Total Years Lost": 10734459.73
+  },
+  {
+    "state": "Jharkhand",
+    "population": 1229755,
+    "weighted_pollution_2016": 59.62,
+    "llpp_who_2016": 4.86,
+    "llpp_2016": 1.92,
+    "city": "Sahibganj",
+    "Total Years Lost": 5976609.3
+  },
+  {
+    "state": "Uttarakhand",
+    "population": 1974034,
+    "weighted_pollution_2016": 78.2,
+    "llpp_who_2016": 6.68,
+    "llpp_2016": 3.74,
+    "city": "Hardwar",
+    "Total Years Lost": 13186547.12
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 83705,
+    "weighted_pollution_2016": 35.19,
+    "llpp_who_2016": 2.47,
+    "llpp_2016": 0,
+    "city": "Ramban",
+    "Total Years Lost": 206751.35
+  },
+  {
+    "state": "Tripura",
+    "population": 623038,
+    "weighted_pollution_2016": 46.85,
+    "llpp_who_2016": 3.61,
+    "llpp_2016": 0.67,
+    "city": "Gomati",
+    "Total Years Lost": 2249167.18
+  },
+  {
+    "state": "Haryana",
+    "population": 1198446,
+    "weighted_pollution_2016": 87.45,
+    "llpp_who_2016": 7.59,
+    "llpp_2016": 4.65,
+    "city": "Kaithal",
+    "Total Years Lost": 9096205.14
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 679704,
+    "weighted_pollution_2016": 53.89,
+    "llpp_who_2016": 4.3,
+    "llpp_2016": 1.36,
+    "city": "Samba",
+    "Total Years Lost": 2922727.2
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 371437,
+    "weighted_pollution_2016": 37.74,
+    "llpp_who_2016": 2.72,
+    "llpp_2016": 0,
+    "city": "Shupiyan",
+    "Total Years Lost": 1010308.64
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 2301840,
+    "weighted_pollution_2016": 50.9,
+    "llpp_who_2016": 4.01,
+    "llpp_2016": 1.07,
+    "city": "Jammu",
+    "Total Years Lost": 9230378.4
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 670244,
+    "weighted_pollution_2016": 43.27,
+    "llpp_who_2016": 3.26,
+    "llpp_2016": 0.32,
+    "city": "Agar Malwa",
+    "Total Years Lost": 2184995.44
+  },
+  {
+    "state": "Odisha",
+    "population": 2686074,
+    "weighted_pollution_2016": 43.94,
+    "llpp_who_2016": 3.33,
+    "llpp_2016": 0.39,
+    "city": "Mayurbhanj",
+    "Total Years Lost": 8944626.42
+  },
+  {
+    "state": "Maharashtra",
+    "population": 4591020,
+    "weighted_pollution_2016": 40.41,
+    "llpp_who_2016": 2.98,
+    "llpp_2016": 0.08,
+    "city": "Ahmadnagar",
+    "Total Years Lost": 13681239.6
+  },
+  {
+    "state": "Jharkhand",
+    "population": 839175,
+    "weighted_pollution_2016": 54.99,
+    "llpp_who_2016": 4.41,
+    "llpp_2016": 1.47,
+    "city": "Pakur",
+    "Total Years Lost": 3700761.75
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 1043880,
+    "weighted_pollution_2016": 31.93,
+    "llpp_who_2016": 2.15,
+    "llpp_2016": 0,
+    "city": "Bastar",
+    "Total Years Lost": 2244342
+  },
+  {
+    "state": "Assam",
+    "population": 1333323,
+    "weighted_pollution_2016": 34.45,
+    "llpp_who_2016": 2.4,
+    "llpp_2016": 0,
+    "city": "Baksa",
+    "Total Years Lost": 3199975.2
+  },
+  {
+    "state": "Jharkhand",
+    "population": 443181,
+    "weighted_pollution_2016": 46.54,
+    "llpp_who_2016": 3.58,
+    "llpp_2016": 0.64,
+    "city": "Lohardaga",
+    "Total Years Lost": 1586587.98
+  },
+  {
+    "state": "Meghalaya",
+    "population": 277735,
+    "weighted_pollution_2016": 31.73,
+    "llpp_who_2016": 2.13,
+    "llpp_2016": 0,
+    "city": "West Khasi Hills",
+    "Total Years Lost": 591575.55
+  },
+  {
+    "state": "Karnataka",
+    "population": 1182332,
+    "weighted_pollution_2016": 20.73,
+    "llpp_who_2016": 1.05,
+    "llpp_2016": 0,
+    "city": "Chikmagalur",
+    "Total Years Lost": 1241448.6
+  },
+  {
+    "state": "Assam",
+    "population": 1120483,
+    "weighted_pollution_2016": 26.2,
+    "llpp_who_2016": 1.59,
+    "llpp_2016": 0,
+    "city": "Jorhat",
+    "Total Years Lost": 1781567.97
+  },
+  {
+    "state": "Bihar",
+    "population": 2561410,
+    "weighted_pollution_2016": 61.82,
+    "llpp_who_2016": 5.08,
+    "llpp_2016": 2.14,
+    "city": "Banka",
+    "Total Years Lost": 13011962.8
+  },
+  {
+    "state": "Assam",
+    "population": 1285881,
+    "weighted_pollution_2016": 37.95,
+    "llpp_who_2016": 2.74,
+    "llpp_2016": 0,
+    "city": "Barpeta",
+    "Total Years Lost": 3523313.94
+  },
+  {
+    "state": "Jharkhand",
+    "population": 2758523,
+    "weighted_pollution_2016": 52.12,
+    "llpp_who_2016": 4.13,
+    "llpp_2016": 1.19,
+    "city": "Ranchi",
+    "Total Years Lost": 11392699.99
+  },
+  {
+    "state": "Kerala",
+    "population": 2126332,
+    "weighted_pollution_2016": 12.09,
+    "llpp_who_2016": 0.2,
+    "llpp_2016": 0,
+    "city": "Alappuzha",
+    "Total Years Lost": 425266.4
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 183260,
+    "weighted_pollution_2016": 29.26,
+    "llpp_who_2016": 1.89,
+    "llpp_2016": 0,
+    "city": "Bandipore",
+    "Total Years Lost": 346361.4
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 3528151,
+    "weighted_pollution_2016": 115.86,
+    "llpp_who_2016": 10.37,
+    "llpp_2016": 7.43,
+    "city": "Meerut",
+    "Total Years Lost": 36586925.87
+  },
+  {
+    "state": "Punjab",
+    "population": 552469,
+    "weighted_pollution_2016": 64.21,
+    "llpp_who_2016": 5.31,
+    "llpp_2016": 2.37,
+    "city": "Faridkot",
+    "Total Years Lost": 2933610.39
+  },
+  {
+    "state": "Rajasthan",
+    "population": 1086155,
+    "weighted_pollution_2016": 49.15,
+    "llpp_who_2016": 3.84,
+    "llpp_2016": 0.9,
+    "city": "Baran",
+    "Total Years Lost": 4170835.2
+  },
+  {
+    "state": "Assam",
+    "population": 728392,
+    "weighted_pollution_2016": 38.79,
+    "llpp_who_2016": 2.82,
+    "llpp_2016": 0.03,
+    "city": "Goalpara",
+    "Total Years Lost": 2054065.44
+  },
+  {
+    "state": "Uttarakhand",
+    "population": 1773396,
+    "weighted_pollution_2016": 52.41,
+    "llpp_who_2016": 4.16,
+    "llpp_2016": 1.27,
+    "city": "Dehradun",
+    "Total Years Lost": 7377327.36
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2270852,
+    "weighted_pollution_2016": 104.84,
+    "llpp_who_2016": 9.29,
+    "llpp_2016": 6.35,
+    "city": "Mathura",
+    "Total Years Lost": 21096215.08
+  },
+  {
+    "state": "Tripura",
+    "population": 223172,
+    "weighted_pollution_2016": 39.27,
+    "llpp_who_2016": 2.87,
+    "llpp_2016": 0.03,
+    "city": "North Tripura",
+    "Total Years Lost": 640503.64
+  },
+  {
+    "state": "Maharashtra",
+    "population": 2908317,
+    "weighted_pollution_2016": 40.02,
+    "llpp_who_2016": 2.94,
+    "llpp_2016": 0.08,
+    "city": "Amravati",
+    "Total Years Lost": 8550451.98
+  },
+  {
+    "state": "Bihar",
+    "population": 1898727,
+    "weighted_pollution_2016": 71.73,
+    "llpp_who_2016": 6.05,
+    "llpp_2016": 3.11,
+    "city": "Madhepura",
+    "Total Years Lost": 11487298.35
+  },
+  {
+    "state": "West Bengal",
+    "population": 4152790,
+    "weighted_pollution_2016": 58.94,
+    "llpp_who_2016": 4.8,
+    "llpp_2016": 1.86,
+    "city": "Maldah",
+    "Total Years Lost": 19933392
+  },
+  {
+    "state": "Bihar",
+    "population": 2656654,
+    "weighted_pollution_2016": 66.3,
+    "llpp_who_2016": 5.52,
+    "llpp_2016": 2.58,
+    "city": "Bhagalpur",
+    "Total Years Lost": 14664730.08
+  },
+  {
+    "state": "Karnataka",
+    "population": 1607757,
+    "weighted_pollution_2016": 25.99,
+    "llpp_who_2016": 1.57,
+    "llpp_2016": 0,
+    "city": "Kolar",
+    "Total Years Lost": 2524178.49
+  },
+  {
+    "state": "Assam",
+    "population": 1534440,
+    "weighted_pollution_2016": 21.48,
+    "llpp_who_2016": 1.13,
+    "llpp_2016": 0,
+    "city": "Tinsukia",
+    "Total Years Lost": 1733917.2
+  },
+  {
+    "state": "Bihar",
+    "population": 1789506,
+    "weighted_pollution_2016": 90.74,
+    "llpp_who_2016": 7.91,
+    "llpp_2016": 4.97,
+    "city": "Buxar",
+    "Total Years Lost": 14154992.46
+  },
+  {
+    "state": "Odisha",
+    "population": 602014,
+    "weighted_pollution_2016": 38.24,
+    "llpp_who_2016": 2.77,
+    "llpp_2016": 0.01,
+    "city": "Bauda",
+    "Total Years Lost": 1667578.78
+  },
+  {
+    "state": "Andhra Pradesh",
+    "population": 5401182,
+    "weighted_pollution_2016": 33.47,
+    "llpp_who_2016": 2.3,
+    "llpp_2016": 0,
+    "city": "East Godavari",
+    "Total Years Lost": 12422718.6
+  },
+  {
+    "state": "Bihar",
+    "population": 1657641,
+    "weighted_pollution_2016": 76.82,
+    "llpp_who_2016": 6.55,
+    "llpp_2016": 3.61,
+    "city": "Kaimur",
+    "Total Years Lost": 10857548.55
+  },
+  {
+    "state": "Maharashtra",
+    "population": 2261745,
+    "weighted_pollution_2016": 35.39,
+    "llpp_who_2016": 2.49,
+    "llpp_2016": 0,
+    "city": "Palghar",
+    "Total Years Lost": 5631745.05
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1260507,
+    "weighted_pollution_2016": 46.82,
+    "llpp_who_2016": 3.61,
+    "llpp_2016": 0.67,
+    "city": "Guna",
+    "Total Years Lost": 4550430.27
+  },
+  {
+    "state": "Rajasthan",
+    "population": 1326717,
+    "weighted_pollution_2016": 64.88,
+    "llpp_who_2016": 5.38,
+    "llpp_2016": 2.44,
+    "city": "Karauli",
+    "Total Years Lost": 7137737.46
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1768744,
+    "weighted_pollution_2016": 82.02,
+    "llpp_who_2016": 7.06,
+    "llpp_2016": 4.12,
+    "city": "Jalaun",
+    "Total Years Lost": 12487332.64
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1140921,
+    "weighted_pollution_2016": 41.09,
+    "llpp_who_2016": 3.05,
+    "llpp_2016": 0.12,
+    "city": "Narsimhapur",
+    "Total Years Lost": 3479809.05
+  },
+  {
+    "state": "Gujarat",
+    "population": 623067,
+    "weighted_pollution_2016": 18.26,
+    "llpp_who_2016": 0.81,
+    "llpp_2016": 0,
+    "city": "Devbhumi Dwarka",
+    "Total Years Lost": 504684.27
+  },
+  {
+    "state": "Bihar",
+    "population": 2880943,
+    "weighted_pollution_2016": 99.88,
+    "llpp_who_2016": 8.81,
+    "llpp_2016": 5.87,
+    "city": "Gopalganj",
+    "Total Years Lost": 25381107.83
+  },
+  {
+    "state": "Maharashtra",
+    "population": 4341643,
+    "weighted_pollution_2016": 38.22,
+    "llpp_who_2016": 2.77,
+    "llpp_2016": 0,
+    "city": "Jalgaon",
+    "Total Years Lost": 12026351.11
+  },
+  {
+    "state": "Haryana",
+    "population": 1228977,
+    "weighted_pollution_2016": 88.77,
+    "llpp_who_2016": 7.72,
+    "llpp_2016": 4.78,
+    "city": "Jind",
+    "Total Years Lost": 9487702.44
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1483345,
+    "weighted_pollution_2016": 44.12,
+    "llpp_who_2016": 3.34,
+    "llpp_2016": 0.4,
+    "city": "Vidisha",
+    "Total Years Lost": 4954372.3
+  },
+  {
+    "state": "Rajasthan",
+    "population": 1708617,
+    "weighted_pollution_2016": 35.8,
+    "llpp_who_2016": 2.53,
+    "llpp_2016": 0,
+    "city": "Banswara",
+    "Total Years Lost": 4322801.01
+  },
+  {
+    "state": "Karnataka",
+    "population": 1628022,
+    "weighted_pollution_2016": 21.15,
+    "llpp_who_2016": 1.09,
+    "llpp_2016": 0,
+    "city": "Shimoga",
+    "Total Years Lost": 1774543.98
+  },
+  {
+    "state": "Bihar",
+    "population": 2467731,
+    "weighted_pollution_2016": 75.36,
+    "llpp_who_2016": 6.41,
+    "llpp_2016": 3.47,
+    "city": "Aurangabad",
+    "Total Years Lost": 15818155.71
+  },
+  {
+    "state": "Manipur",
+    "population": 467698,
+    "weighted_pollution_2016": 22.65,
+    "llpp_who_2016": 1.24,
+    "llpp_2016": 0,
+    "city": "Thoubal",
+    "Total Years Lost": 579945.52
+  },
+  {
+    "state": "Tripura",
+    "population": 338057,
+    "weighted_pollution_2016": 41.76,
+    "llpp_who_2016": 3.11,
+    "llpp_2016": 0.18,
+    "city": "Unokoti",
+    "Total Years Lost": 1051357.27
+  },
+  {
+    "state": "Maharashtra",
+    "population": 3514292,
+    "weighted_pollution_2016": 39.89,
+    "llpp_who_2016": 2.93,
+    "llpp_2016": 0.02,
+    "city": "Nanded",
+    "Total Years Lost": 10296875.56
+  },
+  {
+    "state": "Gujarat",
+    "population": 2172280,
+    "weighted_pollution_2016": 18.31,
+    "llpp_who_2016": 0.81,
+    "llpp_2016": 0,
+    "city": "Kachchh",
+    "Total Years Lost": 1759546.8
+  },
+  {
+    "state": "Punjab",
+    "population": 2461639,
+    "weighted_pollution_2016": 64.87,
+    "llpp_who_2016": 5.38,
+    "llpp_2016": 2.44,
+    "city": "Amritsar",
+    "Total Years Lost": 13243617.82
+  },
+  {
+    "state": "Bihar",
+    "population": 4358768,
+    "weighted_pollution_2016": 83.14,
+    "llpp_who_2016": 7.17,
+    "llpp_2016": 4.23,
+    "city": "Pashchim Champaran",
+    "Total Years Lost": 31252366.56
+  },
+  {
+    "state": "Haryana",
+    "population": 531798,
+    "weighted_pollution_2016": 64.48,
+    "llpp_who_2016": 5.34,
+    "llpp_2016": 2.4,
+    "city": "Panchkula",
+    "Total Years Lost": 2839801.32
+  },
+  {
+    "state": "Haryana",
+    "population": 745072,
+    "weighted_pollution_2016": 105.96,
+    "llpp_who_2016": 9.4,
+    "llpp_2016": 6.46,
+    "city": "Palwal",
+    "Total Years Lost": 7003676.8
+  },
+  {
+    "state": "Rajasthan",
+    "population": 3426721,
+    "weighted_pollution_2016": 33.11,
+    "llpp_who_2016": 2.26,
+    "llpp_2016": 0.01,
+    "city": "Nagaur",
+    "Total Years Lost": 7744389.46
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 149056,
+    "weighted_pollution_2016": 9.56,
+    "llpp_who_2016": 0.06,
+    "llpp_2016": 0,
+    "city": "Kargil",
+    "Total Years Lost": 8943.36
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2994953,
+    "weighted_pollution_2016": 98.15,
+    "llpp_who_2016": 8.64,
+    "llpp_2016": 5.7,
+    "city": "Ballia",
+    "Total Years Lost": 25876393.92
+  },
+  {
+    "state": "Haryana",
+    "population": 1615305,
+    "weighted_pollution_2016": 72.15,
+    "llpp_who_2016": 6.09,
+    "llpp_2016": 3.15,
+    "city": "Hisar",
+    "Total Years Lost": 9837207.45
+  },
+  {
+    "state": "Andhra Pradesh",
+    "population": 4211295,
+    "weighted_pollution_2016": 29.48,
+    "llpp_who_2016": 1.91,
+    "llpp_2016": 0,
+    "city": "Kurnool",
+    "Total Years Lost": 8043573.45
+  },
+  {
+    "state": "Nagaland",
+    "population": 444620,
+    "weighted_pollution_2016": 25.92,
+    "llpp_who_2016": 1.56,
+    "llpp_2016": 0,
+    "city": "Dimapur",
+    "Total Years Lost": 693607.2
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 310005,
+    "weighted_pollution_2016": 33.5,
+    "llpp_who_2016": 2.3,
+    "llpp_2016": 0,
+    "city": "Ganderbal",
+    "Total Years Lost": 713011.5
+  },
+  {
+    "state": "Maharashtra",
+    "population": 3477105,
+    "weighted_pollution_2016": 40.24,
+    "llpp_who_2016": 2.96,
+    "llpp_2016": 0.06,
+    "city": "Mumbai City",
+    "Total Years Lost": 10292230.8
+  },
+  {
+    "state": "Gujarat",
+    "population": 1218218,
+    "weighted_pollution_2016": 30.76,
+    "llpp_who_2016": 2.03,
+    "llpp_2016": 0,
+    "city": "Navsari",
+    "Total Years Lost": 2472982.54
+  },
+  {
+    "state": "Nagaland",
+    "population": 152913,
+    "weighted_pollution_2016": 18.28,
+    "llpp_who_2016": 0.81,
+    "llpp_2016": 0,
+    "city": "Phek",
+    "Total Years Lost": 123859.53
+  },
+  {
+    "state": "Uttarakhand",
+    "population": 293856,
+    "weighted_pollution_2016": 33.76,
+    "llpp_who_2016": 2.33,
+    "llpp_2016": 0.02,
+    "city": "Champawat",
+    "Total Years Lost": 684684.48
+  },
+  {
+    "state": "Sikkim",
+    "population": 128656,
+    "weighted_pollution_2016": 30.17,
+    "llpp_who_2016": 1.98,
+    "llpp_2016": 0,
+    "city": "West Sikkim",
+    "Total Years Lost": 254738.88
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 698253,
+    "weighted_pollution_2016": 52.24,
+    "llpp_who_2016": 4.14,
+    "llpp_2016": 1.2,
+    "city": "Balod",
+    "Total Years Lost": 2890767.42
+  },
+  {
+    "state": "Karnataka",
+    "population": 1769095,
+    "weighted_pollution_2016": 36,
+    "llpp_who_2016": 2.55,
+    "llpp_2016": 0,
+    "city": "Bidar",
+    "Total Years Lost": 4511192.25
+  },
+  {
+    "state": "Bihar",
+    "population": 2654849,
+    "weighted_pollution_2016": 67.43,
+    "llpp_who_2016": 5.63,
+    "llpp_2016": 2.69,
+    "city": "Supaul",
+    "Total Years Lost": 14946799.87
+  },
+  {
+    "state": "Odisha",
+    "population": 1231930,
+    "weighted_pollution_2016": 38.25,
+    "llpp_who_2016": 2.77,
+    "llpp_2016": 0,
+    "city": "Kendrapara",
+    "Total Years Lost": 3412446.1
+  },
+  {
+    "state": "Haryana",
+    "population": 935000,
+    "weighted_pollution_2016": 77.29,
+    "llpp_who_2016": 6.59,
+    "llpp_2016": 3.65,
+    "city": "Yamunanagar",
+    "Total Years Lost": 6161650
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 3695611,
+    "weighted_pollution_2016": 29.28,
+    "llpp_who_2016": 1.89,
+    "llpp_2016": 0,
+    "city": "Thiruvallur",
+    "Total Years Lost": 6984704.79
+  },
+  {
+    "state": "Maharashtra",
+    "population": 356256,
+    "weighted_pollution_2016": 28.61,
+    "llpp_who_2016": 1.82,
+    "llpp_2016": 0,
+    "city": "Palghar",
+    "Total Years Lost": 648385.92
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1421911,
+    "weighted_pollution_2016": 39.61,
+    "llpp_who_2016": 2.9,
+    "llpp_2016": 0.02,
+    "city": "Seoni",
+    "Total Years Lost": 4123541.9
+  },
+  {
+    "state": "Rajasthan",
+    "population": 2488668,
+    "weighted_pollution_2016": 36.96,
+    "llpp_who_2016": 2.64,
+    "llpp_2016": 0.03,
+    "city": "Bhilwara",
+    "Total Years Lost": 6570083.52
+  },
+  {
+    "state": "Assam",
+    "population": 1228689,
+    "weighted_pollution_2016": 23.81,
+    "llpp_who_2016": 1.35,
+    "llpp_2016": 0,
+    "city": "Dibrugarh",
+    "Total Years Lost": 1658730.15
+  },
+  {
+    "state": "Meghalaya",
+    "population": 163153,
+    "weighted_pollution_2016": 42.56,
+    "llpp_who_2016": 3.19,
+    "llpp_2016": 0.28,
+    "city": "South Garo Hills",
+    "Total Years Lost": 520458.07
+  },
+  {
+    "state": "Daman and Diu",
+    "population": 6552,
+    "weighted_pollution_2016": 23.69,
+    "llpp_who_2016": 1.34,
+    "llpp_2016": 0,
+    "city": "Diu",
+    "Total Years Lost": 8779.68
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 840542,
+    "weighted_pollution_2016": 40.71,
+    "llpp_who_2016": 3.01,
+    "llpp_2016": 0.08,
+    "city": "Surajpur",
+    "Total Years Lost": 2530031.42
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 4042033,
+    "weighted_pollution_2016": 28.18,
+    "llpp_who_2016": 1.78,
+    "llpp_2016": 0,
+    "city": "Vellore",
+    "Total Years Lost": 7194818.74
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1818558,
+    "weighted_pollution_2016": 56.09,
+    "llpp_who_2016": 4.52,
+    "llpp_2016": 1.58,
+    "city": "Chhatarpur",
+    "Total Years Lost": 8219882.16
+  },
+  {
+    "state": "Himachal Pradesh",
+    "population": 1635256,
+    "weighted_pollution_2016": 48.33,
+    "llpp_who_2016": 3.76,
+    "llpp_2016": 0.83,
+    "city": "Kangra",
+    "Total Years Lost": 6148562.56
+  },
+  {
+    "state": "Maharashtra",
+    "population": 6324675,
+    "weighted_pollution_2016": 34.5,
+    "llpp_who_2016": 2.4,
+    "llpp_2016": 0,
+    "city": "Nashik",
+    "Total Years Lost": 15179220
+  },
+  {
+    "state": "Meghalaya",
+    "population": 568336,
+    "weighted_pollution_2016": 42,
+    "llpp_who_2016": 3.14,
+    "llpp_2016": 0.21,
+    "city": "West Garo Hills",
+    "Total Years Lost": 1784575.04
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 1645074,
+    "weighted_pollution_2016": 47.3,
+    "llpp_who_2016": 3.66,
+    "llpp_2016": 0.72,
+    "city": "Korba",
+    "Total Years Lost": 6020970.84
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 570693,
+    "weighted_pollution_2016": 35.68,
+    "llpp_who_2016": 2.52,
+    "llpp_2016": 0,
+    "city": "Kondagaon",
+    "Total Years Lost": 1438146.36
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 149086,
+    "weighted_pollution_2016": 22.73,
+    "llpp_who_2016": 1.25,
+    "llpp_2016": 0,
+    "city": "Papum Pare",
+    "Total Years Lost": 186357.5
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 5430499,
+    "weighted_pollution_2016": 97.61,
+    "llpp_who_2016": 8.59,
+    "llpp_2016": 5.65,
+    "city": "Kanpur Nagar",
+    "Total Years Lost": 46647986.41
+  },
+  {
+    "state": "Odisha",
+    "population": 858538,
+    "weighted_pollution_2016": 29.93,
+    "llpp_who_2016": 1.95,
+    "llpp_2016": 0,
+    "city": "Rayagada",
+    "Total Years Lost": 1674149.1
+  },
+  {
+    "state": "Bihar",
+    "population": 550432,
+    "weighted_pollution_2016": 77.74,
+    "llpp_who_2016": 6.64,
+    "llpp_2016": 3.7,
+    "city": "Sheikhpura",
+    "Total Years Lost": 3654868.48
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 4613237,
+    "weighted_pollution_2016": 101.59,
+    "llpp_who_2016": 8.98,
+    "llpp_2016": 6.04,
+    "city": "Bareilly",
+    "Total Years Lost": 41426868.26
+  },
+  {
+    "state": "Meghalaya",
+    "population": 743648,
+    "weighted_pollution_2016": 28.97,
+    "llpp_who_2016": 1.86,
+    "llpp_2016": 0,
+    "city": "East Khasi Hills",
+    "Total Years Lost": 1383185.28
+  },
+  {
+    "state": "Bihar",
+    "population": 4011298,
+    "weighted_pollution_2016": 87.31,
+    "llpp_who_2016": 7.58,
+    "llpp_2016": 4.64,
+    "city": "Samastipur",
+    "Total Years Lost": 30405638.84
+  },
+  {
+    "state": "Maharashtra",
+    "population": 1169068,
+    "weighted_pollution_2016": 40.5,
+    "llpp_who_2016": 2.99,
+    "llpp_2016": 0.05,
+    "city": "Hingoli",
+    "Total Years Lost": 3495513.32
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 88682,
+    "weighted_pollution_2016": 18.25,
+    "llpp_who_2016": 0.81,
+    "llpp_2016": 0,
+    "city": "West Kameng",
+    "Total Years Lost": 71832.42
+  },
+  {
+    "state": "Bihar",
+    "population": 2175861,
+    "weighted_pollution_2016": 72.86,
+    "llpp_who_2016": 6.16,
+    "llpp_2016": 3.22,
+    "city": "Nawada",
+    "Total Years Lost": 13403303.76
+  },
+  {
+    "state": "Assam",
+    "population": 1481549,
+    "weighted_pollution_2016": 34.04,
+    "llpp_who_2016": 2.36,
+    "llpp_2016": 0,
+    "city": "Kamrup Metropolitan",
+    "Total Years Lost": 3496455.64
+  },
+  {
+    "state": "Bihar",
+    "population": 5945227,
+    "weighted_pollution_2016": 76.11,
+    "llpp_who_2016": 6.48,
+    "llpp_2016": 3.54,
+    "city": "Madhubani",
+    "Total Years Lost": 38525070.96
+  },
+  {
+    "state": "Maharashtra",
+    "population": 2231751,
+    "weighted_pollution_2016": 34.27,
+    "llpp_who_2016": 2.38,
+    "llpp_2016": 0,
+    "city": "Dhule",
+    "Total Years Lost": 5311567.38
+  },
+  {
+    "state": "Bihar",
+    "population": 1667648,
+    "weighted_pollution_2016": 75.48,
+    "llpp_who_2016": 6.42,
+    "llpp_2016": 3.48,
+    "city": "Khagaria",
+    "Total Years Lost": 10706300.16
+  },
+  {
+    "state": "Rajasthan",
+    "population": 1815242,
+    "weighted_pollution_2016": 37.27,
+    "llpp_who_2016": 2.67,
+    "llpp_2016": 0.04,
+    "city": "Chittaurgarh",
+    "Total Years Lost": 4846696.14
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 2282048,
+    "weighted_pollution_2016": 26.08,
+    "llpp_who_2016": 1.58,
+    "llpp_2016": 0,
+    "city": "Erode",
+    "Total Years Lost": 3605635.84
+  },
+  {
+    "state": "Bihar",
+    "population": 2858950,
+    "weighted_pollution_2016": 89.6,
+    "llpp_who_2016": 7.8,
+    "llpp_2016": 4.86,
+    "city": "Bhojpur",
+    "Total Years Lost": 22299810
+  },
+  {
+    "state": "Bihar",
+    "population": 2852812,
+    "weighted_pollution_2016": 81.54,
+    "llpp_who_2016": 7.01,
+    "llpp_2016": 4.07,
+    "city": "Begusarai",
+    "Total Years Lost": 19998212.12
+  },
+  {
+    "state": "Assam",
+    "population": 855829,
+    "weighted_pollution_2016": 27.94,
+    "llpp_who_2016": 1.76,
+    "llpp_2016": 0,
+    "city": "Karbi Anglong",
+    "Total Years Lost": 1506259.04
+  },
+  {
+    "state": "Punjab",
+    "population": 737240,
+    "weighted_pollution_2016": 70.3,
+    "llpp_who_2016": 5.91,
+    "llpp_2016": 2.97,
+    "city": "Barnala",
+    "Total Years Lost": 4357088.4
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 2488021,
+    "weighted_pollution_2016": 29.79,
+    "llpp_who_2016": 1.94,
+    "llpp_2016": 0,
+    "city": "Tiruvannamalai",
+    "Total Years Lost": 4826760.74
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2378165,
+    "weighted_pollution_2016": 101.13,
+    "llpp_who_2016": 8.93,
+    "llpp_2016": 5.99,
+    "city": "Mau",
+    "Total Years Lost": 21237013.45
+  },
+  {
+    "state": "Assam",
+    "population": 1163860,
+    "weighted_pollution_2016": 28,
+    "llpp_who_2016": 1.76,
+    "llpp_2016": 0,
+    "city": "Golaghat",
+    "Total Years Lost": 2048393.6
+  },
+  {
+    "state": "Odisha",
+    "population": 1485261,
+    "weighted_pollution_2016": 38.97,
+    "llpp_who_2016": 2.84,
+    "llpp_2016": 0,
+    "city": "Anugul",
+    "Total Years Lost": 4218141.24
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 4615728,
+    "weighted_pollution_2016": 96.97,
+    "llpp_who_2016": 8.52,
+    "llpp_2016": 5.58,
+    "city": "Jaunpur",
+    "Total Years Lost": 39326002.56
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1124356,
+    "weighted_pollution_2016": 40.26,
+    "llpp_who_2016": 2.96,
+    "llpp_2016": 0.05,
+    "city": "Mandla",
+    "Total Years Lost": 3328093.76
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1591300,
+    "weighted_pollution_2016": 39.63,
+    "llpp_who_2016": 2.9,
+    "llpp_2016": 0.04,
+    "city": "Dewas",
+    "Total Years Lost": 4614770
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 72635,
+    "weighted_pollution_2016": 17.25,
+    "llpp_who_2016": 0.71,
+    "llpp_2016": 0,
+    "city": "Lower Dibang Valley",
+    "Total Years Lost": 51570.85
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 2241761,
+    "weighted_pollution_2016": 14.23,
+    "llpp_who_2016": 0.46,
+    "llpp_2016": 0,
+    "city": "Thoothukkudi",
+    "Total Years Lost": 1031210.06
+  },
+  {
+    "state": "Uttarakhand",
+    "population": 489562,
+    "weighted_pollution_2016": 25.67,
+    "llpp_who_2016": 1.54,
+    "llpp_2016": 0,
+    "city": "Pithoragarh",
+    "Total Years Lost": 753925.48
+  },
+  {
+    "state": "Punjab",
+    "population": 734319,
+    "weighted_pollution_2016": 67.82,
+    "llpp_who_2016": 5.67,
+    "llpp_2016": 2.73,
+    "city": "Shahid Bhagat Singh Nagar",
+    "Total Years Lost": 4163588.73
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1306321,
+    "weighted_pollution_2016": 39.32,
+    "llpp_who_2016": 2.87,
+    "llpp_2016": 0.02,
+    "city": "Hoshangabad",
+    "Total Years Lost": 3749141.27
+  },
+  {
+    "state": "Haryana",
+    "population": 1154239,
+    "weighted_pollution_2016": 70.08,
+    "llpp_who_2016": 5.89,
+    "llpp_2016": 2.95,
+    "city": "Fatehabad",
+    "Total Years Lost": 6798467.71
+  },
+  {
+    "state": "Bihar",
+    "population": 1046497,
+    "weighted_pollution_2016": 74.56,
+    "llpp_who_2016": 6.33,
+    "llpp_2016": 3.39,
+    "city": "Lakhisarai",
+    "Total Years Lost": 6624326.01
+  },
+  {
+    "state": "Telangana",
+    "population": 3110330,
+    "weighted_pollution_2016": 34.85,
+    "llpp_who_2016": 2.44,
+    "llpp_2016": 0,
+    "city": "Medak",
+    "Total Years Lost": 7589205.2
+  },
+  {
+    "state": "Lakshadweep",
+    "population": 421408,
+    "weighted_pollution_2016": 3.97,
+    "llpp_who_2016": 0.04,
+    "llpp_2016": 0,
+    "city": "Lakshadweep",
+    "Total Years Lost": 16856.32
+  },
+  {
+    "state": "Assam",
+    "population": 1081944,
+    "weighted_pollution_2016": 33.81,
+    "llpp_who_2016": 2.33,
+    "llpp_2016": 0,
+    "city": "Morigaon",
+    "Total Years Lost": 2520929.52
+  },
+  {
+    "state": "Karnataka",
+    "population": 1465733,
+    "weighted_pollution_2016": 22.58,
+    "llpp_who_2016": 1.23,
+    "llpp_2016": 0,
+    "city": "Uttara Kannada",
+    "Total Years Lost": 1802851.59
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1051434,
+    "weighted_pollution_2016": 50.7,
+    "llpp_who_2016": 3.99,
+    "llpp_2016": 1.05,
+    "city": "Panna",
+    "Total Years Lost": 4195221.66
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 1448828,
+    "weighted_pollution_2016": 46.52,
+    "llpp_who_2016": 3.58,
+    "llpp_2016": 0.64,
+    "city": "Raigarh",
+    "Total Years Lost": 5186804.24
+  },
+  {
+    "state": "Himachal Pradesh",
+    "population": 638096,
+    "weighted_pollution_2016": 49.12,
+    "llpp_who_2016": 3.83,
+    "llpp_2016": 0.92,
+    "city": "Solan",
+    "Total Years Lost": 2443907.68
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 2448421,
+    "weighted_pollution_2016": 44.42,
+    "llpp_who_2016": 3.37,
+    "llpp_2016": 0.43,
+    "city": "Sagar",
+    "Total Years Lost": 8251178.77
+  },
+  {
+    "state": "Haryana",
+    "population": 1529144,
+    "weighted_pollution_2016": 77.06,
+    "llpp_who_2016": 6.57,
+    "llpp_2016": 3.63,
+    "city": "Ambala",
+    "Total Years Lost": 10046476.08
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 253272,
+    "weighted_pollution_2016": 31.1,
+    "llpp_who_2016": 2.07,
+    "llpp_2016": 0,
+    "city": "Doda",
+    "Total Years Lost": 524273.04
+  },
+  {
+    "state": "Odisha",
+    "population": 2682073,
+    "weighted_pollution_2016": 37.38,
+    "llpp_who_2016": 2.68,
+    "llpp_2016": 0,
+    "city": "Khordha",
+    "Total Years Lost": 7187955.64
+  },
+  {
+    "state": "Rajasthan",
+    "population": 7504453,
+    "weighted_pollution_2016": 52.56,
+    "llpp_who_2016": 4.17,
+    "llpp_2016": 1.23,
+    "city": "Jaipur",
+    "Total Years Lost": 31293569.01
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1337531,
+    "weighted_pollution_2016": 74.89,
+    "llpp_who_2016": 6.36,
+    "llpp_2016": 3.42,
+    "city": "Hamirpur",
+    "Total Years Lost": 8506697.16
+  },
+  {
+    "state": "West Bengal",
+    "population": 7342415,
+    "weighted_pollution_2016": 54.54,
+    "llpp_who_2016": 4.36,
+    "llpp_2016": 1.42,
+    "city": "Murshidabad",
+    "Total Years Lost": 32012929.4
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 245379,
+    "weighted_pollution_2016": 33.1,
+    "llpp_who_2016": 2.26,
+    "llpp_2016": 0,
+    "city": "Bijapur",
+    "Total Years Lost": 554556.54
+  },
+  {
+    "state": "Jharkhand",
+    "population": 996873,
+    "weighted_pollution_2016": 56.28,
+    "llpp_who_2016": 4.54,
+    "llpp_2016": 1.6,
+    "city": "Ramgarh",
+    "Total Years Lost": 4525803.42
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 3153306,
+    "weighted_pollution_2016": 101.38,
+    "llpp_who_2016": 8.96,
+    "llpp_2016": 6.02,
+    "city": "Shahjahanpur",
+    "Total Years Lost": 28253621.76
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1787879,
+    "weighted_pollution_2016": 53.39,
+    "llpp_who_2016": 4.25,
+    "llpp_2016": 1.31,
+    "city": "Shivpuri",
+    "Total Years Lost": 7598485.75
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 874259,
+    "weighted_pollution_2016": 42.22,
+    "llpp_who_2016": 3.16,
+    "llpp_2016": 0.22,
+    "city": "Shajapur",
+    "Total Years Lost": 2762658.44
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1164680,
+    "weighted_pollution_2016": 50.68,
+    "llpp_who_2016": 3.99,
+    "llpp_2016": 1.05,
+    "city": "Sidhi",
+    "Total Years Lost": 4647073.2
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2925568,
+    "weighted_pollution_2016": 86.84,
+    "llpp_who_2016": 7.53,
+    "llpp_2016": 4.59,
+    "city": "Kaushambi",
+    "Total Years Lost": 22029527.04
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 2040345,
+    "weighted_pollution_2016": 40.9,
+    "llpp_who_2016": 3.03,
+    "llpp_2016": 0.1,
+    "city": "Ujjain",
+    "Total Years Lost": 6182245.35
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 3025251,
+    "weighted_pollution_2016": 106.65,
+    "llpp_who_2016": 9.47,
+    "llpp_2016": 6.53,
+    "city": "Faizabad",
+    "Total Years Lost": 28649126.97
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 1016100,
+    "weighted_pollution_2016": 12,
+    "llpp_who_2016": 0.23,
+    "llpp_2016": 0,
+    "city": "Northern Areas",
+    "Total Years Lost": 233703
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 10000,
+    "weighted_pollution_2016": 17.13,
+    "llpp_who_2016": 0.71,
+    "llpp_2016": 0,
+    "city": "Aksai Chin",
+    "Total Years Lost": 7100
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 3603935,
+    "weighted_pollution_2016": 36.69,
+    "llpp_who_2016": 2.62,
+    "llpp_2016": 0,
+    "city": "Kashmir",
+    "Total Years Lost": 9442309.7
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 713468,
+    "weighted_pollution_2016": 40.44,
+    "llpp_who_2016": 2.98,
+    "llpp_2016": 0.06,
+    "city": "Badgam",
+    "Total Years Lost": 2126134.64
+  },
+  {
+    "state": "Maharashtra",
+    "population": 1121250,
+    "weighted_pollution_2016": 47.48,
+    "llpp_who_2016": 3.67,
+    "llpp_2016": 0.73,
+    "city": "Gondiya",
+    "Total Years Lost": 4114987.5
+  },
+  {
+    "state": "Assam",
+    "population": 965362,
+    "weighted_pollution_2016": 24.99,
+    "llpp_who_2016": 1.47,
+    "llpp_2016": 0,
+    "city": "Lakhimpur",
+    "Total Years Lost": 1419082.14
+  },
+  {
+    "state": "Maharashtra",
+    "population": 3828417,
+    "weighted_pollution_2016": 31.72,
+    "llpp_who_2016": 2.13,
+    "llpp_2016": 0,
+    "city": "Kolhapur",
+    "Total Years Lost": 8154528.21
+  },
+  {
+    "state": "Maharashtra",
+    "population": 8882370,
+    "weighted_pollution_2016": 39.14,
+    "llpp_who_2016": 2.86,
+    "llpp_2016": 0.01,
+    "city": "Mumbai Suburban",
+    "Total Years Lost": 25403578.2
+  },
+  {
+    "state": "Punjab",
+    "population": 1200679,
+    "weighted_pollution_2016": 63.24,
+    "llpp_who_2016": 5.22,
+    "llpp_2016": 2.28,
+    "city": "Firozpur",
+    "Total Years Lost": 6267544.38
+  },
+  {
+    "state": "Bihar",
+    "population": 1039510,
+    "weighted_pollution_2016": 89.52,
+    "llpp_who_2016": 7.79,
+    "llpp_2016": 4.85,
+    "city": "Sheohar",
+    "Total Years Lost": 8097782.9
+  },
+  {
+    "state": "Maharashtra",
+    "population": 9945625,
+    "weighted_pollution_2016": 42.53,
+    "llpp_who_2016": 3.19,
+    "llpp_2016": 0.25,
+    "city": "Pune",
+    "Total Years Lost": 31726543.75
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2137282,
+    "weighted_pollution_2016": 106.92,
+    "llpp_who_2016": 9.5,
+    "llpp_2016": 6.56,
+    "city": "Ambedkar Nagar",
+    "Total Years Lost": 20304179
+  },
+  {
+    "state": "Maharashtra",
+    "population": 2709615,
+    "weighted_pollution_2016": 41.21,
+    "llpp_who_2016": 3.06,
+    "llpp_2016": 0.18,
+    "city": "Raigarh",
+    "Total Years Lost": 8291421.9
+  },
+  {
+    "state": "Karnataka",
+    "population": 1032276,
+    "weighted_pollution_2016": 31.71,
+    "llpp_who_2016": 2.13,
+    "llpp_2016": 0,
+    "city": "Yadgir",
+    "Total Years Lost": 2198747.88
+  },
+  {
+    "state": "Maharashtra",
+    "population": 3841737,
+    "weighted_pollution_2016": 39.73,
+    "llpp_who_2016": 2.91,
+    "llpp_2016": 0.03,
+    "city": "Aurangabad",
+    "Total Years Lost": 11179454.67
+  },
+  {
+    "state": "Uttarakhand",
+    "population": 405271,
+    "weighted_pollution_2016": 21.26,
+    "llpp_who_2016": 1.1,
+    "llpp_2016": 0,
+    "city": "Uttarkashi",
+    "Total Years Lost": 445798.1
+  },
+  {
+    "state": "Odisha",
+    "population": 1426748,
+    "weighted_pollution_2016": 34.19,
+    "llpp_who_2016": 2.37,
+    "llpp_2016": 0,
+    "city": "Nabarangapur",
+    "Total Years Lost": 3381392.76
+  },
+  {
+    "state": "Manipur",
+    "population": 467078,
+    "weighted_pollution_2016": 23.24,
+    "llpp_who_2016": 1.3,
+    "llpp_2016": 0,
+    "city": "Imphal East",
+    "Total Years Lost": 607201.4
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2287494,
+    "weighted_pollution_2016": 103.22,
+    "llpp_who_2016": 9.14,
+    "llpp_2016": 6.2,
+    "city": "Sultanpur",
+    "Total Years Lost": 20907695.16
+  },
+  {
+    "state": "Manipur",
+    "population": 601061,
+    "weighted_pollution_2016": 23.44,
+    "llpp_who_2016": 1.32,
+    "llpp_2016": 0,
+    "city": "Imphal West",
+    "Total Years Lost": 793400.52
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 280757,
+    "weighted_pollution_2016": 4.98,
+    "llpp_who_2016": 0,
+    "llpp_2016": 0,
+    "city": "Leh (Ladakh)",
+    "Total Years Lost": 0
+  },
+  {
+    "state": "Odisha",
+    "population": 1234617,
+    "weighted_pollution_2016": 37.21,
+    "llpp_who_2016": 2.67,
+    "llpp_2016": 0,
+    "city": "Jagatsinghapur",
+    "Total Years Lost": 3296427.39
+  },
+  {
+    "state": "NCT of Delhi",
+    "population": 16936616,
+    "weighted_pollution_2016": 113.9,
+    "llpp_who_2016": 10.18,
+    "llpp_2016": 7.24,
+    "city": "NCT of Delhi",
+    "Total Years Lost": 172414750.9
+  },
+  {
+    "state": "Maharashtra",
+    "population": 2623828,
+    "weighted_pollution_2016": 39.51,
+    "llpp_who_2016": 2.89,
+    "llpp_2016": 0,
+    "city": "Buldana",
+    "Total Years Lost": 7582862.92
+  },
+  {
+    "state": "Odisha",
+    "population": 2545881,
+    "weighted_pollution_2016": 42.77,
+    "llpp_who_2016": 3.21,
+    "llpp_2016": 0.27,
+    "city": "Baleshwar",
+    "Total Years Lost": 8172278.01
+  },
+  {
+    "state": "Gujarat",
+    "population": 1156045,
+    "weighted_pollution_2016": 34.33,
+    "llpp_who_2016": 2.38,
+    "llpp_2016": 0,
+    "city": "Aravalli",
+    "Total Years Lost": 2751387.1
+  },
+  {
+    "state": "Rajasthan",
+    "population": 2109167,
+    "weighted_pollution_2016": 30.09,
+    "llpp_who_2016": 1.97,
+    "llpp_2016": 0,
+    "city": "Pali",
+    "Total Years Lost": 4155058.99
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 1380178,
+    "weighted_pollution_2016": 19.72,
+    "llpp_who_2016": 0.95,
+    "llpp_2016": 0,
+    "city": "Theni",
+    "Total Years Lost": 1311169.1
+  },
+  {
+    "state": "Odisha",
+    "population": 1223884,
+    "weighted_pollution_2016": 45.36,
+    "llpp_who_2016": 3.47,
+    "llpp_2016": 0.53,
+    "city": "Bargarh",
+    "Total Years Lost": 4246877.48
+  },
+  {
+    "state": "Himachal Pradesh",
+    "population": 449703,
+    "weighted_pollution_2016": 56.82,
+    "llpp_who_2016": 4.59,
+    "llpp_2016": 1.65,
+    "city": "Una",
+    "Total Years Lost": 2064136.77
+  },
+  {
+    "state": "Odisha",
+    "population": 3241277,
+    "weighted_pollution_2016": 38.9,
+    "llpp_who_2016": 2.83,
+    "llpp_2016": 0,
+    "city": "Cuttack",
+    "Total Years Lost": 9172813.91
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 2171259,
+    "weighted_pollution_2016": 38.15,
+    "llpp_who_2016": 2.76,
+    "llpp_2016": 0,
+    "city": "West Nimar",
+    "Total Years Lost": 5992674.84
+  },
+  {
+    "state": "Haryana",
+    "population": 2312605,
+    "weighted_pollution_2016": 113.86,
+    "llpp_who_2016": 10.18,
+    "llpp_2016": 7.24,
+    "city": "Faridabad",
+    "Total Years Lost": 23542318.9
+  },
+  {
+    "state": "Telangana",
+    "population": 2861214,
+    "weighted_pollution_2016": 38.82,
+    "llpp_who_2016": 2.82,
+    "llpp_2016": 0.01,
+    "city": "Adilabad",
+    "Total Years Lost": 8068623.48
+  },
+  {
+    "state": "Maharashtra",
+    "population": 863975,
+    "weighted_pollution_2016": 27.23,
+    "llpp_who_2016": 1.69,
+    "llpp_2016": 0,
+    "city": "Sindhudurg",
+    "Total Years Lost": 1460117.75
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 2323128,
+    "weighted_pollution_2016": 44.37,
+    "llpp_who_2016": 3.37,
+    "llpp_2016": 0.43,
+    "city": "Jabalpur",
+    "Total Years Lost": 7828941.36
+  },
+  {
+    "state": "West Bengal",
+    "population": 3470160,
+    "weighted_pollution_2016": 54.46,
+    "llpp_who_2016": 4.36,
+    "llpp_2016": 1.42,
+    "city": "Uttar Dinajpur",
+    "Total Years Lost": 15129897.6
+  },
+  {
+    "state": "Gujarat",
+    "population": 2028934,
+    "weighted_pollution_2016": 33.78,
+    "llpp_who_2016": 2.33,
+    "llpp_2016": 0,
+    "city": "Gandhinagar",
+    "Total Years Lost": 4727416.22
+  },
+  {
+    "state": "Rajasthan",
+    "population": 2698734,
+    "weighted_pollution_2016": 37.5,
+    "llpp_who_2016": 2.7,
+    "llpp_2016": 0.02,
+    "city": "Ajmer",
+    "Total Years Lost": 7286581.8
+  },
+  {
+    "state": "Bihar",
+    "population": 1925227,
+    "weighted_pollution_2016": 65.27,
+    "llpp_who_2016": 5.42,
+    "llpp_2016": 2.48,
+    "city": "Jamui",
+    "Total Years Lost": 10434730.34
+  },
+  {
+    "state": "Maharashtra",
+    "population": 9325159,
+    "weighted_pollution_2016": 39.92,
+    "llpp_who_2016": 2.93,
+    "llpp_2016": 0.05,
+    "city": "Thane",
+    "Total Years Lost": 27322715.87
+  },
+  {
+    "state": "Punjab",
+    "population": 1033370,
+    "weighted_pollution_2016": 65.34,
+    "llpp_who_2016": 5.42,
+    "llpp_2016": 2.48,
+    "city": "Bathinda",
+    "Total Years Lost": 5600865.4
+  },
+  {
+    "state": "Rajasthan",
+    "population": 2191705,
+    "weighted_pollution_2016": 46.64,
+    "llpp_who_2016": 3.59,
+    "llpp_2016": 0.65,
+    "city": "Kota",
+    "Total Years Lost": 7868220.95
+  },
+  {
+    "state": "Jharkhand",
+    "population": 772708,
+    "weighted_pollution_2016": 50.33,
+    "llpp_who_2016": 3.95,
+    "llpp_2016": 1.01,
+    "city": "Khunti",
+    "Total Years Lost": 3052196.6
+  },
+  {
+    "state": "Assam",
+    "population": 700543,
+    "weighted_pollution_2016": 39.03,
+    "llpp_who_2016": 2.84,
+    "llpp_2016": 0,
+    "city": "Chirang",
+    "Total Years Lost": 1989542.12
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2665438,
+    "weighted_pollution_2016": 100.01,
+    "llpp_who_2016": 8.82,
+    "llpp_2016": 5.88,
+    "city": "Amethi",
+    "Total Years Lost": 23509163.16
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 3398634,
+    "weighted_pollution_2016": 29.94,
+    "llpp_who_2016": 1.95,
+    "llpp_2016": 0,
+    "city": "Viluppuram",
+    "Total Years Lost": 6627336.3
+  },
+  {
+    "state": "Punjab",
+    "population": 1158126,
+    "weighted_pollution_2016": 57.15,
+    "llpp_who_2016": 4.62,
+    "llpp_2016": 1.68,
+    "city": "Fazilka",
+    "Total Years Lost": 5350542.12
+  },
+  {
+    "state": "Punjab",
+    "population": 1496005,
+    "weighted_pollution_2016": 64.32,
+    "llpp_who_2016": 5.32,
+    "llpp_2016": 2.38,
+    "city": "Hoshiarpur",
+    "Total Years Lost": 7958746.6
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 83017,
+    "weighted_pollution_2016": 13.56,
+    "llpp_who_2016": 0.37,
+    "llpp_2016": 0,
+    "city": "Upper Subansiri",
+    "Total Years Lost": 30716.29
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2074643,
+    "weighted_pollution_2016": 81.57,
+    "llpp_who_2016": 7.01,
+    "llpp_2016": 4.07,
+    "city": "Pilibhit",
+    "Total Years Lost": 14543247.43
+  },
+  {
+    "state": "Uttarakhand",
+    "population": 209949,
+    "weighted_pollution_2016": 25.91,
+    "llpp_who_2016": 1.56,
+    "llpp_2016": 0,
+    "city": "Bageshwar",
+    "Total Years Lost": 327520.44
+  },
+  {
+    "state": "Odisha",
+    "population": 1453886,
+    "weighted_pollution_2016": 28.8,
+    "llpp_who_2016": 1.84,
+    "llpp_2016": 0,
+    "city": "Koraput",
+    "Total Years Lost": 2675150.24
+  },
+  {
+    "state": "Gujarat",
+    "population": 764577,
+    "weighted_pollution_2016": 32.72,
+    "llpp_who_2016": 2.23,
+    "llpp_2016": 0,
+    "city": "Chhota Udaipur",
+    "Total Years Lost": 1705006.71
+  },
+  {
+    "state": "Puducherry",
+    "population": 830613,
+    "weighted_pollution_2016": 29.34,
+    "llpp_who_2016": 1.89,
+    "llpp_2016": 0,
+    "city": "Puducherry",
+    "Total Years Lost": 1569858.57
+  },
+  {
+    "state": "Assam",
+    "population": 1228532,
+    "weighted_pollution_2016": 24.45,
+    "llpp_who_2016": 1.42,
+    "llpp_2016": 0,
+    "city": "Sivasagar",
+    "Total Years Lost": 1744515.44
+  },
+  {
+    "state": "Punjab",
+    "population": 417784,
+    "weighted_pollution_2016": 68.67,
+    "llpp_who_2016": 5.75,
+    "llpp_2016": 2.81,
+    "city": "Mansa",
+    "Total Years Lost": 2402258
+  },
+  {
+    "state": "Mizoram",
+    "population": 431765,
+    "weighted_pollution_2016": 23.72,
+    "llpp_who_2016": 1.34,
+    "llpp_2016": 0,
+    "city": "Aizawl",
+    "Total Years Lost": 578565.1
+  },
+  {
+    "state": "Karnataka",
+    "population": 1074042,
+    "weighted_pollution_2016": 24.46,
+    "llpp_who_2016": 1.42,
+    "llpp_2016": 0,
+    "city": "Chamrajnagar",
+    "Total Years Lost": 1525139.64
+  },
+  {
+    "state": "Punjab",
+    "population": 518028,
+    "weighted_pollution_2016": 56.69,
+    "llpp_who_2016": 4.58,
+    "llpp_2016": 1.64,
+    "city": "Pathankot",
+    "Total Years Lost": 2372568.24
+  },
+  {
+    "state": "Gujarat",
+    "population": 1542893,
+    "weighted_pollution_2016": 28.12,
+    "llpp_who_2016": 1.78,
+    "llpp_2016": 0,
+    "city": "Surendranagar",
+    "Total Years Lost": 2746349.54
+  },
+  {
+    "state": "Rajasthan",
+    "population": 1072643,
+    "weighted_pollution_2016": 27.66,
+    "llpp_who_2016": 1.73,
+    "llpp_2016": 0,
+    "city": "Sirohi",
+    "Total Years Lost": 1855672.39
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1992399,
+    "weighted_pollution_2016": 111.61,
+    "llpp_who_2016": 9.96,
+    "llpp_2016": 7.02,
+    "city": "Farrukhabad",
+    "Total Years Lost": 19844294.04
+  },
+  {
+    "state": "Odisha",
+    "population": 3603738,
+    "weighted_pollution_2016": 33.32,
+    "llpp_who_2016": 2.29,
+    "llpp_2016": 0,
+    "city": "Ganjam",
+    "Total Years Lost": 8252560.02
+  },
+  {
+    "state": "Rajasthan",
+    "population": 1305643,
+    "weighted_pollution_2016": 62.67,
+    "llpp_who_2016": 5.16,
+    "llpp_2016": 2.22,
+    "city": "Dausa",
+    "Total Years Lost": 6737117.88
+  },
+  {
+    "state": "Nagaland",
+    "population": 53342,
+    "weighted_pollution_2016": 22.98,
+    "llpp_who_2016": 1.27,
+    "llpp_2016": 0,
+    "city": "Peren",
+    "Total Years Lost": 67744.34
+  },
+  {
+    "state": "Punjab",
+    "population": 1867276,
+    "weighted_pollution_2016": 79.51,
+    "llpp_who_2016": 6.81,
+    "llpp_2016": 3.87,
+    "city": "Patiala",
+    "Total Years Lost": 12716149.56
+  },
+  {
+    "state": "Rajasthan",
+    "population": 3822121,
+    "weighted_pollution_2016": 68.74,
+    "llpp_who_2016": 5.76,
+    "llpp_2016": 2.82,
+    "city": "Alwar",
+    "Total Years Lost": 22015416.96
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 820746,
+    "weighted_pollution_2016": 54.96,
+    "llpp_who_2016": 4.41,
+    "llpp_2016": 1.48,
+    "city": "Kathua",
+    "Total Years Lost": 3619489.86
+  },
+  {
+    "state": "Rajasthan",
+    "population": 1240467,
+    "weighted_pollution_2016": 81.8,
+    "llpp_who_2016": 7.04,
+    "llpp_2016": 4.1,
+    "city": "Dhaulpur",
+    "Total Years Lost": 8732887.68
+  },
+  {
+    "state": "Gujarat",
+    "population": 3554754,
+    "weighted_pollution_2016": 34.95,
+    "llpp_who_2016": 2.44,
+    "llpp_2016": 0,
+    "city": "Vadodara",
+    "Total Years Lost": 8673599.76
+  },
+  {
+    "state": "Rajasthan",
+    "population": 2437877,
+    "weighted_pollution_2016": 24.05,
+    "llpp_who_2016": 1.38,
+    "llpp_2016": 0,
+    "city": "Bikaner",
+    "Total Years Lost": 3364270.26
+  },
+  {
+    "state": "Kerala",
+    "population": 1104367,
+    "weighted_pollution_2016": 17.15,
+    "llpp_who_2016": 0.7,
+    "llpp_2016": 0,
+    "city": "Idukki",
+    "Total Years Lost": 773056.9
+  },
+  {
+    "state": "Nagaland",
+    "population": 43025,
+    "weighted_pollution_2016": 17.66,
+    "llpp_who_2016": 0.75,
+    "llpp_2016": 0,
+    "city": "Kiphire",
+    "Total Years Lost": 32268.75
+  },
+  {
+    "state": "Rajasthan",
+    "population": 3810317,
+    "weighted_pollution_2016": 27.08,
+    "llpp_who_2016": 1.67,
+    "llpp_2016": 0,
+    "city": "Jodhpur",
+    "Total Years Lost": 6363229.39
+  },
+  {
+    "state": "Bihar",
+    "population": 3355628,
+    "weighted_pollution_2016": 101.89,
+    "llpp_who_2016": 9.01,
+    "llpp_2016": 6.07,
+    "city": "Siwan",
+    "Total Years Lost": 30234208.28
+  },
+  {
+    "state": "Jharkhand",
+    "population": 542115,
+    "weighted_pollution_2016": 60.4,
+    "llpp_who_2016": 4.94,
+    "llpp_2016": 2,
+    "city": "Kodarma",
+    "Total Years Lost": 2678048.1
+  },
+  {
+    "state": "Odisha",
+    "population": 2168939,
+    "weighted_pollution_2016": 45.53,
+    "llpp_who_2016": 3.48,
+    "llpp_2016": 0.54,
+    "city": "Sundargarh",
+    "Total Years Lost": 7547907.72
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 4657356,
+    "weighted_pollution_2016": 100.09,
+    "llpp_who_2016": 8.83,
+    "llpp_2016": 5.89,
+    "city": "Sitapur",
+    "Total Years Lost": 41124453.48
+  },
+  {
+    "state": "Karnataka",
+    "population": 1888123,
+    "weighted_pollution_2016": 25.09,
+    "llpp_who_2016": 1.48,
+    "llpp_2016": 0,
+    "city": "Mandya",
+    "Total Years Lost": 2794422.04
+  },
+  {
+    "state": "Karnataka",
+    "population": 1272558,
+    "weighted_pollution_2016": 25.19,
+    "llpp_who_2016": 1.49,
+    "llpp_2016": 0,
+    "city": "Gadag",
+    "Total Years Lost": 1896111.42
+  },
+  {
+    "state": "Maharashtra",
+    "population": 2013793,
+    "weighted_pollution_2016": 40.29,
+    "llpp_who_2016": 2.97,
+    "llpp_2016": 0.04,
+    "city": "Jalna",
+    "Total Years Lost": 5980965.21
+  },
+  {
+    "state": "Karnataka",
+    "population": 1140858,
+    "weighted_pollution_2016": 26.31,
+    "llpp_who_2016": 1.6,
+    "llpp_2016": 0,
+    "city": "Ramanagara",
+    "Total Years Lost": 1825372.8
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1634188,
+    "weighted_pollution_2016": 111.61,
+    "llpp_who_2016": 9.96,
+    "llpp_2016": 7.02,
+    "city": "Mainpuri",
+    "Total Years Lost": 16276512.48
+  },
+  {
+    "state": "Telangana",
+    "population": 3905573,
+    "weighted_pollution_2016": 36.51,
+    "llpp_who_2016": 2.6,
+    "llpp_2016": 0,
+    "city": "Karimnagar",
+    "Total Years Lost": 10154489.8
+  },
+  {
+    "state": "Kerala",
+    "population": 2030577,
+    "weighted_pollution_2016": 14.06,
+    "llpp_who_2016": 0.4,
+    "llpp_2016": 0,
+    "city": "Kottayam",
+    "Total Years Lost": 812230.8
+  },
+  {
+    "state": "Telangana",
+    "population": 4163634,
+    "weighted_pollution_2016": 31.49,
+    "llpp_who_2016": 2.11,
+    "llpp_2016": 0,
+    "city": "Mahbubnagar",
+    "Total Years Lost": 8785267.74
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 4493921,
+    "weighted_pollution_2016": 100.79,
+    "llpp_who_2016": 8.9,
+    "llpp_2016": 5.96,
+    "city": "Agra",
+    "Total Years Lost": 39995896.9
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 2284065,
+    "weighted_pollution_2016": 60.28,
+    "llpp_who_2016": 4.93,
+    "llpp_2016": 1.99,
+    "city": "Raipur",
+    "Total Years Lost": 11260440.45
+  },
+  {
+    "state": "Andaman and Nicobar",
+    "population": 103029,
+    "weighted_pollution_2016": 11.63,
+    "llpp_who_2016": 0.16,
+    "llpp_2016": 0,
+    "city": "North and Middle Andaman",
+    "Total Years Lost": 16484.64
+  },
+  {
+    "state": "Punjab",
+    "population": 538399,
+    "weighted_pollution_2016": 75,
+    "llpp_who_2016": 6.37,
+    "llpp_2016": 3.43,
+    "city": "Fatehgarh Sahib",
+    "Total Years Lost": 3429601.63
+  },
+  {
+    "state": "Meghalaya",
+    "population": 99311,
+    "weighted_pollution_2016": 45.7,
+    "llpp_who_2016": 3.5,
+    "llpp_2016": 0.56,
+    "city": "South West Garo Hills",
+    "Total Years Lost": 347588.5
+  },
+  {
+    "state": "Rajasthan",
+    "population": 2408115,
+    "weighted_pollution_2016": 42.12,
+    "llpp_who_2016": 3.15,
+    "llpp_2016": 0.46,
+    "city": "Ganganagar",
+    "Total Years Lost": 7585562.25
+  },
+  {
+    "state": "Assam",
+    "population": 1952174,
+    "weighted_pollution_2016": 32.6,
+    "llpp_who_2016": 2.21,
+    "llpp_2016": 0,
+    "city": "Cachar",
+    "Total Years Lost": 4314304.54
+  },
+  {
+    "state": "Maharashtra",
+    "population": 2688889,
+    "weighted_pollution_2016": 39.23,
+    "llpp_who_2016": 2.86,
+    "llpp_2016": 0,
+    "city": "Latur",
+    "Total Years Lost": 7690222.54
+  },
+  {
+    "state": "Tripura",
+    "population": 1012067,
+    "weighted_pollution_2016": 53.25,
+    "llpp_who_2016": 4.24,
+    "llpp_2016": 1.3,
+    "city": "West Tripura",
+    "Total Years Lost": 4291164.08
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 4760169,
+    "weighted_pollution_2016": 82.2,
+    "llpp_who_2016": 7.08,
+    "llpp_2016": 4.14,
+    "city": "Allahabad",
+    "Total Years Lost": 33701996.52
+  },
+  {
+    "state": "Assam",
+    "population": 2026505,
+    "weighted_pollution_2016": 30.37,
+    "llpp_who_2016": 2,
+    "llpp_2016": 0,
+    "city": "Sonitpur",
+    "Total Years Lost": 4053010
+  },
+  {
+    "state": "Punjab",
+    "population": 924529,
+    "weighted_pollution_2016": 61.64,
+    "llpp_who_2016": 5.06,
+    "llpp_2016": 2.12,
+    "city": "Muktsar",
+    "Total Years Lost": 4678116.74
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 2679084,
+    "weighted_pollution_2016": 27.02,
+    "llpp_who_2016": 1.67,
+    "llpp_2016": 0,
+    "city": "Namakkal",
+    "Total Years Lost": 4474070.28
+  },
+  {
+    "state": "West Bengal",
+    "population": 3606576,
+    "weighted_pollution_2016": 54.42,
+    "llpp_who_2016": 4.35,
+    "llpp_2016": 1.41,
+    "city": "Birbhum",
+    "Total Years Lost": 15688605.6
+  },
+  {
+    "state": "Gujarat",
+    "population": 1339282,
+    "weighted_pollution_2016": 29.33,
+    "llpp_who_2016": 1.89,
+    "llpp_2016": 0,
+    "city": "Patan",
+    "Total Years Lost": 2531242.98
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 3328808,
+    "weighted_pollution_2016": 87.23,
+    "llpp_who_2016": 7.57,
+    "llpp_2016": 4.63,
+    "city": "Maharajganj",
+    "Total Years Lost": 25199076.56
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1300894,
+    "weighted_pollution_2016": 102.07,
+    "llpp_who_2016": 9.02,
+    "llpp_2016": 6.08,
+    "city": "Sant Kabir Nagar",
+    "Total Years Lost": 11734063.88
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2399541,
+    "weighted_pollution_2016": 109.83,
+    "llpp_who_2016": 9.78,
+    "llpp_2016": 6.84,
+    "city": "Amroha",
+    "Total Years Lost": 23467510.98
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1379478,
+    "weighted_pollution_2016": 41.46,
+    "llpp_who_2016": 3.08,
+    "llpp_2016": 0.18,
+    "city": "Shahdol",
+    "Total Years Lost": 4248792.24
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1981918,
+    "weighted_pollution_2016": 72.67,
+    "llpp_who_2016": 6.14,
+    "llpp_2016": 3.2,
+    "city": "Gwalior",
+    "Total Years Lost": 12168976.52
+  },
+  {
+    "state": "Rajasthan",
+    "population": 937452,
+    "weighted_pollution_2016": 37.17,
+    "llpp_who_2016": 2.66,
+    "llpp_2016": 0,
+    "city": "Pratapgarh",
+    "Total Years Lost": 2493622.32
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1476046,
+    "weighted_pollution_2016": 97.81,
+    "llpp_who_2016": 8.61,
+    "llpp_2016": 5.67,
+    "city": "Auraiya",
+    "Total Years Lost": 12708756.06
+  },
+  {
+    "state": "Uttarakhand",
+    "population": 784675,
+    "weighted_pollution_2016": 43.6,
+    "llpp_who_2016": 3.29,
+    "llpp_2016": 0.65,
+    "city": "Garhwal",
+    "Total Years Lost": 2581580.75
+  },
+  {
+    "state": "Gujarat",
+    "population": 1648862,
+    "weighted_pollution_2016": 21.4,
+    "llpp_who_2016": 1.12,
+    "llpp_2016": 0,
+    "city": "Jamnagar",
+    "Total Years Lost": 1846725.44
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2864738,
+    "weighted_pollution_2016": 105.16,
+    "llpp_who_2016": 9.33,
+    "llpp_2016": 6.39,
+    "city": "Basti",
+    "Total Years Lost": 26728005.54
+  },
+  {
+    "state": "Rajasthan",
+    "population": 1360756,
+    "weighted_pollution_2016": 30.63,
+    "llpp_who_2016": 2.02,
+    "llpp_2016": 0,
+    "city": "Rajsamand",
+    "Total Years Lost": 2748727.12
+  },
+  {
+    "state": "Kerala",
+    "population": 3153280,
+    "weighted_pollution_2016": 22.89,
+    "llpp_who_2016": 1.26,
+    "llpp_2016": 0,
+    "city": "Kozhikode",
+    "Total Years Lost": 3973132.8
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 3458904,
+    "weighted_pollution_2016": 102.05,
+    "llpp_who_2016": 9.02,
+    "llpp_2016": 6.08,
+    "city": "Deoria",
+    "Total Years Lost": 31199314.08
+  },
+  {
+    "state": "Rajasthan",
+    "population": 704776,
+    "weighted_pollution_2016": 21.52,
+    "llpp_who_2016": 1.13,
+    "llpp_2016": 0,
+    "city": "Jaisalmer",
+    "Total Years Lost": 796396.88
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1369577,
+    "weighted_pollution_2016": 41.46,
+    "llpp_who_2016": 3.08,
+    "llpp_2016": 0.14,
+    "city": "Raisen",
+    "Total Years Lost": 4218297.16
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1955524,
+    "weighted_pollution_2016": 113.62,
+    "llpp_who_2016": 10.16,
+    "llpp_2016": 7.22,
+    "city": "Etah",
+    "Total Years Lost": 19868123.84
+  },
+  {
+    "state": "Kerala",
+    "population": 1277454,
+    "weighted_pollution_2016": 13.37,
+    "llpp_who_2016": 0.33,
+    "llpp_2016": 0,
+    "city": "Pathanamthitta",
+    "Total Years Lost": 421559.82
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2859390,
+    "weighted_pollution_2016": 118.81,
+    "llpp_who_2016": 10.66,
+    "llpp_2016": 7.72,
+    "city": "Gautam Buddha Nagar",
+    "Total Years Lost": 30481097.4
+  },
+  {
+    "state": "Karnataka",
+    "population": 1853849,
+    "weighted_pollution_2016": 21.06,
+    "llpp_who_2016": 1.08,
+    "llpp_2016": 0,
+    "city": "Hassan",
+    "Total Years Lost": 2002156.92
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 3361813,
+    "weighted_pollution_2016": 104.43,
+    "llpp_who_2016": 9.25,
+    "llpp_2016": 6.31,
+    "city": "Barabanki",
+    "Total Years Lost": 31096770.25
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 3664667,
+    "weighted_pollution_2016": 93.45,
+    "llpp_who_2016": 8.18,
+    "llpp_2016": 5.24,
+    "city": "Ghazipur",
+    "Total Years Lost": 29976976.06
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 4173969,
+    "weighted_pollution_2016": 102.13,
+    "llpp_who_2016": 9.03,
+    "llpp_2016": 6.09,
+    "city": "Gorakhpur",
+    "Total Years Lost": 37690940.07
+  },
+  {
+    "state": "Andhra Pradesh",
+    "population": 3008512,
+    "weighted_pollution_2016": 27.49,
+    "llpp_who_2016": 1.71,
+    "llpp_2016": 0,
+    "city": "Y.S.R.",
+    "Total Years Lost": 5144555.52
+  },
+  {
+    "state": "Assam",
+    "population": 536852,
+    "weighted_pollution_2016": 39.84,
+    "llpp_who_2016": 2.92,
+    "llpp_2016": 0.01,
+    "city": "Bongaigaon",
+    "Total Years Lost": 1567607.84
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 2958054,
+    "weighted_pollution_2016": 22.37,
+    "llpp_who_2016": 1.21,
+    "llpp_2016": 0,
+    "city": "Madurai",
+    "Total Years Lost": 3579245.34
+  },
+  {
+    "state": "Maharashtra",
+    "population": 1224578,
+    "weighted_pollution_2016": 40.4,
+    "llpp_who_2016": 2.98,
+    "llpp_2016": 0.06,
+    "city": "Washim",
+    "Total Years Lost": 3649242.44
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1173643,
+    "weighted_pollution_2016": 93.8,
+    "llpp_who_2016": 8.21,
+    "llpp_2016": 5.27,
+    "city": "Kanpur Dehat",
+    "Total Years Lost": 9635609.03
+  },
+  {
+    "state": "Mizoram",
+    "population": 79099,
+    "weighted_pollution_2016": 19.23,
+    "llpp_who_2016": 0.9,
+    "llpp_2016": 0,
+    "city": "Saiha",
+    "Total Years Lost": 71189.1
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 741930,
+    "weighted_pollution_2016": 64.98,
+    "llpp_who_2016": 5.39,
+    "llpp_2016": 2.45,
+    "city": "Mahoba",
+    "Total Years Lost": 3999002.7
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 1852740,
+    "weighted_pollution_2016": 49.3,
+    "llpp_who_2016": 3.85,
+    "llpp_2016": 0.91,
+    "city": "Bilaspur",
+    "Total Years Lost": 7133049
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2792219,
+    "weighted_pollution_2016": 100.49,
+    "llpp_who_2016": 8.87,
+    "llpp_2016": 5.93,
+    "city": "Moradabad",
+    "Total Years Lost": 24766982.53
+  },
+  {
+    "state": "Bihar",
+    "population": 1000128,
+    "weighted_pollution_2016": 82.01,
+    "llpp_who_2016": 7.06,
+    "llpp_2016": 4.12,
+    "city": "Jehanabad",
+    "Total Years Lost": 7060903.68
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 3518979,
+    "weighted_pollution_2016": 85.55,
+    "llpp_who_2016": 7.4,
+    "llpp_2016": 4.46,
+    "city": "Saharanpur",
+    "Total Years Lost": 26040444.6
+  },
+  {
+    "state": "Odisha",
+    "population": 359594,
+    "weighted_pollution_2016": 41.64,
+    "llpp_who_2016": 3.1,
+    "llpp_2016": 0.16,
+    "city": "Debagarh",
+    "Total Years Lost": 1114741.4
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 2442472,
+    "weighted_pollution_2016": 42.41,
+    "llpp_who_2016": 3.18,
+    "llpp_2016": 0.24,
+    "city": "Bhopal",
+    "Total Years Lost": 7767060.96
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1692445,
+    "weighted_pollution_2016": 85.93,
+    "llpp_who_2016": 7.44,
+    "llpp_2016": 4.5,
+    "city": "Sant Ravi Das Nagar",
+    "Total Years Lost": 12591790.8
+  },
+  {
+    "state": "Karnataka",
+    "population": 4917204,
+    "weighted_pollution_2016": 29.06,
+    "llpp_who_2016": 1.87,
+    "llpp_2016": 0,
+    "city": "Belgaum",
+    "Total Years Lost": 9195171.48
+  },
+  {
+    "state": "Assam",
+    "population": 1376984,
+    "weighted_pollution_2016": 35.42,
+    "llpp_who_2016": 2.49,
+    "llpp_2016": 0,
+    "city": "Kamrup",
+    "Total Years Lost": 3428690.16
+  },
+  {
+    "state": "Andhra Pradesh",
+    "population": 2454721,
+    "weighted_pollution_2016": 31.45,
+    "llpp_who_2016": 2.1,
+    "llpp_2016": 0,
+    "city": "Vizianagaram",
+    "Total Years Lost": 5154914.1
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2798128,
+    "weighted_pollution_2016": 89.12,
+    "llpp_who_2016": 7.75,
+    "llpp_2016": 4.81,
+    "city": "Siddharth Nagar",
+    "Total Years Lost": 21685492
+  },
+  {
+    "state": "Bihar",
+    "population": 6186091,
+    "weighted_pollution_2016": 88.48,
+    "llpp_who_2016": 7.69,
+    "llpp_2016": 4.75,
+    "city": "Patna",
+    "Total Years Lost": 47571039.79
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 55963,
+    "weighted_pollution_2016": 18.73,
+    "llpp_who_2016": 0.86,
+    "llpp_2016": 0,
+    "city": "Longding",
+    "Total Years Lost": 48128.18
+  },
+  {
+    "state": "Karnataka",
+    "population": 553589,
+    "weighted_pollution_2016": 19.42,
+    "llpp_who_2016": 0.92,
+    "llpp_2016": 0,
+    "city": "Kodagu",
+    "Total Years Lost": 509301.88
+  },
+  {
+    "state": "Daman and Diu",
+    "population": 459588,
+    "weighted_pollution_2016": 27.6,
+    "llpp_who_2016": 1.72,
+    "llpp_2016": 0,
+    "city": "Daman",
+    "Total Years Lost": 790491.36
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1483284,
+    "weighted_pollution_2016": 53.16,
+    "llpp_who_2016": 4.23,
+    "llpp_2016": 1.29,
+    "city": "Tikamgarh",
+    "Total Years Lost": 6274291.32
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 750864,
+    "weighted_pollution_2016": 31,
+    "llpp_who_2016": 2.06,
+    "llpp_2016": 0,
+    "city": "Kupwara",
+    "Total Years Lost": 1546779.84
+  },
+  {
+    "state": "Odisha",
+    "population": 677689,
+    "weighted_pollution_2016": 29.9,
+    "llpp_who_2016": 1.95,
+    "llpp_2016": 0,
+    "city": "Gajapati",
+    "Total Years Lost": 1321493.55
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 151804,
+    "weighted_pollution_2016": 17.28,
+    "llpp_who_2016": 0.71,
+    "llpp_2016": 0,
+    "city": "Lower Subansiri",
+    "Total Years Lost": 107780.84
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 742280,
+    "weighted_pollution_2016": 20.87,
+    "llpp_who_2016": 1.07,
+    "llpp_2016": 0,
+    "city": "The Nilgiris",
+    "Total Years Lost": 794239.6
+  },
+  {
+    "state": "Puducherry",
+    "population": 327793,
+    "weighted_pollution_2016": 24.36,
+    "llpp_who_2016": 1.41,
+    "llpp_2016": 0,
+    "city": "Karaikal",
+    "Total Years Lost": 462188.13
+  },
+  {
+    "state": "Maharashtra",
+    "population": 4435845,
+    "weighted_pollution_2016": 37.28,
+    "llpp_who_2016": 2.67,
+    "llpp_2016": 0,
+    "city": "Solapur",
+    "Total Years Lost": 11843706.15
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 2196552,
+    "weighted_pollution_2016": 24.22,
+    "llpp_who_2016": 1.39,
+    "llpp_2016": 0,
+    "city": "Dindigul",
+    "Total Years Lost": 3053207.28
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 2182142,
+    "weighted_pollution_2016": 26.58,
+    "llpp_who_2016": 1.63,
+    "llpp_2016": 0,
+    "city": "Krishnagiri",
+    "Total Years Lost": 3556891.46
+  },
+  {
+    "state": "Maharashtra",
+    "population": 2286711,
+    "weighted_pollution_2016": 43.03,
+    "llpp_who_2016": 3.24,
+    "llpp_2016": 0.3,
+    "city": "Chandrapur",
+    "Total Years Lost": 7408943.64
+  },
+  {
+    "state": "Puducherry",
+    "population": 148686,
+    "weighted_pollution_2016": 22.62,
+    "llpp_who_2016": 1.24,
+    "llpp_2016": 0,
+    "city": "Mahe",
+    "Total Years Lost": 184370.64
+  },
+  {
+    "state": "Gujarat",
+    "population": 2148618,
+    "weighted_pollution_2016": 21.95,
+    "llpp_who_2016": 1.17,
+    "llpp_2016": 0,
+    "city": "Junagadh",
+    "Total Years Lost": 2513883.06
+  },
+  {
+    "state": "Manipur",
+    "population": 188046,
+    "weighted_pollution_2016": 18.17,
+    "llpp_who_2016": 0.8,
+    "llpp_2016": 0,
+    "city": "Ukhrul",
+    "Total Years Lost": 150436.8
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 4537212,
+    "weighted_pollution_2016": 123.56,
+    "llpp_who_2016": 11.13,
+    "llpp_2016": 8.19,
+    "city": "Bulandshahr",
+    "Total Years Lost": 50499169.56
+  },
+  {
+    "state": "Assam",
+    "population": 1214632,
+    "weighted_pollution_2016": 38.93,
+    "llpp_who_2016": 2.84,
+    "llpp_2016": 0.01,
+    "city": "Karimganj",
+    "Total Years Lost": 3449554.88
+  },
+  {
+    "state": "Nagaland",
+    "population": 68094,
+    "weighted_pollution_2016": 21.63,
+    "llpp_who_2016": 1.14,
+    "llpp_2016": 0,
+    "city": "Longleng",
+    "Total Years Lost": 77627.16
+  },
+  {
+    "state": "Assam",
+    "population": 2904260,
+    "weighted_pollution_2016": 32.47,
+    "llpp_who_2016": 2.2,
+    "llpp_2016": 0,
+    "city": "Nagaon",
+    "Total Years Lost": 6389372
+  },
+  {
+    "state": "Uttarakhand",
+    "population": 557200,
+    "weighted_pollution_2016": 21.2,
+    "llpp_who_2016": 1.1,
+    "llpp_2016": 0,
+    "city": "Chamoli",
+    "Total Years Lost": 612920
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 1363603,
+    "weighted_pollution_2016": 27.43,
+    "llpp_who_2016": 1.71,
+    "llpp_2016": 0,
+    "city": "Dharmapuri",
+    "Total Years Lost": 2331761.13
+  },
+  {
+    "state": "Gujarat",
+    "population": 7309096,
+    "weighted_pollution_2016": 32.3,
+    "llpp_who_2016": 2.19,
+    "llpp_2016": 0,
+    "city": "Ahmadabad",
+    "Total Years Lost": 16006920.24
+  },
+  {
+    "state": "Andhra Pradesh",
+    "population": 3109262,
+    "weighted_pollution_2016": 27.37,
+    "llpp_who_2016": 1.7,
+    "llpp_2016": 0,
+    "city": "Nellore",
+    "Total Years Lost": 5285745.4
+  },
+  {
+    "state": "Andhra Pradesh",
+    "population": 2755761,
+    "weighted_pollution_2016": 31.84,
+    "llpp_who_2016": 2.14,
+    "llpp_2016": 0,
+    "city": "Srikakulam",
+    "Total Years Lost": 5897328.54
+  },
+  {
+    "state": "Assam",
+    "population": 1071121,
+    "weighted_pollution_2016": 32.07,
+    "llpp_who_2016": 2.16,
+    "llpp_2016": 0,
+    "city": "Udalguri",
+    "Total Years Lost": 2313621.36
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 2230648,
+    "weighted_pollution_2016": 36.83,
+    "llpp_who_2016": 2.63,
+    "llpp_2016": 0,
+    "city": "Dhar",
+    "Total Years Lost": 5866604.24
+  },
+  {
+    "state": "Uttarakhand",
+    "population": 1858484,
+    "weighted_pollution_2016": 72.71,
+    "llpp_who_2016": 6.15,
+    "llpp_2016": 3.21,
+    "city": "Udham Singh Nagar",
+    "Total Years Lost": 11429676.6
+  },
+  {
+    "state": "West Bengal",
+    "population": 3741761,
+    "weighted_pollution_2016": 53.75,
+    "llpp_who_2016": 4.29,
+    "llpp_2016": 1.35,
+    "city": "Bankura",
+    "Total Years Lost": 16052154.69
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 3378834,
+    "weighted_pollution_2016": 87.08,
+    "llpp_who_2016": 7.55,
+    "llpp_2016": 4.61,
+    "city": "Varanasi",
+    "Total Years Lost": 25510196.7
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 676892,
+    "weighted_pollution_2016": 43.11,
+    "llpp_who_2016": 3.24,
+    "llpp_2016": 0.32,
+    "city": "Uttar Bastar Kanker",
+    "Total Years Lost": 2193130.08
+  },
+  {
+    "state": "Nagaland",
+    "population": 158776,
+    "weighted_pollution_2016": 23.19,
+    "llpp_who_2016": 1.29,
+    "llpp_2016": 0,
+    "city": "Wokha",
+    "Total Years Lost": 204821.04
+  },
+  {
+    "state": "West Bengal",
+    "population": 4523706,
+    "weighted_pollution_2016": 45.54,
+    "llpp_who_2016": 3.48,
+    "llpp_2016": 0.54,
+    "city": "Kolkata",
+    "Total Years Lost": 15742496.88
+  },
+  {
+    "state": "West Bengal",
+    "population": 1605214,
+    "weighted_pollution_2016": 54.31,
+    "llpp_who_2016": 4.34,
+    "llpp_2016": 1.4,
+    "city": "Dakshin Dinajpur",
+    "Total Years Lost": 6966628.76
+  },
+  {
+    "state": "West Bengal",
+    "population": 2811405,
+    "weighted_pollution_2016": 48.15,
+    "llpp_who_2016": 3.74,
+    "llpp_2016": 0.8,
+    "city": "Jalpaiguri",
+    "Total Years Lost": 10514654.7
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 1989325,
+    "weighted_pollution_2016": 9.23,
+    "llpp_who_2016": 0,
+    "llpp_2016": 0,
+    "city": "Kanniyakumari",
+    "Total Years Lost": 0
+  },
+  {
+    "state": "Andhra Pradesh",
+    "population": 5010138,
+    "weighted_pollution_2016": 33.28,
+    "llpp_who_2016": 2.28,
+    "llpp_2016": 0,
+    "city": "Guntur",
+    "Total Years Lost": 11423114.64
+  },
+  {
+    "state": "Assam",
+    "population": 583286,
+    "weighted_pollution_2016": 36.64,
+    "llpp_who_2016": 2.61,
+    "llpp_2016": 0,
+    "city": "Hailakandi",
+    "Total Years Lost": 1522376.46
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1496917,
+    "weighted_pollution_2016": 39.56,
+    "llpp_who_2016": 2.9,
+    "llpp_2016": 0.07,
+    "city": "Ratlam",
+    "Total Years Lost": 4341059.3
+  },
+  {
+    "state": "Uttarakhand",
+    "population": 667458,
+    "weighted_pollution_2016": 32.15,
+    "llpp_who_2016": 2.17,
+    "llpp_2016": 0.01,
+    "city": "Almora",
+    "Total Years Lost": 1448383.86
+  },
+  {
+    "state": "Himachal Pradesh",
+    "population": 530117,
+    "weighted_pollution_2016": 45.52,
+    "llpp_who_2016": 3.48,
+    "llpp_2016": 0.68,
+    "city": "Sirmaur",
+    "Total Years Lost": 1844807.16
+  },
+  {
+    "state": "Assam",
+    "population": 846822,
+    "weighted_pollution_2016": 23.09,
+    "llpp_who_2016": 1.28,
+    "llpp_2016": 0,
+    "city": "Dhemaji",
+    "Total Years Lost": 1083932.16
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 815388,
+    "weighted_pollution_2016": 32.65,
+    "llpp_who_2016": 2.22,
+    "llpp_2016": 0,
+    "city": "Alirajpur",
+    "Total Years Lost": 1810161.36
+  },
+  {
+    "state": "Jharkhand",
+    "population": 1244540,
+    "weighted_pollution_2016": 55.7,
+    "llpp_who_2016": 4.48,
+    "llpp_2016": 1.54,
+    "city": "Saraikela-kharsawan",
+    "Total Years Lost": 5575539.2
+  },
+  {
+    "state": "Gujarat",
+    "population": 990555,
+    "weighted_pollution_2016": 25.5,
+    "llpp_who_2016": 1.52,
+    "llpp_2016": 0,
+    "city": "Morbi",
+    "Total Years Lost": 1505643.6
+  },
+  {
+    "state": "Haryana",
+    "population": 1684661,
+    "weighted_pollution_2016": 68.97,
+    "llpp_who_2016": 5.78,
+    "llpp_2016": 2.84,
+    "city": "Bhiwani",
+    "Total Years Lost": 9737340.58
+  },
+  {
+    "state": "Bihar",
+    "population": 636521,
+    "weighted_pollution_2016": 83.46,
+    "llpp_who_2016": 7.2,
+    "llpp_2016": 4.26,
+    "city": "Arwal",
+    "Total Years Lost": 4582951.2
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 55028,
+    "weighted_pollution_2016": 18.92,
+    "llpp_who_2016": 0.87,
+    "llpp_2016": 0,
+    "city": "Tirap",
+    "Total Years Lost": 47874.36
+  },
+  {
+    "state": "Jharkhand",
+    "population": 2205698,
+    "weighted_pollution_2016": 53.41,
+    "llpp_who_2016": 4.25,
+    "llpp_2016": 1.31,
+    "city": "Purbi Singhbhum",
+    "Total Years Lost": 9374216.5
+  },
+  {
+    "state": "Punjab",
+    "population": 2330296,
+    "weighted_pollution_2016": 68.16,
+    "llpp_who_2016": 5.7,
+    "llpp_2016": 2.76,
+    "city": "Jalandhar",
+    "Total Years Lost": 13282687.2
+  },
+  {
+    "state": "Karnataka",
+    "population": 1998463,
+    "weighted_pollution_2016": 21.66,
+    "llpp_who_2016": 1.14,
+    "llpp_2016": 0,
+    "city": "Dakshina Kannada",
+    "Total Years Lost": 2278247.82
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1301131,
+    "weighted_pollution_2016": 117.47,
+    "llpp_who_2016": 10.53,
+    "llpp_2016": 7.59,
+    "city": "Kasganj",
+    "Total Years Lost": 13700909.43
+  },
+  {
+    "state": "Odisha",
+    "population": 1309710,
+    "weighted_pollution_2016": 40.55,
+    "llpp_who_2016": 2.99,
+    "llpp_2016": 0.07,
+    "city": "Bhadrak",
+    "Total Years Lost": 3916032.9
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 1945485,
+    "weighted_pollution_2016": 53.33,
+    "llpp_who_2016": 4.25,
+    "llpp_2016": 1.31,
+    "city": "Rajnandgaon",
+    "Total Years Lost": 8268311.25
+  },
+  {
+    "state": "Haryana",
+    "population": 1485235,
+    "weighted_pollution_2016": 108.57,
+    "llpp_who_2016": 9.66,
+    "llpp_2016": 6.72,
+    "city": "Sonipat",
+    "Total Years Lost": 14347370.1
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2476955,
+    "weighted_pollution_2016": 84.52,
+    "llpp_who_2016": 7.3,
+    "llpp_2016": 4.36,
+    "city": "Shravasti",
+    "Total Years Lost": 18081771.5
+  },
+  {
+    "state": "West Bengal",
+    "population": 8133291,
+    "weighted_pollution_2016": 53.21,
+    "llpp_who_2016": 4.23,
+    "llpp_2016": 1.29,
+    "city": "Barddhaman",
+    "Total Years Lost": 34403820.93
+  },
+  {
+    "state": "Uttarakhand",
+    "population": 92912,
+    "weighted_pollution_2016": 20.05,
+    "llpp_who_2016": 0.98,
+    "llpp_2016": 0,
+    "city": "Rudraprayag",
+    "Total Years Lost": 91053.76
+  },
+  {
+    "state": "Andhra Pradesh",
+    "population": 4349313,
+    "weighted_pollution_2016": 26.22,
+    "llpp_who_2016": 1.59,
+    "llpp_2016": 0,
+    "city": "Chittoor",
+    "Total Years Lost": 6915407.67
+  },
+  {
+    "state": "Bihar",
+    "population": 3363260,
+    "weighted_pollution_2016": 64.47,
+    "llpp_who_2016": 5.34,
+    "llpp_2016": 2.4,
+    "city": "Purnia",
+    "Total Years Lost": 17959808.4
+  },
+  {
+    "state": "Rajasthan",
+    "population": 1476072,
+    "weighted_pollution_2016": 49.11,
+    "llpp_who_2016": 3.83,
+    "llpp_2016": 0.89,
+    "city": "Tonk",
+    "Total Years Lost": 5653355.76
+  },
+  {
+    "state": "West Bengal",
+    "population": 5328893,
+    "weighted_pollution_2016": 50.22,
+    "llpp_who_2016": 3.94,
+    "llpp_2016": 1,
+    "city": "Nadia",
+    "Total Years Lost": 20995838.42
+  },
+  {
+    "state": "Bihar",
+    "population": 3798884,
+    "weighted_pollution_2016": 97.34,
+    "llpp_who_2016": 8.56,
+    "llpp_2016": 5.62,
+    "city": "Saran",
+    "Total Years Lost": 32518447.04
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 35980,
+    "weighted_pollution_2016": 10.27,
+    "llpp_who_2016": 0.12,
+    "llpp_2016": 0,
+    "city": "Upper Siang",
+    "Total Years Lost": 4317.6
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 1562778,
+    "weighted_pollution_2016": 25.73,
+    "llpp_who_2016": 1.54,
+    "llpp_2016": 0,
+    "city": "Nagappattinam",
+    "Total Years Lost": 2406678.12
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 1678285,
+    "weighted_pollution_2016": 27.3,
+    "llpp_who_2016": 1.7,
+    "llpp_2016": 0,
+    "city": "Karur",
+    "Total Years Lost": 2853084.5
+  },
+  {
+    "state": "Karnataka",
+    "population": 2830809,
+    "weighted_pollution_2016": 26.72,
+    "llpp_who_2016": 1.64,
+    "llpp_2016": 0,
+    "city": "Bellary",
+    "Total Years Lost": 4642526.76
+  },
+  {
+    "state": "Gujarat",
+    "population": 2240424,
+    "weighted_pollution_2016": 38.09,
+    "llpp_who_2016": 2.75,
+    "llpp_2016": 0,
+    "city": "Kheda",
+    "Total Years Lost": 6161166
+  },
+  {
+    "state": "Jharkhand",
+    "population": 1530839,
+    "weighted_pollution_2016": 57.12,
+    "llpp_who_2016": 4.62,
+    "llpp_2016": 1.68,
+    "city": "Deoghar",
+    "Total Years Lost": 7072476.18
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 1906989,
+    "weighted_pollution_2016": 20.71,
+    "llpp_who_2016": 1.05,
+    "llpp_2016": 0,
+    "city": "Virudunagar",
+    "Total Years Lost": 2002338.45
+  },
+  {
+    "state": "Karnataka",
+    "population": 1472058,
+    "weighted_pollution_2016": 24.1,
+    "llpp_who_2016": 1.38,
+    "llpp_2016": 0,
+    "city": "Chitradurga",
+    "Total Years Lost": 2031440.04
+  },
+  {
+    "state": "Tripura",
+    "population": 379832,
+    "weighted_pollution_2016": 52.12,
+    "llpp_who_2016": 4.13,
+    "llpp_2016": 1.19,
+    "city": "Sipahijala",
+    "Total Years Lost": 1568706.16
+  },
+  {
+    "state": "Odisha",
+    "population": 1289247,
+    "weighted_pollution_2016": 43.57,
+    "llpp_who_2016": 3.29,
+    "llpp_2016": 0.35,
+    "city": "Sambalpur",
+    "Total Years Lost": 4241622.63
+  },
+  {
+    "state": "Karnataka",
+    "population": 2361239,
+    "weighted_pollution_2016": 30.18,
+    "llpp_who_2016": 1.98,
+    "llpp_2016": 0,
+    "city": "Bagalkot",
+    "Total Years Lost": 4675253.22
+  },
+  {
+    "state": "Jharkhand",
+    "population": 1508067,
+    "weighted_pollution_2016": 55,
+    "llpp_who_2016": 4.41,
+    "llpp_2016": 1.47,
+    "city": "Garhwa",
+    "Total Years Lost": 6650575.47
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 4537390,
+    "weighted_pollution_2016": 29.32,
+    "llpp_who_2016": 1.89,
+    "llpp_2016": 0,
+    "city": "Kancheepuram",
+    "Total Years Lost": 8575667.1
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 445229,
+    "weighted_pollution_2016": 39.74,
+    "llpp_who_2016": 2.91,
+    "llpp_2016": 0.01,
+    "city": "Anuppur",
+    "Total Years Lost": 1295616.39
+  },
+  {
+    "state": "West Bengal",
+    "population": 1436317,
+    "weighted_pollution_2016": 45.97,
+    "llpp_who_2016": 3.53,
+    "llpp_2016": 0.59,
+    "city": "Alipurduar",
+    "Total Years Lost": 5070199.01
+  },
+  {
+    "state": "Himachal Pradesh",
+    "population": 33898,
+    "weighted_pollution_2016": 14.34,
+    "llpp_who_2016": 0.51,
+    "llpp_2016": 0,
+    "city": "Lahul & Spiti",
+    "Total Years Lost": 17287.98
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 3259697,
+    "weighted_pollution_2016": 96.31,
+    "llpp_who_2016": 8.46,
+    "llpp_2016": 5.52,
+    "city": "Pratapgarh",
+    "Total Years Lost": 27577036.62
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1220491,
+    "weighted_pollution_2016": 50.7,
+    "llpp_who_2016": 3.99,
+    "llpp_2016": 1.05,
+    "city": "Singrauli",
+    "Total Years Lost": 4869759.09
+  },
+  {
+    "state": "Dadra and Nagar Haveli",
+    "population": 298120,
+    "weighted_pollution_2016": 27.8,
+    "llpp_who_2016": 1.74,
+    "llpp_2016": 0,
+    "city": "Dadra and Nagar Haveli",
+    "Total Years Lost": 518728.8
+  },
+  {
+    "state": "Telangana",
+    "population": 2654597,
+    "weighted_pollution_2016": 37.21,
+    "llpp_who_2016": 2.67,
+    "llpp_2016": 0,
+    "city": "Nizamabad",
+    "Total Years Lost": 7087773.99
+  },
+  {
+    "state": "Andaman and Nicobar",
+    "population": 254563,
+    "weighted_pollution_2016": 9.89,
+    "llpp_who_2016": 0,
+    "llpp_2016": 0,
+    "city": "South Andaman",
+    "Total Years Lost": 0
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 98768,
+    "weighted_pollution_2016": 17.66,
+    "llpp_who_2016": 0.75,
+    "llpp_2016": 0,
+    "city": "Lohit",
+    "Total Years Lost": 74076
+  },
+  {
+    "state": "Rajasthan",
+    "population": 1906227,
+    "weighted_pollution_2016": 26.63,
+    "llpp_who_2016": 1.63,
+    "llpp_2016": 0,
+    "city": "Jalor",
+    "Total Years Lost": 3107150.01
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 3762842,
+    "weighted_pollution_2016": 88.96,
+    "llpp_who_2016": 7.74,
+    "llpp_2016": 4.8,
+    "city": "Bijnor",
+    "Total Years Lost": 29124397.08
+  },
+  {
+    "state": "Kerala",
+    "population": 2598401,
+    "weighted_pollution_2016": 9.96,
+    "llpp_who_2016": 0.05,
+    "llpp_2016": 0,
+    "city": "Kollam",
+    "Total Years Lost": 129920.05
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 1354839,
+    "weighted_pollution_2016": 19.97,
+    "llpp_who_2016": 0.98,
+    "llpp_2016": 0,
+    "city": "Ramanathapuram",
+    "Total Years Lost": 1327742.22
+  },
+  {
+    "state": "Gujarat",
+    "population": 686559,
+    "weighted_pollution_2016": 18.55,
+    "llpp_who_2016": 0.84,
+    "llpp_2016": 0,
+    "city": "Porbandar",
+    "Total Years Lost": 576709.56
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 230499,
+    "weighted_pollution_2016": 23.18,
+    "llpp_who_2016": 1.29,
+    "llpp_2016": 0,
+    "city": "Kishtwar",
+    "Total Years Lost": 297343.71
+  },
+  {
+    "state": "Odisha",
+    "population": 888241,
+    "weighted_pollution_2016": 35.56,
+    "llpp_who_2016": 2.5,
+    "llpp_2016": 0,
+    "city": "Nayagarh",
+    "Total Years Lost": 2220602.5
+  },
+  {
+    "state": "Andhra Pradesh",
+    "population": 4410793,
+    "weighted_pollution_2016": 32.62,
+    "llpp_who_2016": 2.22,
+    "llpp_2016": 0,
+    "city": "Visakhapatnam",
+    "Total Years Lost": 9791960.46
+  },
+  {
+    "state": "Maharashtra",
+    "population": 2878757,
+    "weighted_pollution_2016": 41.68,
+    "llpp_who_2016": 3.1,
+    "llpp_2016": 0.17,
+    "city": "Yavatmal",
+    "Total Years Lost": 8924146.7
+  },
+  {
+    "state": "Gujarat",
+    "population": 1581771,
+    "weighted_pollution_2016": 27.86,
+    "llpp_who_2016": 1.75,
+    "llpp_2016": 0,
+    "city": "Valsad",
+    "Total Years Lost": 2768099.25
+  },
+  {
+    "state": "Nagaland",
+    "population": 206457,
+    "weighted_pollution_2016": 22.8,
+    "llpp_who_2016": 1.25,
+    "llpp_2016": 0,
+    "city": "Mokokchung",
+    "Total Years Lost": 258071.25
+  },
+  {
+    "state": "Jharkhand",
+    "population": 1355264,
+    "weighted_pollution_2016": 55.48,
+    "llpp_who_2016": 4.46,
+    "llpp_2016": 1.52,
+    "city": "Dumka",
+    "Total Years Lost": 6044477.44
+  },
+  {
+    "state": "Kerala",
+    "population": 2978268,
+    "weighted_pollution_2016": 22.24,
+    "llpp_who_2016": 1.2,
+    "llpp_2016": 0,
+    "city": "Palakkad",
+    "Total Years Lost": 3573921.6
+  },
+  {
+    "state": "Himachal Pradesh",
+    "population": 510270,
+    "weighted_pollution_2016": 26.46,
+    "llpp_who_2016": 1.61,
+    "llpp_2016": 0,
+    "city": "Kullu",
+    "Total Years Lost": 821534.7
+  },
+  {
+    "state": "Odisha",
+    "population": 669058,
+    "weighted_pollution_2016": 45.8,
+    "llpp_who_2016": 3.51,
+    "llpp_2016": 0.57,
+    "city": "Jharsuguda",
+    "Total Years Lost": 2348393.58
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 2894805,
+    "weighted_pollution_2016": 25.44,
+    "llpp_who_2016": 1.51,
+    "llpp_2016": 0,
+    "city": "Coimbatore",
+    "Total Years Lost": 4371155.55
+  },
+  {
+    "state": "Odisha",
+    "population": 1864040,
+    "weighted_pollution_2016": 42,
+    "llpp_who_2016": 3.14,
+    "llpp_2016": 0.2,
+    "city": "Kendujhar",
+    "Total Years Lost": 5853085.6
+  },
+  {
+    "state": "Assam",
+    "population": 746128,
+    "weighted_pollution_2016": 34.56,
+    "llpp_who_2016": 2.41,
+    "llpp_2016": 0,
+    "city": "Darrang",
+    "Total Years Lost": 1798168.48
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 1447880,
+    "weighted_pollution_2016": 22.42,
+    "llpp_who_2016": 1.22,
+    "llpp_2016": 0,
+    "city": "Sivaganga",
+    "Total Years Lost": 1766413.6
+  },
+  {
+    "state": "Odisha",
+    "population": 699881,
+    "weighted_pollution_2016": 43.78,
+    "llpp_who_2016": 3.31,
+    "llpp_2016": 0.37,
+    "city": "Nuapada",
+    "Total Years Lost": 2316606.11
+  },
+  {
+    "state": "Rajasthan",
+    "population": 1454464,
+    "weighted_pollution_2016": 45.51,
+    "llpp_who_2016": 3.48,
+    "llpp_2016": 0.54,
+    "city": "Jhalawar",
+    "Total Years Lost": 5061534.72
+  },
+  {
+    "state": "Manipur",
+    "population": 94260,
+    "weighted_pollution_2016": 20.41,
+    "llpp_who_2016": 1.02,
+    "llpp_2016": 0,
+    "city": "Chandel",
+    "Total Years Lost": 96145.2
+  },
+  {
+    "state": "Punjab",
+    "population": 850908,
+    "weighted_pollution_2016": 64.87,
+    "llpp_who_2016": 5.38,
+    "llpp_2016": 2.44,
+    "city": "Rupnagar",
+    "Total Years Lost": 4577885.04
+  },
+  {
+    "state": "Assam",
+    "population": 1741577,
+    "weighted_pollution_2016": 44.95,
+    "llpp_who_2016": 3.43,
+    "llpp_2016": 0.49,
+    "city": "Dhubri",
+    "Total Years Lost": 5973609.11
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 1176763,
+    "weighted_pollution_2016": 50.78,
+    "llpp_who_2016": 4,
+    "llpp_2016": 1.06,
+    "city": "Mahasamund",
+    "Total Years Lost": 4707052
+  },
+  {
+    "state": "Goa",
+    "population": 851428,
+    "weighted_pollution_2016": 24.47,
+    "llpp_who_2016": 1.42,
+    "llpp_2016": 0,
+    "city": "South Goa",
+    "Total Years Lost": 1209027.76
+  },
+  {
+    "state": "Himachal Pradesh",
+    "population": 486740,
+    "weighted_pollution_2016": 49.19,
+    "llpp_who_2016": 3.84,
+    "llpp_2016": 0.9,
+    "city": "Hamirpur",
+    "Total Years Lost": 1869081.6
+  },
+  {
+    "state": "Gujarat",
+    "population": 1347908,
+    "weighted_pollution_2016": 32.69,
+    "llpp_who_2016": 2.22,
+    "llpp_2016": 0,
+    "city": "Sabar Kantha",
+    "Total Years Lost": 2992355.76
+  },
+  {
+    "state": "Punjab",
+    "population": 2360635,
+    "weighted_pollution_2016": 74.5,
+    "llpp_who_2016": 6.32,
+    "llpp_2016": 3.38,
+    "city": "Sangrur",
+    "Total Years Lost": 14919213.2
+  },
+  {
+    "state": "Uttarakhand",
+    "population": 765690,
+    "weighted_pollution_2016": 53.65,
+    "llpp_who_2016": 4.28,
+    "llpp_2016": 1.37,
+    "city": "Nainital",
+    "Total Years Lost": 3277153.2
+  },
+  {
+    "state": "Gujarat",
+    "population": 2946410,
+    "weighted_pollution_2016": 28.23,
+    "llpp_who_2016": 1.79,
+    "llpp_2016": 0,
+    "city": "Banas Kantha",
+    "Total Years Lost": 5274073.9
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 615064,
+    "weighted_pollution_2016": 37.99,
+    "llpp_who_2016": 2.74,
+    "llpp_2016": 0,
+    "city": "Burhanpur",
+    "Total Years Lost": 1685275.36
+  },
+  {
+    "state": "Nagaland",
+    "population": 234359,
+    "weighted_pollution_2016": 19.75,
+    "llpp_who_2016": 0.96,
+    "llpp_2016": 0,
+    "city": "Kohima",
+    "Total Years Lost": 224984.64
+  },
+  {
+    "state": "Manipur",
+    "population": 249631,
+    "weighted_pollution_2016": 22.31,
+    "llpp_who_2016": 1.21,
+    "llpp_2016": 0,
+    "city": "Bishnupur",
+    "Total Years Lost": 302053.51
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 3317224,
+    "weighted_pollution_2016": 93.7,
+    "llpp_who_2016": 8.2,
+    "llpp_2016": 5.26,
+    "city": "Kushinagar",
+    "Total Years Lost": 27201236.8
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 4022865,
+    "weighted_pollution_2016": 117.54,
+    "llpp_who_2016": 10.54,
+    "llpp_2016": 7.6,
+    "city": "Aligarh",
+    "Total Years Lost": 42400997.1
+  },
+  {
+    "state": "Manipur",
+    "population": 177170,
+    "weighted_pollution_2016": 20.09,
+    "llpp_who_2016": 0.99,
+    "llpp_2016": 0,
+    "city": "Senapati",
+    "Total Years Lost": 175398.3
+  },
+  {
+    "state": "Bihar",
+    "population": 2820063,
+    "weighted_pollution_2016": 82.72,
+    "llpp_who_2016": 7.13,
+    "llpp_2016": 4.19,
+    "city": "Nalanda",
+    "Total Years Lost": 20107049.19
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 912438,
+    "weighted_pollution_2016": 71.24,
+    "llpp_who_2016": 6,
+    "llpp_2016": 3.06,
+    "city": "Chitrakoot",
+    "Total Years Lost": 5474628
+  },
+  {
+    "state": "Telangana",
+    "population": 2907601,
+    "weighted_pollution_2016": 32.57,
+    "llpp_who_2016": 2.21,
+    "llpp_2016": 0,
+    "city": "Khammam",
+    "Total Years Lost": 6425798.21
+  },
+  {
+    "state": "Punjab",
+    "population": 1849251,
+    "weighted_pollution_2016": 65.34,
+    "llpp_who_2016": 5.42,
+    "llpp_2016": 2.48,
+    "city": "Gurdaspur",
+    "Total Years Lost": 10022940.42
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 3159051,
+    "weighted_pollution_2016": 102.13,
+    "llpp_who_2016": 9.03,
+    "llpp_2016": 6.09,
+    "city": "Unnao",
+    "Total Years Lost": 28526230.53
+  },
+  {
+    "state": "Gujarat",
+    "population": 1668327,
+    "weighted_pollution_2016": 34.33,
+    "llpp_who_2016": 2.38,
+    "llpp_2016": 0,
+    "city": "Dahod",
+    "Total Years Lost": 3970618.26
+  },
+  {
+    "state": "Jharkhand",
+    "population": 757872,
+    "weighted_pollution_2016": 45.21,
+    "llpp_who_2016": 3.45,
+    "llpp_2016": 0.51,
+    "city": "Simdega",
+    "Total Years Lost": 2614658.4
+  },
+  {
+    "state": "Kerala",
+    "population": 2499960,
+    "weighted_pollution_2016": 22.52,
+    "llpp_who_2016": 1.23,
+    "llpp_2016": 0,
+    "city": "Kannur",
+    "Total Years Lost": 3074950.8
+  },
+  {
+    "state": "Bihar",
+    "population": 2994847,
+    "weighted_pollution_2016": 63.07,
+    "llpp_who_2016": 5.2,
+    "llpp_2016": 2.26,
+    "city": "Katihar",
+    "Total Years Lost": 15573204.4
+  },
+  {
+    "state": "Maharashtra",
+    "population": 4830042,
+    "weighted_pollution_2016": 44.18,
+    "llpp_who_2016": 3.35,
+    "llpp_2016": 0.42,
+    "city": "Nagpur",
+    "Total Years Lost": 16180640.7
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2310513,
+    "weighted_pollution_2016": 117.61,
+    "llpp_who_2016": 10.55,
+    "llpp_2016": 7.61,
+    "city": "Sambhal",
+    "Total Years Lost": 24375912.15
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2161199,
+    "weighted_pollution_2016": 80.71,
+    "llpp_who_2016": 6.93,
+    "llpp_2016": 3.99,
+    "city": "Chandauli",
+    "Total Years Lost": 14977109.07
+  },
+  {
+    "state": "Haryana",
+    "population": 1329056,
+    "weighted_pollution_2016": 58.53,
+    "llpp_who_2016": 4.76,
+    "llpp_2016": 1.82,
+    "city": "Sirsa",
+    "Total Years Lost": 6326306.56
+  },
+  {
+    "state": "Bihar",
+    "population": 2955795,
+    "weighted_pollution_2016": 77.98,
+    "llpp_who_2016": 6.66,
+    "llpp_2016": 3.72,
+    "city": "Rohtas",
+    "Total Years Lost": 19685594.7
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2316295,
+    "weighted_pollution_2016": 86.54,
+    "llpp_who_2016": 7.5,
+    "llpp_2016": 4.56,
+    "city": "Bahraich",
+    "Total Years Lost": 17372212.5
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1615390,
+    "weighted_pollution_2016": 35.3,
+    "llpp_who_2016": 2.48,
+    "llpp_2016": 0,
+    "city": "Betul",
+    "Total Years Lost": 4006167.2
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 1234795,
+    "weighted_pollution_2016": 38.46,
+    "llpp_who_2016": 2.79,
+    "llpp_2016": 0.01,
+    "city": "Srinagar",
+    "Total Years Lost": 3445078.05
+  },
+  {
+    "state": "Rajasthan",
+    "population": 2187537,
+    "weighted_pollution_2016": 46.46,
+    "llpp_who_2016": 3.57,
+    "llpp_2016": 0.64,
+    "city": "Jhunjhunun",
+    "Total Years Lost": 7809507.09
+  },
+  {
+    "state": "Kerala",
+    "population": 4242035,
+    "weighted_pollution_2016": 22.86,
+    "llpp_who_2016": 1.26,
+    "llpp_2016": 0,
+    "city": "Malappuram",
+    "Total Years Lost": 5344964.1
+  },
+  {
+    "state": "Mizoram",
+    "population": 162561,
+    "weighted_pollution_2016": 23.8,
+    "llpp_who_2016": 1.35,
+    "llpp_2016": 0,
+    "city": "Lunglei",
+    "Total Years Lost": 219457.35
+  },
+  {
+    "state": "Gujarat",
+    "population": 629661,
+    "weighted_pollution_2016": 21.57,
+    "llpp_who_2016": 1.13,
+    "llpp_2016": 0,
+    "city": "Gir Somnath",
+    "Total Years Lost": 711516.93
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 3078951,
+    "weighted_pollution_2016": 25.73,
+    "llpp_who_2016": 1.54,
+    "llpp_2016": 0,
+    "city": "Tiruppur",
+    "Total Years Lost": 4741584.54
+  },
+  {
+    "state": "Odisha",
+    "population": 616263,
+    "weighted_pollution_2016": 31.78,
+    "llpp_who_2016": 2.13,
+    "llpp_2016": 0,
+    "city": "Kandhamal",
+    "Total Years Lost": 1312640.19
+  },
+  {
+    "state": "Haryana",
+    "population": 756969,
+    "weighted_pollution_2016": 74.51,
+    "llpp_who_2016": 6.32,
+    "llpp_2016": 3.38,
+    "city": "Rewari",
+    "Total Years Lost": 4784044.08
+  },
+  {
+    "state": "Telangana",
+    "population": 4126760,
+    "weighted_pollution_2016": 33.24,
+    "llpp_who_2016": 2.28,
+    "llpp_2016": 0,
+    "city": "Hyderabad",
+    "Total Years Lost": 9409012.8
+  },
+  {
+    "state": "Odisha",
+    "population": 1541919,
+    "weighted_pollution_2016": 37.07,
+    "llpp_who_2016": 2.65,
+    "llpp_2016": 0,
+    "city": "Kalahandi",
+    "Total Years Lost": 4086085.35
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2721536,
+    "weighted_pollution_2016": 86.65,
+    "llpp_who_2016": 7.51,
+    "llpp_2016": 4.57,
+    "city": "Fatehpur",
+    "Total Years Lost": 20438735.36
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 1268041,
+    "weighted_pollution_2016": 54.39,
+    "llpp_who_2016": 4.35,
+    "llpp_2016": 1.41,
+    "city": "Baloda Bazar",
+    "Total Years Lost": 5515978.35
+  },
+  {
+    "state": "Himachal Pradesh",
+    "population": 496249,
+    "weighted_pollution_2016": 32.38,
+    "llpp_who_2016": 2.19,
+    "llpp_2016": 0.02,
+    "city": "Chamba",
+    "Total Years Lost": 1086785.31
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 785337,
+    "weighted_pollution_2016": 39.49,
+    "llpp_who_2016": 2.89,
+    "llpp_2016": 0.01,
+    "city": "Surguja",
+    "Total Years Lost": 2269623.93
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 3006924,
+    "weighted_pollution_2016": 107.46,
+    "llpp_who_2016": 9.55,
+    "llpp_2016": 6.61,
+    "city": "Firozabad",
+    "Total Years Lost": 28716124.2
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1518449,
+    "weighted_pollution_2016": 38.08,
+    "llpp_who_2016": 2.75,
+    "llpp_2016": 0,
+    "city": "East Nimar",
+    "Total Years Lost": 4175734.75
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 719311,
+    "weighted_pollution_2016": 43.08,
+    "llpp_who_2016": 3.24,
+    "llpp_2016": 0.3,
+    "city": "Umaria",
+    "Total Years Lost": 2330567.64
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 170206,
+    "weighted_pollution_2016": 18.12,
+    "llpp_who_2016": 0.8,
+    "llpp_2016": 0,
+    "city": "Changlang",
+    "Total Years Lost": 136164.8
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 652523,
+    "weighted_pollution_2016": 54.85,
+    "llpp_who_2016": 4.4,
+    "llpp_2016": 1.46,
+    "city": "Bemetara",
+    "Total Years Lost": 2871101.2
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1584007,
+    "weighted_pollution_2016": 44.45,
+    "llpp_who_2016": 3.38,
+    "llpp_2016": 0.44,
+    "city": "Rajgarh",
+    "Total Years Lost": 5353943.66
+  },
+  {
+    "state": "Gujarat",
+    "population": 2286085,
+    "weighted_pollution_2016": 36.76,
+    "llpp_who_2016": 2.62,
+    "llpp_2016": 0,
+    "city": "Anand",
+    "Total Years Lost": 5989542.7
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 51298,
+    "weighted_pollution_2016": 11.7,
+    "llpp_who_2016": 0.18,
+    "llpp_2016": 0,
+    "city": "Anjaw",
+    "Total Years Lost": 9233.64
+  },
+  {
+    "state": "Kerala",
+    "population": 1314128,
+    "weighted_pollution_2016": 22.06,
+    "llpp_who_2016": 1.18,
+    "llpp_2016": 0,
+    "city": "Kasaragod",
+    "Total Years Lost": 1550671.04
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1297306,
+    "weighted_pollution_2016": 40.79,
+    "llpp_who_2016": 3.02,
+    "llpp_2016": 0.1,
+    "city": "Sehore",
+    "Total Years Lost": 3917864.12
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 623906,
+    "weighted_pollution_2016": 39.31,
+    "llpp_who_2016": 2.87,
+    "llpp_2016": 0.11,
+    "city": "Rajouri",
+    "Total Years Lost": 1790610.22
+  },
+  {
+    "state": "Kerala",
+    "population": 3077850,
+    "weighted_pollution_2016": 18.93,
+    "llpp_who_2016": 0.88,
+    "llpp_2016": 0,
+    "city": "Thrissur",
+    "Total Years Lost": 2708508
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1388313,
+    "weighted_pollution_2016": 42.14,
+    "llpp_who_2016": 3.15,
+    "llpp_2016": 0.21,
+    "city": "Mandsaur",
+    "Total Years Lost": 4373185.95
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1080636,
+    "weighted_pollution_2016": 55.19,
+    "llpp_who_2016": 4.43,
+    "llpp_2016": 1.49,
+    "city": "Sheopur",
+    "Total Years Lost": 4787217.48
+  },
+  {
+    "state": "Rajasthan",
+    "population": 2774046,
+    "weighted_pollution_2016": 42.96,
+    "llpp_who_2016": 3.23,
+    "llpp_2016": 0.37,
+    "city": "Sikar",
+    "Total Years Lost": 8960168.58
+  },
+  {
+    "state": "Gujarat",
+    "population": 1908726,
+    "weighted_pollution_2016": 34.5,
+    "llpp_who_2016": 2.4,
+    "llpp_2016": 0,
+    "city": "Bharuch",
+    "Total Years Lost": 4580942.4
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 3074595,
+    "weighted_pollution_2016": 13.37,
+    "llpp_who_2016": 0.37,
+    "llpp_2016": 0,
+    "city": "Tirunelveli",
+    "Total Years Lost": 1137600.15
+  },
+  {
+    "state": "Rajasthan",
+    "population": 1428433,
+    "weighted_pollution_2016": 34.07,
+    "llpp_who_2016": 2.36,
+    "llpp_2016": 0,
+    "city": "Dungarpur",
+    "Total Years Lost": 3371101.88
+  },
+  {
+    "state": "Maharashtra",
+    "population": 1549092,
+    "weighted_pollution_2016": 32.83,
+    "llpp_who_2016": 2.24,
+    "llpp_2016": 0,
+    "city": "Nandurbar",
+    "Total Years Lost": 3469966.08
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2427211,
+    "weighted_pollution_2016": 95.52,
+    "llpp_who_2016": 8.38,
+    "llpp_2016": 5.44,
+    "city": "Rampur",
+    "Total Years Lost": 20340028.18
+  },
+  {
+    "state": "Telangana",
+    "population": 3615438,
+    "weighted_pollution_2016": 33.78,
+    "llpp_who_2016": 2.33,
+    "llpp_2016": 0,
+    "city": "Warangal",
+    "Total Years Lost": 8423970.54
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 4109269,
+    "weighted_pollution_2016": 83.67,
+    "llpp_who_2016": 7.22,
+    "llpp_2016": 4.28,
+    "city": "Lakhimpur Kheri",
+    "Total Years Lost": 29668922.18
+  },
+  {
+    "state": "Himachal Pradesh",
+    "population": 860332,
+    "weighted_pollution_2016": 30.08,
+    "llpp_who_2016": 1.97,
+    "llpp_2016": 0,
+    "city": "Shimla",
+    "Total Years Lost": 1694854.04
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 897991,
+    "weighted_pollution_2016": 50.61,
+    "llpp_who_2016": 3.98,
+    "llpp_2016": 1.04,
+    "city": "Dhamtari",
+    "Total Years Lost": 3574004.18
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1668681,
+    "weighted_pollution_2016": 105.79,
+    "llpp_who_2016": 9.39,
+    "llpp_2016": 6.45,
+    "city": "Kannauj",
+    "Total Years Lost": 15668914.59
+  },
+  {
+    "state": "Meghalaya",
+    "population": 400144,
+    "weighted_pollution_2016": 26.99,
+    "llpp_who_2016": 1.67,
+    "llpp_2016": 0,
+    "city": "Jaintia Hills",
+    "Total Years Lost": 668240.48
+  },
+  {
+    "state": "Haryana",
+    "population": 956831,
+    "weighted_pollution_2016": 105.08,
+    "llpp_who_2016": 9.32,
+    "llpp_2016": 6.38,
+    "city": "Panipat",
+    "Total Years Lost": 8917664.92
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 612172,
+    "weighted_pollution_2016": 40.22,
+    "llpp_who_2016": 2.96,
+    "llpp_2016": 0.04,
+    "city": "Koriya",
+    "Total Years Lost": 1812029.12
+  },
+  {
+    "state": "Mizoram",
+    "population": 56645,
+    "weighted_pollution_2016": 20.78,
+    "llpp_who_2016": 1.06,
+    "llpp_2016": 0,
+    "city": "Serchhip",
+    "Total Years Lost": 60043.7
+  },
+  {
+    "state": "Bihar",
+    "population": 5763170,
+    "weighted_pollution_2016": 91.39,
+    "llpp_who_2016": 7.98,
+    "llpp_2016": 5.04,
+    "city": "Purba Champaran",
+    "Total Years Lost": 45990096.6
+  },
+  {
+    "state": "Maharashtra",
+    "population": 1674194,
+    "weighted_pollution_2016": 31.09,
+    "llpp_who_2016": 2.07,
+    "llpp_2016": 0,
+    "city": "Ratnagiri",
+    "Total Years Lost": 3465581.58
+  },
+  {
+    "state": "Karnataka",
+    "population": 2851143,
+    "weighted_pollution_2016": 34.29,
+    "llpp_who_2016": 2.38,
+    "llpp_2016": 0,
+    "city": "Gulbarga",
+    "Total Years Lost": 6785720.34
+  },
+  {
+    "state": "Maharashtra",
+    "population": 2715913,
+    "weighted_pollution_2016": 40.6,
+    "llpp_who_2016": 3,
+    "llpp_2016": 0.07,
+    "city": "Bid",
+    "Total Years Lost": 8147739
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 1357027,
+    "weighted_pollution_2016": 25.55,
+    "llpp_who_2016": 1.52,
+    "llpp_2016": 0,
+    "city": "Thiruvarur",
+    "Total Years Lost": 2062681.04
+  },
+  {
+    "state": "Manipur",
+    "population": 140777,
+    "weighted_pollution_2016": 21.39,
+    "llpp_who_2016": 1.12,
+    "llpp_2016": 0,
+    "city": "Tamenglong",
+    "Total Years Lost": 157670.24
+  },
+  {
+    "state": "Jharkhand",
+    "population": 811498,
+    "weighted_pollution_2016": 56.17,
+    "llpp_who_2016": 4.52,
+    "llpp_2016": 1.58,
+    "city": "Jamtara",
+    "Total Years Lost": 3667970.96
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 873005,
+    "weighted_pollution_2016": 39.74,
+    "llpp_who_2016": 2.91,
+    "llpp_2016": 0.04,
+    "city": "Neemuch",
+    "Total Years Lost": 2540444.55
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 2459311,
+    "weighted_pollution_2016": 58.32,
+    "llpp_who_2016": 4.74,
+    "llpp_2016": 1.8,
+    "city": "Rewa",
+    "Total Years Lost": 11657134.14
+  },
+  {
+    "state": "Bihar",
+    "population": 1282481,
+    "weighted_pollution_2016": 70.12,
+    "llpp_who_2016": 5.89,
+    "llpp_2016": 2.95,
+    "city": "Munger",
+    "Total Years Lost": 7553813.09
+  },
+  {
+    "state": "Maharashtra",
+    "population": 1120815,
+    "weighted_pollution_2016": 41.8,
+    "llpp_who_2016": 3.12,
+    "llpp_2016": 0.27,
+    "city": "Garhchiroli",
+    "Total Years Lost": 3496942.8
+  },
+  {
+    "state": "Haryana",
+    "population": 1043166,
+    "weighted_pollution_2016": 95,
+    "llpp_who_2016": 8.33,
+    "llpp_2016": 5.39,
+    "city": "Rohtak",
+    "Total Years Lost": 8689572.78
+  },
+  {
+    "state": "Mizoram",
+    "population": 55118,
+    "weighted_pollution_2016": 29.36,
+    "llpp_who_2016": 1.9,
+    "llpp_2016": 0,
+    "city": "Kolasib",
+    "Total Years Lost": 104724.2
+  },
+  {
+    "state": "Rajasthan",
+    "population": 2852969,
+    "weighted_pollution_2016": 30.8,
+    "llpp_who_2016": 2.04,
+    "llpp_2016": 0,
+    "city": "Udaipur",
+    "Total Years Lost": 5820056.76
+  },
+  {
+    "state": "Odisha",
+    "population": 1782956,
+    "weighted_pollution_2016": 42.41,
+    "llpp_who_2016": 3.18,
+    "llpp_2016": 0.24,
+    "city": "Balangir",
+    "Total Years Lost": 5669800.08
+  },
+  {
+    "state": "Meghalaya",
+    "population": 60387,
+    "weighted_pollution_2016": 37.17,
+    "llpp_who_2016": 2.66,
+    "llpp_2016": 0,
+    "city": "North Garo Hills",
+    "Total Years Lost": 160629.42
+  },
+  {
+    "state": "Maharashtra",
+    "population": 1944633,
+    "weighted_pollution_2016": 40.27,
+    "llpp_who_2016": 2.97,
+    "llpp_2016": 0.03,
+    "city": "Parbhani",
+    "Total Years Lost": 5775560.01
+  },
+  {
+    "state": "West Bengal",
+    "population": 2675745,
+    "weighted_pollution_2016": 48.46,
+    "llpp_who_2016": 3.77,
+    "llpp_2016": 0.83,
+    "city": "Koch Bihar",
+    "Total Years Lost": 10087558.65
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1267974,
+    "weighted_pollution_2016": 48.26,
+    "llpp_who_2016": 3.75,
+    "llpp_2016": 0.81,
+    "city": "Lalitpur",
+    "Total Years Lost": 4754902.5
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 1238845,
+    "weighted_pollution_2016": 37.14,
+    "llpp_who_2016": 2.66,
+    "llpp_2016": 0,
+    "city": "Baramulla",
+    "Total Years Lost": 3295327.7
+  },
+  {
+    "state": "Odisha",
+    "population": 1390381,
+    "weighted_pollution_2016": 36.12,
+    "llpp_who_2016": 2.56,
+    "llpp_2016": 0,
+    "city": "Puri",
+    "Total Years Lost": 3559375.36
+  },
+  {
+    "state": "Nagaland",
+    "population": 159995,
+    "weighted_pollution_2016": 19.74,
+    "llpp_who_2016": 0.95,
+    "llpp_2016": 0,
+    "city": "Zunheboto",
+    "Total Years Lost": 151995.25
+  },
+  {
+    "state": "Andaman and Nicobar",
+    "population": 38094,
+    "weighted_pollution_2016": 5.25,
+    "llpp_who_2016": 0,
+    "llpp_2016": 0,
+    "city": "Nicobar Islands",
+    "Total Years Lost": 0
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 15248,
+    "weighted_pollution_2016": 8.75,
+    "llpp_who_2016": 0,
+    "llpp_2016": 0,
+    "city": "Dibang Valley",
+    "Total Years Lost": 0
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1182028,
+    "weighted_pollution_2016": 35.43,
+    "llpp_who_2016": 2.49,
+    "llpp_2016": 0,
+    "city": "Barwani",
+    "Total Years Lost": 2943249.72
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1914862,
+    "weighted_pollution_2016": 56.8,
+    "llpp_who_2016": 4.59,
+    "llpp_2016": 1.65,
+    "city": "Sonbhadra",
+    "Total Years Lost": 8789216.58
+  },
+  {
+    "state": "Himachal Pradesh",
+    "population": 1064745,
+    "weighted_pollution_2016": 36.03,
+    "llpp_who_2016": 2.55,
+    "llpp_2016": 0.06,
+    "city": "Mandi",
+    "Total Years Lost": 2715099.75
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1554041,
+    "weighted_pollution_2016": 45.24,
+    "llpp_who_2016": 3.45,
+    "llpp_2016": 0.51,
+    "city": "Katni",
+    "Total Years Lost": 5361441.45
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 1712843,
+    "weighted_pollution_2016": 24.69,
+    "llpp_who_2016": 1.44,
+    "llpp_2016": 0,
+    "city": "Pudukkottai",
+    "Total Years Lost": 2466493.92
+  },
+  {
+    "state": "Manipur",
+    "population": 258670,
+    "weighted_pollution_2016": 20.39,
+    "llpp_who_2016": 1.02,
+    "llpp_2016": 0,
+    "city": "Churachandpur",
+    "Total Years Lost": 263843.4
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 3472316,
+    "weighted_pollution_2016": 100.32,
+    "llpp_who_2016": 8.85,
+    "llpp_2016": 5.91,
+    "city": "Gonda",
+    "Total Years Lost": 30729996.6
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 63116,
+    "weighted_pollution_2016": 19.54,
+    "llpp_who_2016": 0.93,
+    "llpp_2016": 0,
+    "city": "Namsai",
+    "Total Years Lost": 58697.88
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2654187,
+    "weighted_pollution_2016": 73.75,
+    "llpp_who_2016": 6.25,
+    "llpp_2016": 3.31,
+    "city": "Mirzapur",
+    "Total Years Lost": 16588668.75
+  },
+  {
+    "state": "Haryana",
+    "population": 1060734,
+    "weighted_pollution_2016": 84.95,
+    "llpp_who_2016": 7.34,
+    "llpp_2016": 4.4,
+    "city": "Kurukshetra",
+    "Total Years Lost": 7785787.56
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 478491,
+    "weighted_pollution_2016": 44.57,
+    "llpp_who_2016": 3.39,
+    "llpp_2016": 0.49,
+    "city": "Gariaband",
+    "Total Years Lost": 1622084.49
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 364940,
+    "weighted_pollution_2016": 36.13,
+    "llpp_who_2016": 2.56,
+    "llpp_2016": 0,
+    "city": "Kulgam",
+    "Total Years Lost": 934246.4
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 418451,
+    "weighted_pollution_2016": 40.76,
+    "llpp_who_2016": 3.01,
+    "llpp_2016": 0.16,
+    "city": "Udhampur",
+    "Total Years Lost": 1259537.51
+  },
+  {
+    "state": "Andhra Pradesh",
+    "population": 3489007,
+    "weighted_pollution_2016": 30.6,
+    "llpp_who_2016": 2.02,
+    "llpp_2016": 0,
+    "city": "Prakasam",
+    "Total Years Lost": 7047794.14
+  },
+  {
+    "state": "Karnataka",
+    "population": 3035210,
+    "weighted_pollution_2016": 23.71,
+    "llpp_who_2016": 1.34,
+    "llpp_2016": 0,
+    "city": "Mysore",
+    "Total Years Lost": 4067181.4
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 269985,
+    "weighted_pollution_2016": 40.5,
+    "llpp_who_2016": 2.99,
+    "llpp_2016": 0.17,
+    "city": "Reasi",
+    "Total Years Lost": 807255.15
+  },
+  {
+    "state": "Chandigarh",
+    "population": 1361397,
+    "weighted_pollution_2016": 70.51,
+    "llpp_who_2016": 5.93,
+    "llpp_2016": 2.99,
+    "city": "Chandigarh",
+    "Total Years Lost": 8073084.21
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2005622,
+    "weighted_pollution_2016": 72.72,
+    "llpp_who_2016": 6.15,
+    "llpp_2016": 3.21,
+    "city": "Banda",
+    "Total Years Lost": 12334575.3
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 331041,
+    "weighted_pollution_2016": 30.72,
+    "llpp_who_2016": 2.03,
+    "llpp_2016": 0,
+    "city": "Sukma",
+    "Total Years Lost": 672013.23
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2031708,
+    "weighted_pollution_2016": 119.6,
+    "llpp_who_2016": 10.74,
+    "llpp_2016": 7.8,
+    "city": "Ghaziabad",
+    "Total Years Lost": 21820543.92
+  },
+  {
+    "state": "Gujarat",
+    "population": 3282358,
+    "weighted_pollution_2016": 24.75,
+    "llpp_who_2016": 1.45,
+    "llpp_2016": 0,
+    "city": "Rajkot",
+    "Total Years Lost": 4759419.1
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 1416779,
+    "weighted_pollution_2016": 51.23,
+    "llpp_who_2016": 4.04,
+    "llpp_2016": 1.1,
+    "city": "Janjgir-Champa",
+    "Total Years Lost": 5723787.16
+  },
+  {
+    "state": "West Bengal",
+    "population": 4058453,
+    "weighted_pollution_2016": 42.51,
+    "llpp_who_2016": 3.19,
+    "llpp_2016": 0.25,
+    "city": "Purba Medinipur",
+    "Total Years Lost": 12946465.07
+  },
+  {
+    "state": "West Bengal",
+    "population": 5746818,
+    "weighted_pollution_2016": 47.31,
+    "llpp_who_2016": 3.66,
+    "llpp_2016": 0.72,
+    "city": "Hugli",
+    "Total Years Lost": 21033353.88
+  },
+  {
+    "state": "Maharashtra",
+    "population": 2952332,
+    "weighted_pollution_2016": 36.84,
+    "llpp_who_2016": 2.63,
+    "llpp_2016": 0.01,
+    "city": "Satara",
+    "Total Years Lost": 7764633.16
+  },
+  {
+    "state": "Jharkhand",
+    "population": 1992190,
+    "weighted_pollution_2016": 58.04,
+    "llpp_who_2016": 4.71,
+    "llpp_2016": 1.77,
+    "city": "Dhanbad",
+    "Total Years Lost": 9383214.9
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 201392,
+    "weighted_pollution_2016": 30.47,
+    "llpp_who_2016": 2.01,
+    "llpp_2016": 0,
+    "city": "Dantewada",
+    "Total Years Lost": 404797.92
+  },
+  {
+    "state": "Telangana",
+    "population": 3594255,
+    "weighted_pollution_2016": 32.54,
+    "llpp_who_2016": 2.21,
+    "llpp_2016": 0,
+    "city": "Nalgonda",
+    "Total Years Lost": 7943303.55
+  },
+  {
+    "state": "Punjab",
+    "population": 823319,
+    "weighted_pollution_2016": 68.4,
+    "llpp_who_2016": 5.72,
+    "llpp_2016": 2.78,
+    "city": "Kapurthala",
+    "Total Years Lost": 4709384.68
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 128637,
+    "weighted_pollution_2016": 15.23,
+    "llpp_who_2016": 0.52,
+    "llpp_2016": 0,
+    "city": "West Siang",
+    "Total Years Lost": 66891.24
+  },
+  {
+    "state": "Puducherry",
+    "population": 8404,
+    "weighted_pollution_2016": 32.08,
+    "llpp_who_2016": 2.16,
+    "llpp_2016": 0,
+    "city": "Yanam",
+    "Total Years Lost": 18152.64
+  },
+  {
+    "state": "Sikkim",
+    "population": 63111,
+    "weighted_pollution_2016": 16.75,
+    "llpp_who_2016": 0.69,
+    "llpp_2016": 0,
+    "city": "North Sikkim",
+    "Total Years Lost": 43546.59
+  },
+  {
+    "state": "Rajasthan",
+    "population": 1432275,
+    "weighted_pollution_2016": 47.78,
+    "llpp_who_2016": 3.7,
+    "llpp_2016": 0.8,
+    "city": "Hanumangarh",
+    "Total Years Lost": 5299417.5
+  },
+  {
+    "state": "Meghalaya",
+    "population": 132165,
+    "weighted_pollution_2016": 35.53,
+    "llpp_who_2016": 2.5,
+    "llpp_2016": 0.07,
+    "city": "South West Khasi Hills",
+    "Total Years Lost": 330412.5
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 116004,
+    "weighted_pollution_2016": 19.15,
+    "llpp_who_2016": 0.9,
+    "llpp_2016": 0,
+    "city": "East Siang",
+    "Total Years Lost": 104403.6
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 4757085,
+    "weighted_pollution_2016": 106.44,
+    "llpp_who_2016": 9.45,
+    "llpp_2016": 6.51,
+    "city": "Lucknow",
+    "Total Years Lost": 44954453.25
+  },
+  {
+    "state": "Jharkhand",
+    "population": 903673,
+    "weighted_pollution_2016": 44.72,
+    "llpp_who_2016": 3.4,
+    "llpp_2016": 0.46,
+    "city": "Gumla",
+    "Total Years Lost": 3072488.2
+  },
+  {
+    "state": "Mizoram",
+    "population": 88353,
+    "weighted_pollution_2016": 29.63,
+    "llpp_who_2016": 1.92,
+    "llpp_2016": 0,
+    "city": "Mamit",
+    "Total Years Lost": 169637.76
+  },
+  {
+    "state": "West Bengal",
+    "population": 1789100,
+    "weighted_pollution_2016": 45.73,
+    "llpp_who_2016": 3.5,
+    "llpp_2016": 0.65,
+    "city": "Darjiling",
+    "Total Years Lost": 6261850
+  },
+  {
+    "state": "Rajasthan",
+    "population": 2097600,
+    "weighted_pollution_2016": 33.92,
+    "llpp_who_2016": 2.34,
+    "llpp_2016": 0.08,
+    "city": "Churu",
+    "Total Years Lost": 4908384
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 477333,
+    "weighted_pollution_2016": 29.41,
+    "llpp_who_2016": 1.9,
+    "llpp_2016": 0,
+    "city": "Perambalur",
+    "Total Years Lost": 906932.7
+  },
+  {
+    "state": "Kerala",
+    "population": 3413845,
+    "weighted_pollution_2016": 14.88,
+    "llpp_who_2016": 0.48,
+    "llpp_2016": 0,
+    "city": "Ernakulam",
+    "Total Years Lost": 1638645.6
+  },
+  {
+    "state": "Goa",
+    "population": 660261,
+    "weighted_pollution_2016": 25.95,
+    "llpp_who_2016": 1.56,
+    "llpp_2016": 0,
+    "city": "North Goa",
+    "Total Years Lost": 1030007.16
+  },
+  {
+    "state": "Gujarat",
+    "population": 1905578,
+    "weighted_pollution_2016": 25.64,
+    "llpp_who_2016": 1.53,
+    "llpp_2016": 0,
+    "city": "Amreli",
+    "Total Years Lost": 2915534.34
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 617903,
+    "weighted_pollution_2016": 37.86,
+    "llpp_who_2016": 2.73,
+    "llpp_2016": 0,
+    "city": "Harda",
+    "Total Years Lost": 1686875.19
+  },
+  {
+    "state": "Jharkhand",
+    "population": 1030901,
+    "weighted_pollution_2016": 57.51,
+    "llpp_who_2016": 4.66,
+    "llpp_2016": 1.72,
+    "city": "Chatra",
+    "Total Years Lost": 4803998.66
+  },
+  {
+    "state": "Bihar",
+    "population": 1667623,
+    "weighted_pollution_2016": 77.26,
+    "llpp_who_2016": 6.59,
+    "llpp_2016": 3.65,
+    "city": "Saharsa",
+    "Total Years Lost": 10989635.57
+  },
+  {
+    "state": "Gujarat",
+    "population": 386567,
+    "weighted_pollution_2016": 28.79,
+    "llpp_who_2016": 1.84,
+    "llpp_2016": 0,
+    "city": "Botad",
+    "Total Years Lost": 711283.28
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1773452,
+    "weighted_pollution_2016": 88.06,
+    "llpp_who_2016": 7.65,
+    "llpp_2016": 4.71,
+    "city": "Bhind",
+    "Total Years Lost": 13566907.8
+  },
+  {
+    "state": "Tripura",
+    "population": 537930,
+    "weighted_pollution_2016": 47.22,
+    "llpp_who_2016": 3.65,
+    "llpp_2016": 0.71,
+    "city": "Khowai",
+    "Total Years Lost": 1963444.5
+  },
+  {
+    "state": "Nagaland",
+    "population": 186426,
+    "weighted_pollution_2016": 19.4,
+    "llpp_who_2016": 0.92,
+    "llpp_2016": 0,
+    "city": "Tuensang",
+    "Total Years Lost": 171511.92
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 3009066,
+    "weighted_pollution_2016": 29.68,
+    "llpp_who_2016": 1.93,
+    "llpp_2016": 0,
+    "city": "Cuddalore",
+    "Total Years Lost": 5807497.38
+  },
+  {
+    "state": "Uttarakhand",
+    "population": 448571,
+    "weighted_pollution_2016": 31.19,
+    "llpp_who_2016": 2.08,
+    "llpp_2016": 0.09,
+    "city": "Tehri Garhwal",
+    "Total Years Lost": 933027.68
+  },
+  {
+    "state": "Gujarat",
+    "population": 370385,
+    "weighted_pollution_2016": 31.8,
+    "llpp_who_2016": 2.14,
+    "llpp_2016": 0,
+    "city": "Narmada",
+    "Total Years Lost": 792623.9
+  },
+  {
+    "state": "Haryana",
+    "population": 1736390,
+    "weighted_pollution_2016": 99.01,
+    "llpp_who_2016": 8.72,
+    "llpp_2016": 5.78,
+    "city": "Gurgaon",
+    "Total Years Lost": 15141320.8
+  },
+  {
+    "state": "Kerala",
+    "population": 3323152,
+    "weighted_pollution_2016": 9.48,
+    "llpp_who_2016": 0,
+    "llpp_2016": 0,
+    "city": "Thiruvananthapuram",
+    "Total Years Lost": 0
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 903451,
+    "weighted_pollution_2016": 43.59,
+    "llpp_who_2016": 3.29,
+    "llpp_2016": 0.38,
+    "city": "Balrampur",
+    "Total Years Lost": 2972353.79
+  },
+  {
+    "state": "Jharkhand",
+    "population": 1958222,
+    "weighted_pollution_2016": 56.11,
+    "llpp_who_2016": 4.52,
+    "llpp_2016": 1.58,
+    "city": "Hazaribagh",
+    "Total Years Lost": 8851163.44
+  },
+  {
+    "state": "Karnataka",
+    "population": 2024292,
+    "weighted_pollution_2016": 31.14,
+    "llpp_who_2016": 2.07,
+    "llpp_2016": 0,
+    "city": "Raichur",
+    "Total Years Lost": 4190284.44
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 4617889,
+    "weighted_pollution_2016": 29.51,
+    "llpp_who_2016": 1.91,
+    "llpp_2016": 0,
+    "city": "Chennai",
+    "Total Years Lost": 8820167.99
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1662572,
+    "weighted_pollution_2016": 78.76,
+    "llpp_who_2016": 6.74,
+    "llpp_2016": 3.8,
+    "city": "Morena",
+    "Total Years Lost": 11205735.28
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2068369,
+    "weighted_pollution_2016": 63.48,
+    "llpp_who_2016": 5.24,
+    "llpp_2016": 2.3,
+    "city": "Jhansi",
+    "Total Years Lost": 10838253.56
+  },
+  {
+    "state": "Maharashtra",
+    "population": 1499483,
+    "weighted_pollution_2016": 47.25,
+    "llpp_who_2016": 3.65,
+    "llpp_2016": 0.71,
+    "city": "Bhandara",
+    "Total Years Lost": 5473112.95
+  },
+  {
+    "state": "West Bengal",
+    "population": 7341043,
+    "weighted_pollution_2016": 47.51,
+    "llpp_who_2016": 3.68,
+    "llpp_2016": 0.74,
+    "city": "Pashchim Medinipur",
+    "Total Years Lost": 27015038.24
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1786347,
+    "weighted_pollution_2016": 112.6,
+    "llpp_who_2016": 10.05,
+    "llpp_2016": 7.11,
+    "city": "Hathras",
+    "Total Years Lost": 17952787.35
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 657254,
+    "weighted_pollution_2016": 47.91,
+    "llpp_who_2016": 3.72,
+    "llpp_2016": 0.78,
+    "city": "Kabeerdham",
+    "Total Years Lost": 2444984.88
+  },
+  {
+    "state": "Punjab",
+    "population": 849169,
+    "weighted_pollution_2016": 72.46,
+    "llpp_who_2016": 6.12,
+    "llpp_2016": 3.18,
+    "city": "Sahibzada Ajit Singh Nagar",
+    "Total Years Lost": 5196914.28
+  },
+  {
+    "state": "Haryana",
+    "population": 1007830,
+    "weighted_pollution_2016": 91,
+    "llpp_who_2016": 7.94,
+    "llpp_2016": 5,
+    "city": "Jhajjar",
+    "Total Years Lost": 8002170.2
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1111594,
+    "weighted_pollution_2016": 124.13,
+    "llpp_who_2016": 11.18,
+    "llpp_2016": 8.24,
+    "city": "Hapur",
+    "Total Years Lost": 12427620.92
+  },
+  {
+    "state": "Meghalaya",
+    "population": 225260,
+    "weighted_pollution_2016": 28.96,
+    "llpp_who_2016": 1.86,
+    "llpp_2016": 0,
+    "city": "Ri Bhoi",
+    "Total Years Lost": 418983.6
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1318426,
+    "weighted_pollution_2016": 46,
+    "llpp_who_2016": 3.53,
+    "llpp_2016": 0.59,
+    "city": "Damoh",
+    "Total Years Lost": 4654043.78
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1658052,
+    "weighted_pollution_2016": 101.52,
+    "llpp_who_2016": 8.97,
+    "llpp_2016": 6.03,
+    "city": "Etawah",
+    "Total Years Lost": 14872726.44
+  },
+  {
+    "state": "Jharkhand",
+    "population": 861342,
+    "weighted_pollution_2016": 49.63,
+    "llpp_who_2016": 3.88,
+    "llpp_2016": 0.95,
+    "city": "Latehar",
+    "Total Years Lost": 3342006.96
+  },
+  {
+    "state": "Rajasthan",
+    "population": 2675881,
+    "weighted_pollution_2016": 23.61,
+    "llpp_who_2016": 1.33,
+    "llpp_2016": 0,
+    "city": "Barmer",
+    "Total Years Lost": 3558921.73
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 2270609,
+    "weighted_pollution_2016": 53.67,
+    "llpp_who_2016": 4.28,
+    "llpp_2016": 1.34,
+    "city": "Satna",
+    "Total Years Lost": 9718206.52
+  },
+  {
+    "state": "Punjab",
+    "population": 885089,
+    "weighted_pollution_2016": 66.54,
+    "llpp_who_2016": 5.54,
+    "llpp_2016": 2.6,
+    "city": "Moga",
+    "Total Years Lost": 4903393.06
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 3394825,
+    "weighted_pollution_2016": 39.57,
+    "llpp_who_2016": 2.9,
+    "llpp_2016": 0,
+    "city": "Indore",
+    "Total Years Lost": 9844992.5
+  },
+  {
+    "state": "Karnataka",
+    "population": 1065058,
+    "weighted_pollution_2016": 26.04,
+    "llpp_who_2016": 1.57,
+    "llpp_2016": 0,
+    "city": "Bangalore Rural",
+    "Total Years Lost": 1672141.06
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 4483636,
+    "weighted_pollution_2016": 101.12,
+    "llpp_who_2016": 8.93,
+    "llpp_2016": 5.99,
+    "city": "Azamgarh",
+    "Total Years Lost": 40038869.48
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 596067,
+    "weighted_pollution_2016": 49.45,
+    "llpp_who_2016": 3.87,
+    "llpp_2016": 0.93,
+    "city": "Mungeli",
+    "Total Years Lost": 2306779.29
+  },
+  {
+    "state": "Bihar",
+    "population": 2933751,
+    "weighted_pollution_2016": 93.19,
+    "llpp_who_2016": 8.15,
+    "llpp_2016": 5.21,
+    "city": "Vaishali",
+    "Total Years Lost": 23910070.65
+  },
+  {
+    "state": "Gujarat",
+    "population": 1981517,
+    "weighted_pollution_2016": 31.59,
+    "llpp_who_2016": 2.12,
+    "llpp_2016": 0,
+    "city": "Mahesana",
+    "Total Years Lost": 4200816.04
+  },
+  {
+    "state": "Rajasthan",
+    "population": 1173899,
+    "weighted_pollution_2016": 47.28,
+    "llpp_who_2016": 3.65,
+    "llpp_2016": 0.71,
+    "city": "Bundi",
+    "Total Years Lost": 4284731.35
+  },
+  {
+    "state": "Haryana",
+    "population": 1830624,
+    "weighted_pollution_2016": 94.51,
+    "llpp_who_2016": 8.28,
+    "llpp_2016": 5.34,
+    "city": "Karnal",
+    "Total Years Lost": 15157566.72
+  },
+  {
+    "state": "Gujarat",
+    "population": 1722151,
+    "weighted_pollution_2016": 35.37,
+    "llpp_who_2016": 2.49,
+    "llpp_2016": 0,
+    "city": "Panch Mahals",
+    "Total Years Lost": 4288155.99
+  },
+  {
+    "state": "Odisha",
+    "population": 1065048,
+    "weighted_pollution_2016": 39.66,
+    "llpp_who_2016": 2.91,
+    "llpp_2016": 0,
+    "city": "Dhenkanal",
+    "Total Years Lost": 3099289.68
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 62765,
+    "weighted_pollution_2016": 13.23,
+    "llpp_who_2016": 0.32,
+    "llpp_2016": 0,
+    "city": "Kurung Kumey",
+    "Total Years Lost": 20084.8
+  },
+  {
+    "state": "Punjab",
+    "population": 3541408,
+    "weighted_pollution_2016": 70.44,
+    "llpp_who_2016": 5.92,
+    "llpp_2016": 2.98,
+    "city": "Ludhiana",
+    "Total Years Lost": 20965135.36
+  },
+  {
+    "state": "Gujarat",
+    "population": 6155702,
+    "weighted_pollution_2016": 32.82,
+    "llpp_who_2016": 2.24,
+    "llpp_2016": 0,
+    "city": "Surat",
+    "Total Years Lost": 13788772.48
+  },
+  {
+    "state": "Andhra Pradesh",
+    "population": 4040799,
+    "weighted_pollution_2016": 33.35,
+    "llpp_who_2016": 2.29,
+    "llpp_2016": 0,
+    "city": "West Godavari",
+    "Total Years Lost": 9253429.71
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 520045,
+    "weighted_pollution_2016": 37.92,
+    "llpp_who_2016": 2.74,
+    "llpp_2016": 0.01,
+    "city": "Pulwama",
+    "Total Years Lost": 1424923.3
+  },
+  {
+    "state": "West Bengal",
+    "population": 8589147,
+    "weighted_pollution_2016": 42.16,
+    "llpp_who_2016": 3.15,
+    "llpp_2016": 0.25,
+    "city": "South 24 Parganas",
+    "Total Years Lost": 27055813.05
+  },
+  {
+    "state": "Bihar",
+    "population": 3553647,
+    "weighted_pollution_2016": 59.67,
+    "llpp_who_2016": 4.87,
+    "llpp_2016": 1.93,
+    "city": "Araria",
+    "Total Years Lost": 17306260.89
+  },
+  {
+    "state": "Jharkhand",
+    "population": 1404135,
+    "weighted_pollution_2016": 61.28,
+    "llpp_who_2016": 5.03,
+    "llpp_2016": 2.09,
+    "city": "Godda",
+    "Total Years Lost": 7062799.05
+  },
+  {
+    "state": "Maharashtra",
+    "population": 1374400,
+    "weighted_pollution_2016": 42.19,
+    "llpp_who_2016": 3.15,
+    "llpp_2016": 0.22,
+    "city": "Wardha",
+    "Total Years Lost": 4329360
+  },
+  {
+    "state": "Karnataka",
+    "population": 1320073,
+    "weighted_pollution_2016": 27.4,
+    "llpp_who_2016": 1.71,
+    "llpp_2016": 0,
+    "city": "Koppal",
+    "Total Years Lost": 2257324.83
+  },
+  {
+    "state": "Rajasthan",
+    "population": 2632247,
+    "weighted_pollution_2016": 86.79,
+    "llpp_who_2016": 7.53,
+    "llpp_2016": 4.59,
+    "city": "Bharatpur",
+    "Total Years Lost": 19820819.91
+  },
+  {
+    "state": "Odisha",
+    "population": 1628318,
+    "weighted_pollution_2016": 40.07,
+    "llpp_who_2016": 2.95,
+    "llpp_2016": 0.02,
+    "city": "Jajapur",
+    "Total Years Lost": 4803538.1
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 51988,
+    "weighted_pollution_2016": 10.59,
+    "llpp_who_2016": 0.07,
+    "llpp_2016": 0,
+    "city": "Tawang",
+    "Total Years Lost": 3639.16
+  },
+  {
+    "state": "Bihar",
+    "population": 4425984,
+    "weighted_pollution_2016": 73.45,
+    "llpp_who_2016": 6.22,
+    "llpp_2016": 3.28,
+    "city": "Gaya",
+    "Total Years Lost": 27529620.48
+  },
+  {
+    "state": "Assam",
+    "population": 1068947,
+    "weighted_pollution_2016": 36.67,
+    "llpp_who_2016": 2.61,
+    "llpp_2016": 0,
+    "city": "Nalbari",
+    "Total Years Lost": 2789951.67
+  },
+  {
+    "state": "Sikkim",
+    "population": 326329,
+    "weighted_pollution_2016": 28.6,
+    "llpp_who_2016": 1.82,
+    "llpp_2016": 0,
+    "city": "East Sikkim",
+    "Total Years Lost": 593918.78
+  },
+  {
+    "state": "Sikkim",
+    "population": 116609,
+    "weighted_pollution_2016": 32.91,
+    "llpp_who_2016": 2.25,
+    "llpp_2016": 0,
+    "city": "South Sikkim",
+    "Total Years Lost": 262370.25
+  },
+  {
+    "state": "Karnataka",
+    "population": 1807900,
+    "weighted_pollution_2016": 32.34,
+    "llpp_who_2016": 2.19,
+    "llpp_2016": 0,
+    "city": "Bijapur",
+    "Total Years Lost": 3959301
+  },
+  {
+    "state": "Bihar",
+    "population": 5069628,
+    "weighted_pollution_2016": 95.23,
+    "llpp_who_2016": 8.35,
+    "llpp_2016": 5.41,
+    "city": "Muzaffarpur",
+    "Total Years Lost": 42331393.8
+  },
+  {
+    "state": "Maharashtra",
+    "population": 3053465,
+    "weighted_pollution_2016": 33.5,
+    "llpp_who_2016": 2.3,
+    "llpp_2016": 0,
+    "city": "Sangli",
+    "Total Years Lost": 7022969.5
+  },
+  {
+    "state": "Gujarat",
+    "population": 227425,
+    "weighted_pollution_2016": 29.32,
+    "llpp_who_2016": 1.89,
+    "llpp_2016": 0,
+    "city": "The Dangs",
+    "Total Years Lost": 429833.25
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 546170,
+    "weighted_pollution_2016": 29.09,
+    "llpp_who_2016": 1.87,
+    "llpp_2016": 0,
+    "city": "Ariyalur",
+    "Total Years Lost": 1021337.9
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 95236,
+    "weighted_pollution_2016": 34.83,
+    "llpp_who_2016": 2.43,
+    "llpp_2016": 0,
+    "city": "Narayanpur",
+    "Total Years Lost": 231423.48
+  },
+  {
+    "state": "Haryana",
+    "population": 968048,
+    "weighted_pollution_2016": 88.41,
+    "llpp_who_2016": 7.68,
+    "llpp_2016": 4.74,
+    "city": "Mewat",
+    "Total Years Lost": 7434608.64
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "population": 81597,
+    "weighted_pollution_2016": 19.22,
+    "llpp_who_2016": 0.9,
+    "llpp_2016": 0,
+    "city": "East Kameng",
+    "Total Years Lost": 73437.3
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 975982,
+    "weighted_pollution_2016": 41.42,
+    "llpp_who_2016": 3.08,
+    "llpp_2016": 0.15,
+    "city": "Jashpur",
+    "Total Years Lost": 3006024.56
+  },
+  {
+    "state": "Karnataka",
+    "population": 2385635,
+    "weighted_pollution_2016": 23.64,
+    "llpp_who_2016": 1.34,
+    "llpp_2016": 0,
+    "city": "Davanagere",
+    "Total Years Lost": 3196750.9
+  },
+  {
+    "state": "Himachal Pradesh",
+    "population": 368682,
+    "weighted_pollution_2016": 48.26,
+    "llpp_who_2016": 3.75,
+    "llpp_2016": 0.81,
+    "city": "Bilaspur",
+    "Total Years Lost": 1382557.5
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 4203449,
+    "weighted_pollution_2016": 105.97,
+    "llpp_who_2016": 9.4,
+    "llpp_2016": 6.46,
+    "city": "Hardoi",
+    "Total Years Lost": 39512420.6
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 3203713,
+    "weighted_pollution_2016": 115.91,
+    "llpp_who_2016": 10.38,
+    "llpp_2016": 7.44,
+    "city": "Budaun",
+    "Total Years Lost": 33254540.94
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2973601,
+    "weighted_pollution_2016": 103.6,
+    "llpp_who_2016": 9.17,
+    "llpp_2016": 6.23,
+    "city": "Muzaffarnagar",
+    "Total Years Lost": 27267921.17
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 1747341,
+    "weighted_pollution_2016": 43.54,
+    "llpp_who_2016": 3.29,
+    "llpp_2016": 0.35,
+    "city": "Balaghat",
+    "Total Years Lost": 5748751.89
+  },
+  {
+    "state": "Gujarat",
+    "population": 1083640,
+    "weighted_pollution_2016": 31.17,
+    "llpp_who_2016": 2.07,
+    "llpp_2016": 0,
+    "city": "Tapi",
+    "Total Years Lost": 2243134.8
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 2511152,
+    "weighted_pollution_2016": 27.93,
+    "llpp_who_2016": 1.76,
+    "llpp_2016": 0,
+    "city": "Tiruchirappalli",
+    "Total Years Lost": 4419627.52
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 783341,
+    "weighted_pollution_2016": 34.65,
+    "llpp_who_2016": 2.42,
+    "llpp_2016": 0,
+    "city": "Anantnag",
+    "Total Years Lost": 1895685.22
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 371470,
+    "weighted_pollution_2016": 35.66,
+    "llpp_who_2016": 2.51,
+    "llpp_2016": 0,
+    "city": "Poonch",
+    "Total Years Lost": 932389.7
+  },
+  {
+    "state": "West Bengal",
+    "population": 3039039,
+    "weighted_pollution_2016": 56.29,
+    "llpp_who_2016": 4.54,
+    "llpp_2016": 1.6,
+    "city": "Puruliya",
+    "Total Years Lost": 13797237.06
+  },
+  {
+    "state": "Haryana",
+    "population": 1137142,
+    "weighted_pollution_2016": 59.82,
+    "llpp_who_2016": 4.88,
+    "llpp_2016": 1.94,
+    "city": "Mahendragarh",
+    "Total Years Lost": 5549252.96
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1344694,
+    "weighted_pollution_2016": 115.95,
+    "llpp_who_2016": 10.38,
+    "llpp_2016": 7.44,
+    "city": "Baghpat",
+    "Total Years Lost": 13957923.72
+  },
+  {
+    "state": "Bihar",
+    "population": 1870568,
+    "weighted_pollution_2016": 53.34,
+    "llpp_who_2016": 4.25,
+    "llpp_2016": 1.31,
+    "city": "Kishanganj",
+    "Total Years Lost": 7949914
+  },
+  {
+    "state": "Tripura",
+    "population": 310217,
+    "weighted_pollution_2016": 42.25,
+    "llpp_who_2016": 3.16,
+    "llpp_2016": 0.25,
+    "city": "Dhalai",
+    "Total Years Lost": 980285.72
+  },
+  {
+    "state": "Jharkhand",
+    "population": 1737106,
+    "weighted_pollution_2016": 58.78,
+    "llpp_who_2016": 4.78,
+    "llpp_2016": 1.84,
+    "city": "Palamu",
+    "Total Years Lost": 8303366.68
+  },
+  {
+    "state": "Karnataka",
+    "population": 1768561,
+    "weighted_pollution_2016": 24.54,
+    "llpp_who_2016": 1.42,
+    "llpp_2016": 0,
+    "city": "Dharwad",
+    "Total Years Lost": 2511356.62
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2448924,
+    "weighted_pollution_2016": 97.83,
+    "llpp_who_2016": 8.61,
+    "llpp_2016": 5.67,
+    "city": "Rae Bareli",
+    "Total Years Lost": 21085235.64
+  },
+  {
+    "state": "Meghalaya",
+    "population": 153577,
+    "weighted_pollution_2016": 36.18,
+    "llpp_who_2016": 2.57,
+    "llpp_2016": 0,
+    "city": "East Garo Hills",
+    "Total Years Lost": 394692.89
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 2158602,
+    "weighted_pollution_2016": 37.01,
+    "llpp_who_2016": 2.65,
+    "llpp_2016": 0,
+    "city": "Chhindwara",
+    "Total Years Lost": 5720295.3
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 2287842,
+    "weighted_pollution_2016": 83.41,
+    "llpp_who_2016": 7.19,
+    "llpp_2016": 4.25,
+    "city": "Balrampur",
+    "Total Years Lost": 16449583.98
+  },
+  {
+    "state": "Mizoram",
+    "population": 151426,
+    "weighted_pollution_2016": 18.29,
+    "llpp_who_2016": 0.81,
+    "llpp_2016": 0,
+    "city": "Champhai",
+    "Total Years Lost": 122655.06
+  },
+  {
+    "state": "Rajasthan",
+    "population": 1311065,
+    "weighted_pollution_2016": 57.62,
+    "llpp_who_2016": 4.67,
+    "llpp_2016": 1.73,
+    "city": "Sawai Madhopur",
+    "Total Years Lost": 6122673.55
+  },
+  {
+    "state": "Himachal Pradesh",
+    "population": 89674,
+    "weighted_pollution_2016": 12.1,
+    "llpp_who_2016": 0.26,
+    "llpp_2016": 0,
+    "city": "Kinnaur",
+    "Total Years Lost": 23315.24
+  },
+  {
+    "state": "Uttar Pradesh",
+    "population": 1294212,
+    "weighted_pollution_2016": 102.59,
+    "llpp_who_2016": 9.07,
+    "llpp_2016": 6.13,
+    "city": "Shamli",
+    "Total Years Lost": 11738502.84
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 696438,
+    "weighted_pollution_2016": 39.29,
+    "llpp_who_2016": 2.87,
+    "llpp_2016": 0.01,
+    "city": "Dindori",
+    "Total Years Lost": 1998777.06
+  },
+  {
+    "state": "Karnataka",
+    "population": 1280397,
+    "weighted_pollution_2016": 25.55,
+    "llpp_who_2016": 1.52,
+    "llpp_2016": 0,
+    "city": "Chikballapura",
+    "Total Years Lost": 1946203.44
+  },
+  {
+    "state": "Maharashtra",
+    "population": 1931329,
+    "weighted_pollution_2016": 40.68,
+    "llpp_who_2016": 3.01,
+    "llpp_2016": 0.08,
+    "city": "Akola",
+    "Total Years Lost": 5813300.29
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 2551871,
+    "weighted_pollution_2016": 26.65,
+    "llpp_who_2016": 1.63,
+    "llpp_2016": 0,
+    "city": "Thanjavur",
+    "Total Years Lost": 4159549.73
+  },
+  {
+    "state": "Gujarat",
+    "population": 2174019,
+    "weighted_pollution_2016": 29.62,
+    "llpp_who_2016": 1.92,
+    "llpp_2016": 0,
+    "city": "Bhavnagar",
+    "Total Years Lost": 4174116.48
+  },
+  {
+    "state": "Odisha",
+    "population": 642825,
+    "weighted_pollution_2016": 29.74,
+    "llpp_who_2016": 1.93,
+    "llpp_2016": 0,
+    "city": "Malkangiri",
+    "Total Years Lost": 1240652.25
+  },
+  {
+    "state": "Mizoram",
+    "population": 87733,
+    "weighted_pollution_2016": 23.52,
+    "llpp_who_2016": 1.32,
+    "llpp_2016": 0,
+    "city": "Lawangtlai",
+    "Total Years Lost": 115807.56
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 877393,
+    "weighted_pollution_2016": 47.19,
+    "llpp_who_2016": 3.64,
+    "llpp_2016": 0.7,
+    "city": "Ashoknagar",
+    "Total Years Lost": 3193710.52
+  },
+  {
+    "state": "Karnataka",
+    "population": 1496298,
+    "weighted_pollution_2016": 23,
+    "llpp_who_2016": 1.27,
+    "llpp_2016": 0,
+    "city": "Haveri",
+    "Total Years Lost": 1900298.46
+  },
+  {
+    "state": "Bihar",
+    "population": 4029889,
+    "weighted_pollution_2016": 84.56,
+    "llpp_who_2016": 7.31,
+    "llpp_2016": 4.37,
+    "city": "Darbhanga",
+    "Total Years Lost": 29458488.59
+  },
+  {
+    "state": "Punjab",
+    "population": 1218691,
+    "weighted_pollution_2016": 64.56,
+    "llpp_who_2016": 5.35,
+    "llpp_2016": 2.41,
+    "city": "Tarn Taran",
+    "Total Years Lost": 6519996.85
+  },
+  {
+    "state": "Chhattisgarh",
+    "population": 2129089,
+    "weighted_pollution_2016": 61.71,
+    "llpp_who_2016": 5.07,
+    "llpp_2016": 2.13,
+    "city": "Durg",
+    "Total Years Lost": 10794481.23
+  },
+  {
+    "state": "Bihar",
+    "population": 3761667,
+    "weighted_pollution_2016": 81.68,
+    "llpp_who_2016": 7.03,
+    "llpp_2016": 4.09,
+    "city": "Sitamarhi",
+    "Total Years Lost": 26444519.01
+  },
+  {
+    "state": "Gujarat",
+    "population": 1266199,
+    "weighted_pollution_2016": 35.43,
+    "llpp_who_2016": 2.49,
+    "llpp_2016": 0,
+    "city": "Mahisagar",
+    "Total Years Lost": 3152835.51
+  },
+  {
+    "state": "Assam",
+    "population": 1627362,
+    "weighted_pollution_2016": 41.64,
+    "llpp_who_2016": 3.1,
+    "llpp_2016": 0.22,
+    "city": "Kokrajhar",
+    "Total Years Lost": 5044822.2
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 998249,
+    "weighted_pollution_2016": 34.08,
+    "llpp_who_2016": 2.36,
+    "llpp_2016": 0,
+    "city": "Jhabua",
+    "Total Years Lost": 2355867.64
+  },
+  {
+    "state": "Telangana",
+    "population": 5463767,
+    "weighted_pollution_2016": 33.5,
+    "llpp_who_2016": 2.3,
+    "llpp_2016": 0,
+    "city": "Ranga Reddy",
+    "Total Years Lost": 12566664.1
+  },
+  {
+    "state": "Jharkhand",
+    "population": 1574405,
+    "weighted_pollution_2016": 48.24,
+    "llpp_who_2016": 3.75,
+    "llpp_2016": 0.81,
+    "city": "Pashchimi Singhbhum",
+    "Total Years Lost": 5904018.75
+  },
+  {
+    "state": "Madhya Pradesh",
+    "population": 934185,
+    "weighted_pollution_2016": 69.04,
+    "llpp_who_2016": 5.79,
+    "llpp_2016": 2.85,
+    "city": "Datia",
+    "Total Years Lost": 5408931.15
+  },
+  {
+    "state": "Nagaland",
+    "population": 212814,
+    "weighted_pollution_2016": 20.71,
+    "llpp_who_2016": 1.05,
+    "llpp_2016": 0,
+    "city": "Mon",
+    "Total Years Lost": 223454.7
+  },
+  {
+    "state": "Odisha",
+    "population": 556192,
+    "weighted_pollution_2016": 41.76,
+    "llpp_who_2016": 3.11,
+    "llpp_2016": 0.17,
+    "city": "Subarnapur",
+    "Total Years Lost": 1729757.12
+  },
+  {
+    "state": "Karnataka",
+    "population": 1423708,
+    "weighted_pollution_2016": 21.25,
+    "llpp_who_2016": 1.1,
+    "llpp_2016": 0,
+    "city": "Udupi",
+    "Total Years Lost": 1566078.8
+  },
+  {
+    "state": "West Bengal",
+    "population": 5060441,
+    "weighted_pollution_2016": 45.05,
+    "llpp_who_2016": 3.43,
+    "llpp_2016": 0.49,
+    "city": "Haora",
+    "Total Years Lost": 17357312.63
+  },
+  {
+    "state": "Kerala",
+    "population": 837352,
+    "weighted_pollution_2016": 20.38,
+    "llpp_who_2016": 1.02,
+    "llpp_2016": 0,
+    "city": "Wayanad",
+    "Total Years Lost": 854099.04
+  },
+  {
+    "state": "Karnataka",
+    "population": 9852302,
+    "weighted_pollution_2016": 26.99,
+    "llpp_who_2016": 1.67,
+    "llpp_2016": 0,
+    "city": "Bangalore",
+    "Total Years Lost": 16453344.34
+  },
+  {
+    "state": "Jharkhand",
+    "population": 2550227,
+    "weighted_pollution_2016": 57.44,
+    "llpp_who_2016": 4.65,
+    "llpp_2016": 1.71,
+    "city": "Giridih",
+    "Total Years Lost": 11858555.55
+  },
+  {
+    "state": "Maharashtra",
+    "population": 1730870,
+    "weighted_pollution_2016": 38.51,
+    "llpp_who_2016": 2.79,
+    "llpp_2016": 0,
+    "city": "Osmanabad",
+    "Total Years Lost": 4829127.3
+  },
+  {
+    "state": "Jharkhand",
+    "population": 2892656,
+    "weighted_pollution_2016": 59.39,
+    "llpp_who_2016": 4.84,
+    "llpp_2016": 1.9,
+    "city": "Bokaro",
+    "Total Years Lost": 14000455.04
+  },
+  {
+    "state": "Tripura",
+    "population": 364148,
+    "weighted_pollution_2016": 46.46,
+    "llpp_who_2016": 3.57,
+    "llpp_2016": 0.63,
+    "city": "South Tripura",
+    "Total Years Lost": 1300008.36
+  },
+  {
+    "state": "Assam",
+    "population": 216985,
+    "weighted_pollution_2016": 24.95,
+    "llpp_who_2016": 1.47,
+    "llpp_2016": 0,
+    "city": "Dima Hasao",
+    "Total Years Lost": 318967.95
+  },
+  {
+    "state": "West Bengal",
+    "population": 10341297,
+    "weighted_pollution_2016": 44.73,
+    "llpp_who_2016": 3.4,
+    "llpp_2016": 0.47,
+    "city": "North 24 Parganas",
+    "Total Years Lost": 35160409.8
+  },
+  {
+    "state": "Tamil Nadu",
+    "population": 3063979,
+    "weighted_pollution_2016": 28.16,
+    "llpp_who_2016": 1.78,
+    "llpp_2016": 0,
+    "city": "Salem",
+    "Total Years Lost": 5453882.62
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "population": 4620035,
+    "weighted_pollution_2016": 31.26,
+    "llpp_who_2016": 2.0899999,
+    "llpp_2016": 1.66,
+    "city": "Pakistan-Occupied Kashmir",
+    "Total Years Lost": 9655872.688
+  }
+]

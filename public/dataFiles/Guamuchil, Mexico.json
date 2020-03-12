@@ -1,0 +1,15 @@
+{
+  "city_ASCII": "Guamuchil",
+  "country": "Mexico",
+  "region": "Sinaloa",
+  "latitude": "25.4587",
+  "longitude": "-108.0773",
+  "data": [
+    {
+      "dayNo": 290,
+      "min": 4.3,
+      "max": 4.1,
+      "avg": 4.1
+    }
+  ]
+}

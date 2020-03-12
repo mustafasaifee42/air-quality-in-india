@@ -1,0 +1,15 @@
+{
+  "city_ASCII": "Ciudad Obregon",
+  "country": "Mexico",
+  "region": "Sonora",
+  "latitude": "27.4864",
+  "longitude": "-109.9408",
+  "data": [
+    {
+      "dayNo": 290,
+      "min": 4.7,
+      "max": 4.5,
+      "avg": null
+    }
+  ]
+}
