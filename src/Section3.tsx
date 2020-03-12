@@ -72,6 +72,14 @@ const Header: React.FunctionComponent<{windowWidthValue:number}>  = (props) =>{
       total[0]['value'] = total[0]['value'] + d.population
     }
   })
+  console.log(total)
+  let totalPopulation = 0,intPopulation = 0
+  total.forEach((el:{value:number},i:number) => {
+    totalPopulation = totalPopulation  + el.value;
+    if(i > 5)
+      intPopulation = intPopulation + el.value
+  })
+  console.log(totalPopulation,intPopulation, intPopulation * 100 / totalPopulation)
   const [ mapSelection , setMapSelection ] = useState('cartogram')
   let map = <CartoGram 
     width={680}
@@ -112,6 +120,7 @@ const Header: React.FunctionComponent<{windowWidthValue:number}>  = (props) =>{
           <br />
           <span className='italics'>AQLI measures the potential gain in life expectancy if the reduced air pollution to comply with the World Health Organization guideline <span className="bold">(PM 2.5 concentrations: {`<`} 10 µg/m3)</span>.</span>
           <div className='quote red'>Particulate pollution reduces the life expectancy of a typical Indian by <span className="bold">4.3 years</span></div>
+          <div className='quote red'><span className="bold">{(intPopulation * 100 / totalPopulation).toFixed(1)}% (around 1 in 3)</span> people live alteast 5 yrs less because of pollution</div>
           Since life expectancy at birth is currently 69 years in India, this suggests that reducing particulate pollution to the WHO guideline throughout the country would raise the average life expectancy to 73 (accroding to the data from 2016).  
           <br />
           <br/>
