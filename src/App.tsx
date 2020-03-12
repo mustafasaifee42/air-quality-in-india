@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-//import ReactGA from 'react-ga';
+import ReactGA from 'react-ga';
 import Header from './Header';
 import Footer from './Footer';
 import Content from './Content';
@@ -11,6 +11,11 @@ import Section4 from './Section4';
 import Section5 from './Section5';
 import './declare_modules.d.ts';
 import './css/style.css';
+
+
+ReactGA.initialize('UA-160446912-1');
+ReactGA.set({ anonymizeIp: true });
+ReactGA.pageview('/');
 
 const App = () => {
   const [ windowWidthValue, setWindowWidthValue ] = useState(window.innerWidth)
