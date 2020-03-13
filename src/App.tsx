@@ -34,7 +34,7 @@ const App = () => {
         editDate={'Mar. 2020'}
       />
       <Content 
-        contentList={['Introduction','Air Quality in India','Human Cost of Air Pollution','Impact of Air Pollution on Life Expectancy','Economic Cost of Air Pollution','Conclusion']}
+        contentList={['Introduction','Air Quality in India','Human Cost of Air Pollution','Impact on Life Expectancy','Economic Cost of Air Pollution','Conclusion']}
         contentID={['Intro','Section1','Section2','Section3','Section4','Section5']}
       />
       <Introduction />

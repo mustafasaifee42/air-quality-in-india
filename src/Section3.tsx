@@ -112,7 +112,7 @@ const Header: React.FunctionComponent<{windowWidthValue:number}>  = (props) =>{
     <div>
       <div className="container section" id='Section3'>
         <div className='section-title'>
-          Impact of Air Pollution on Life Expectancy
+          Impact on Life Expectancy
         </div>
         <div className='content'>
           Majority of the death caused by air pollution are caused because of the excess exposure to particulate matter. Excess exposure to PM2.5 adversely effects life expectancy. Produced by the Energy Policy Institute at the University of Chicago (EPIC), <a href="https://aqli.epic.uchicago.edu/" rel="noopener noreferrer" target="_blank">Air Quality Life Index (AQLI)</a> converts air pollution concentrations into its impact on life expectancy. 
