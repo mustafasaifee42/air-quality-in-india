@@ -37,7 +37,7 @@ let createGraph = (props:{ width:number , height:number , radius:number , keyPos
     .attr('font-size',14)
     .attr('font-family','IBM Plex Sans')
     .text((d:string,i:number) => {
-      return `${d} (est. ${props.value[i]} deaths)`
+      return `${d} (est. ${(props.value[i]/ 1000000).toFixed(2)} Mil deaths)`
     })
   donutG.append('text')
     .attr("x",0)

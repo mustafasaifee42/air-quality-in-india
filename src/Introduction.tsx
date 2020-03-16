@@ -9,7 +9,7 @@ const Header: React.FunctionComponent<{}> = () => {
           Introduction
         </div>
         <div className='content'>
-          Breathing is one of the most vital process for life. In a lifetime, an average human breaths about 250 million litres of air. We live in big cities and navigate the busy streets while breathing in air full of unwanted particles. 
+          Breathing is one of the most vital process for life. In a lifetime, an average human breaths about 250 million litres of air. We live in big cities and navigate busy streets while breathing in air full of unwanted particles. 
           <br />
           <br />
           Today, air pollution is one of the world’s largest health and environmental problems. Air pollution is categorized in 2 categories
@@ -18,13 +18,13 @@ const Header: React.FunctionComponent<{}> = () => {
             <li>Outdoor air pollution</li>
           </ol>
           <br />
-          <span className='italics'>In this report we look in detail at the effect on outdoor particulate pollution (mainly PM2.5)</span>
+          <span className='italics'>In this report, we look in detail at the effects of outdoor particulate pollution (mainly PM 2.5)</span>
           <br />
           <br />
-          PM2.5 refers to atmospheric particulate matter (PM) that have a diameter of less than 2.5 micrometers, which is about 3% the diameter of a human hair. Because of its small size  PM2.5 are able to enter into the lungs and even the circulatory system. 
+          PM 2.5 refers to atmospheric Particulate Matter (PM) that have a diameter of less than 2.5 micrometers, which is about 3% the diameter of a human hair. Because of its small size, PM 2.5 are able to enter into the lungs and even the circulatory system. 
           <br />
           <br />
-          <span className='bold'> <a href='https://www.epa.gov/' rel="noopener noreferrer" target='_blank'>US Environmental Protection Agency</a> stipulates that for good quality air the PM2.5 concentation must be less than 12μg/m3 averaged over 24 hours</span> [<a href="https://www.epa.gov/sites/production/files/2016-04/documents/2012_aqi_factsheet.pdf" rel="noopener noreferrer" target='_blank'>source here</a>]. 
+          <span className='bold'> <a href='https://www.epa.gov/' rel="noopener noreferrer" target='_blank'>US Environmental Protection Agency</a> stipulates that for good quality air, PM 2.5 concentation must be less than 12μg/m3 averaged over 24 hours</span> [<a href="https://www.epa.gov/sites/production/files/2016-04/documents/2012_aqi_factsheet.pdf" rel="noopener noreferrer" target='_blank'>source here</a>]. 
           <div className='table'>
             <div className='tableRow'>
               <div className='bold thin cell good'>Good</div>

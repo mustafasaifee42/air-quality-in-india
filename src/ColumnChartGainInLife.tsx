@@ -66,7 +66,7 @@ class ProjectCards extends Component <{ width:number , height:number ,  padding:
     let textAxis = tickValue.map((d:number,i:number) => {
       let txt  = `${(d / 1000000)} M`
       if(i === 6)
-        txt = `${(d / 1000000)} Millions of people`
+        txt = `${(d / 1000000)} Million people`
       return ( 
         <text 
           key={i}
@@ -82,7 +82,7 @@ class ProjectCards extends Component <{ width:number , height:number ,  padding:
     })
     return (
       <div className='barChart'>
-        <div className='graphTitle'>Extend of the affect of air pollution on life expectancy in India</div>
+        <div className='graphTitle'>Extent of the effect of air pollution on life expectancy in India</div>
         <svg width={this.props.width  + this.props.padding / 2} height={this.props.height + 50} ref={node => this.node = node} >
           
           <text 

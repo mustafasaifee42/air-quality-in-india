@@ -63,7 +63,7 @@ const Section1: React.FunctionComponent<{windowWidthValue:number}>  = (props) =>
           Air pollution is amongst the top threats to global health, World Health Organization has said [<a href="https://www.who.int/news-room/feature-stories/ten-threats-to-global-health-in-2019" rel="noopener noreferrer" target="_blank">source here</a>]. India has one of the highest exposure levels to air pollution globally. In 2018, India was the <span className="bold">3rd</span> most polluted country in the world [<a href='https://www.airvisual.com/world-most-polluted-countries' rel="noopener noreferrer" target="_blank">source here</a>]. The annual exposure to ambient particulate matter, as the population-weighted mean PM2·5, in India in 2017 was one of the highest in the world [<a href="https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(18)30261-4/fulltext" target="_blank" rel="noopener noreferrer" >source here</a>].
           <br />
           <div className='quote red'>Delhi (with population over 26 million) is the most polluted national capital in the world.</div>
-          Delhi (with population over 26 million) is the most polluted national capital in the world. On 3rd Nov. 2019 (the most polluted day of year) the 24-hr (daily) average ambient concentrations of PM 2.5 reached 538.8 µg/m3 (more than {Math.floor(539/12)} times than the acceptable standards). 
+          Delhi (with population over 26 million) is the most polluted national capital in the world. On 3rd Nov. 2019 (the most polluted day of year), the 24-hr (daily) average ambient concentrations of PM 2.5 reached 538.8 µg/m3 (more than {Math.floor(539/12)} times than the acceptable standards). 
           <br />
           <br />
         </div>
@@ -98,7 +98,7 @@ const Section1: React.FunctionComponent<{windowWidthValue:number}>  = (props) =>
         />
       </div>
       <div className="container">
-        October-November, was the worst period of air quality for 2019 in the Indian capital. The supreme court of India also slammed some state and centre government for its failure to improve air quality in Delhi NCR and said <span className='italics'>‘Delhi is worse than hell’</span> [<a href="https://www.hindustantimes.com/india-news/get-15-explosives-kill-people-at-one-go-sc-rebukes-centre-states-on-pollution/story-zv7hFJDndV2rlrfwvXz3rK.html" rel="noopener noreferrer" target="_blank">source here</a>].
+        October-November was the worst period of air quality for 2019 in the Indian capital. The supreme court of India also slammed some state and central government for its failure to improve air quality in Delhi NCR and said <span className='italics'>‘Delhi is worse than hell’</span> [<a href="https://www.hindustantimes.com/india-news/get-15-explosives-kill-people-at-one-go-sc-rebukes-centre-states-on-pollution/story-zv7hFJDndV2rlrfwvXz3rK.html" rel="noopener noreferrer" target="_blank">source here</a>].
         <br />
         <br />
       </div>
