@@ -64,6 +64,13 @@ a:hover{
   font-family: 'IBM Plex Sans', sans-serif;
 }
 
+.graphSubnote{
+  font-size: 16px;
+  font-style: italic;
+  color:#aaa;
+
+}
+
 .subnote{
   font-size: 16px;
 }

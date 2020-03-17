@@ -122,7 +122,7 @@ class ProjectCards extends Component <{ width:number , height:number ,  padding:
     })
     return (
       <div className='barChart'>
-        <div className='graphTitle'>Death rate because of air pollution per 100,000 in India in 2017</div>
+        <div className='graphTitle'>Death rate because of air pollution per 100,000 in India in 2017 <span className="graphSubnote">(estimates with 95% uncertainty intervals)</span></div>
         <svg width={this.props.width  + this.props.padding / 2} height={this.props.height + 20} ref={node => this.node = node} >
           {axisLine}
           {textAxis}
