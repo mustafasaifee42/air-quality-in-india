@@ -127,7 +127,7 @@ export class Particles extends Component <{ fileName:string , height:number , wi
       .attr('fill', '#333')
       .attr('font-family','IBM Plex Sans')
       .attr('font-size',14)
-      .text(`No. of days with unhealthy PM 2.5 levels`);
+      .text(`No. of days with unhealthy PM2.5 levels`);
     g.append('text')
       .attr('x', this.props.leftPadding + 255)
       .attr('y', 100)
