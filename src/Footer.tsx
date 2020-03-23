@@ -10,7 +10,7 @@ const Header: React.FunctionComponent<{
 }> = (props) => {
   return (
     <div className="footer">
-      <div className='email'>Please email me at <a href="mailto:saifee.mustafa@gmail.com" target="_blank" rel="noopener noreferrer">saifee.mustafa@gmail.com</a> or connect on <a href="https://twitter.com/mustafasaifee42" target="_blank" rel="noopener noreferrer">twitter</a> for suggestions or queries. For other projects: visit <a href="https://mustafasaifee.netlify.com/" target="_blank" rel="noopener noreferrer">www.mustafasaifee.netlify.com</a></div>
+      <div className='email'>Please email me at <a href="mailto:saifee.mustafa@gmail.com" target="_blank" rel="noopener noreferrer">saifee.mustafa@gmail.com</a> or connect on <a href="https://twitter.com/mustafasaifee42" target="_blank" rel="noopener noreferrer">twitter</a> for suggestions or queries. For other projects: visit <a href="https://mustafasaifee.com/" target="_blank" rel="noopener noreferrer">www.mustafasaifee.com</a></div>
       <div className='share'>
         <span className='footer-start'>You got all the way down here, consider sharing the <span aria-label="love-emoji" role="img">💖</span></span>
         <div className='icons'>
