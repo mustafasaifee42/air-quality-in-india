@@ -27,9 +27,9 @@ const App = () => {
       <Header
         title='Every breath we take!'
         subTitle='Effects of the air pollution on the lives of people in India'
-        url='https://air-quality-in-india.netlify.com/'
+        url='https://air-quality-in-india.mustafasaifee.com'
         fbQuotes='Every breath we take: Effects of the air pollution on the lives of people in India'
-        twitterQuotes='Every breath we take: Effects of the air pollution on the lives of people in India https://air-quality-in-india.netlify.com/ via @mustafasaifee42'
+        twitterQuotes='Every breath we take: Effects of the air pollution on the lives of people in India https://air-quality-in-india.mustafasaifee.com via @mustafasaifee42'
         readingTime={[12,15]}
         editDate={'Mar. 2020'}
       />
@@ -50,9 +50,9 @@ const App = () => {
       <Section4 />
       <Section5 />
       <Footer
-        url='https://air-quality-in-india.netlify.com/'
+        url='https://air-quality-in-india.mustafasaifee.com'
         fbQuotes='Every breath we take: Effects of the air pollution on the lives of people in India'
-        twitterQuotes='Every breath we take: Effects of the air pollution on the lives of people in India https://air-quality-in-india.netlify.com/ via @mustafasaifee42'
+        twitterQuotes='Every breath we take: Effects of the air pollution on the lives of people in India https://air-quality-in-india.mustafasaifee.com via @mustafasaifee42'
       />
     </div>
   );
