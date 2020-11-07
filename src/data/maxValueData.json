@@ -20,6 +20,21 @@
       "max_val_date": "2019-01-20"
     },
     {
+      "city": "Beijing, China",
+      "max_val": 153.3,
+      "max_val_date": "2019-12-09"
+    },
+    {
+      "city": "Shanghai, China",
+      "max_val": 136.0,
+      "max_val_date": "2019-02-23"
+    },
+    {
+      "city": "New York City, United States of America",
+      "max_val": 23.7,
+      "max_val_date": "2019-02-03"
+    },
+    {
       "city": "Shkoder, Albania",
       "max_val": 63.7,
       "max_val_date": "2019-01-20"
